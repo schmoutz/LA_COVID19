@@ -1,0 +1,6271 @@
+region,parish,cases_cumul,date
+4,Acadia,,3/14/2020
+4,Acadia,,3/15/2020
+4,Acadia,,3/16/2020
+4,Acadia,,3/17/2020
+4,Acadia,,3/18/2020
+4,Acadia,,3/19/2020
+4,Acadia,,3/20/2020
+4,Acadia,,3/21/2020
+4,Acadia,1,3/22/2020
+4,Acadia,1,3/23/2020
+4,Acadia,2,3/24/2020
+4,Acadia,2,3/25/2020
+4,Acadia,4,3/26/2020
+4,Acadia,8,3/27/2020
+4,Acadia,9,3/28/2020
+4,Acadia,9,3/29/2020
+4,Acadia,11,3/30/2020
+4,Acadia,39,3/31/2020
+4,Acadia,47,4/1/2020
+4,Acadia,61,4/2/2020
+4,Acadia,72,4/3/2020
+4,Acadia,65,4/4/2020
+4,Acadia,75,4/5/2020
+4,Acadia,79,4/6/2020
+4,Acadia,82,4/7/2020
+4,Acadia,86,4/8/2020
+4,Acadia,89,4/9/2020
+4,Acadia,94,4/10/2020
+4,Acadia,98,4/11/2020
+4,Acadia,99,4/12/2020
+4,Acadia,101,4/13/2020
+4,Acadia,104,4/14/2020
+4,Acadia,105,4/15/2020
+4,Acadia,108,4/16/2020
+4,Acadia,110,4/17/2020
+4,Acadia,110,4/18/2020
+4,Acadia,110,4/19/2020
+4,Acadia,114,4/20/2020
+4,Acadia,114,4/21/2020
+4,Acadia,117,4/22/2020
+4,Acadia,117,4/23/2020
+4,Acadia,129,4/24/2020
+4,Acadia,130,4/25/2020
+4,Acadia,130,4/26/2020
+4,Acadia,130,4/27/2020
+4,Acadia,130,4/28/2020
+4,Acadia,130,4/29/2020
+4,Acadia,130,4/30/2020
+4,Acadia,133,5/1/2020
+4,Acadia,133,5/2/2020
+4,Acadia,134,5/3/2020
+4,Acadia,134,5/4/2020
+4,Acadia,136,5/5/2020
+4,Acadia,140,5/6/2020
+4,Acadia,142,5/7/2020
+4,Acadia,142,5/8/2020
+4,Acadia,151,5/9/2020
+4,Acadia,148,5/10/2020
+4,Acadia,152,5/11/2020
+4,Acadia,152,5/12/2020
+4,Acadia,151,5/13/2020
+4,Acadia,159,5/14/2020
+4,Acadia,189,5/15/2020
+4,Acadia,192,5/16/2020
+4,Acadia,198,5/17/2020
+4,Acadia,257,5/18/2020
+4,Acadia,262,5/19/2020
+4,Acadia,262,5/20/2020
+4,Acadia,269,5/21/2020
+4,Acadia,289,5/22/2020
+4,Acadia,290,5/23/2020
+4,Acadia,291,5/24/2020
+4,Acadia,299,5/25/2020
+4,Acadia,395,5/26/2020
+4,Acadia,397,5/27/2020
+4,Acadia,401,5/28/2020
+4,Acadia,412,5/30/2020
+4,Acadia,418,5/31/2020
+4,Acadia,422,6/1/2020
+4,Acadia,428,6/2/2020
+4,Acadia,446,6/3/2020
+4,Acadia,462,6/4/2020
+4,Acadia,467,6/5/2020
+4,Acadia,500,6/6/2020
+4,Acadia,502,6/7/2020
+4,Acadia,513,6/8/2020
+4,Acadia,517,6/9/2020
+4,Acadia,520,6/10/2020
+4,Acadia,529,6/11/2020
+4,Acadia,535,6/12/2020
+4,Acadia,577,6/13/2020
+4,Acadia,583,6/14/2020
+4,Acadia,597,6/15/2020
+4,Acadia,604,6/16/2020
+4,Acadia,625,6/17/2020
+5,Allen,,3/14/2020
+5,Allen,,3/15/2020
+5,Allen,,3/16/2020
+5,Allen,,3/17/2020
+5,Allen,,3/18/2020
+5,Allen,,3/19/2020
+5,Allen,,3/20/2020
+5,Allen,,3/21/2020
+5,Allen,,3/22/2020
+5,Allen,2,3/23/2020
+5,Allen,2,3/24/2020
+5,Allen,2,3/25/2020
+5,Allen,5,3/26/2020
+5,Allen,5,3/27/2020
+5,Allen,7,3/28/2020
+5,Allen,9,3/29/2020
+5,Allen,11,3/30/2020
+5,Allen,15,3/31/2020
+5,Allen,19,4/1/2020
+5,Allen,26,4/2/2020
+5,Allen,34,4/3/2020
+5,Allen,39,4/4/2020
+5,Allen,40,4/5/2020
+5,Allen,52,4/6/2020
+5,Allen,58,4/7/2020
+5,Allen,65,4/8/2020
+5,Allen,66,4/9/2020
+5,Allen,67,4/10/2020
+5,Allen,71,4/11/2020
+5,Allen,73,4/12/2020
+5,Allen,74,4/13/2020
+5,Allen,74,4/14/2020
+5,Allen,74,4/15/2020
+5,Allen,78,4/16/2020
+5,Allen,79,4/17/2020
+5,Allen,79,4/18/2020
+5,Allen,79,4/19/2020
+5,Allen,79,4/20/2020
+5,Allen,79,4/21/2020
+5,Allen,80,4/22/2020
+5,Allen,81,4/23/2020
+5,Allen,81,4/24/2020
+5,Allen,82,4/25/2020
+5,Allen,82,4/26/2020
+5,Allen,87,4/27/2020
+5,Allen,90,4/28/2020
+5,Allen,90,4/29/2020
+5,Allen,90,4/30/2020
+5,Allen,90,5/1/2020
+5,Allen,90,5/2/2020
+5,Allen,90,5/3/2020
+5,Allen,90,5/4/2020
+5,Allen,90,5/5/2020
+5,Allen,90,5/6/2020
+5,Allen,90,5/7/2020
+5,Allen,90,5/8/2020
+5,Allen,90,5/9/2020
+5,Allen,90,5/10/2020
+5,Allen,90,5/11/2020
+5,Allen,90,5/12/2020
+5,Allen,94,5/13/2020
+5,Allen,94,5/14/2020
+5,Allen,94,5/15/2020
+5,Allen,99,5/16/2020
+5,Allen,100,5/17/2020
+5,Allen,118,5/18/2020
+5,Allen,131,5/19/2020
+5,Allen,157,5/20/2020
+5,Allen,172,5/21/2020
+5,Allen,182,5/22/2020
+5,Allen,182,5/23/2020
+5,Allen,182,5/24/2020
+5,Allen,182,5/25/2020
+5,Allen,184,5/26/2020
+5,Allen,184,5/27/2020
+5,Allen,184,5/28/2020
+5,Allen,184,5/30/2020
+5,Allen,184,5/31/2020
+5,Allen,184,6/1/2020
+5,Allen,184,6/2/2020
+5,Allen,185,6/3/2020
+5,Allen,186,6/4/2020
+5,Allen,186,6/5/2020
+5,Allen,186,6/6/2020
+5,Allen,186,6/7/2020
+5,Allen,188,6/8/2020
+5,Allen,189,6/9/2020
+5,Allen,189,6/10/2020
+5,Allen,189,6/11/2020
+5,Allen,193,6/12/2020
+5,Allen,210,6/13/2020
+5,Allen,222,6/14/2020
+5,Allen,226,6/15/2020
+5,Allen,230,6/16/2020
+5,Allen,243,6/17/2020
+2,Ascension,,3/14/2020
+2,Ascension,,3/15/2020
+2,Ascension,,3/16/2020
+2,Ascension,1,3/17/2020
+2,Ascension,1,3/18/2020
+2,Ascension,2,3/19/2020
+2,Ascension,2,3/20/2020
+2,Ascension,3,3/21/2020
+2,Ascension,17,3/22/2020
+2,Ascension,26,3/23/2020
+2,Ascension,36,3/24/2020
+2,Ascension,65,3/25/2020
+2,Ascension,91,3/26/2020
+2,Ascension,90,3/27/2020
+2,Ascension,107,3/28/2020
+2,Ascension,139,3/29/2020
+2,Ascension,153,3/30/2020
+2,Ascension,161,3/31/2020
+2,Ascension,189,4/1/2020
+2,Ascension,201,4/2/2020
+2,Ascension,222,4/3/2020
+2,Ascension,284,4/4/2020
+2,Ascension,286,4/5/2020
+2,Ascension,347,4/6/2020
+2,Ascension,358,4/7/2020
+2,Ascension,366,4/8/2020
+2,Ascension,370,4/9/2020
+2,Ascension,397,4/10/2020
+2,Ascension,415,4/11/2020
+2,Ascension,428,4/12/2020
+2,Ascension,432,4/13/2020
+2,Ascension,438,4/14/2020
+2,Ascension,440,4/15/2020
+2,Ascension,451,4/16/2020
+2,Ascension,468,4/17/2020
+2,Ascension,496,4/18/2020
+2,Ascension,508,4/19/2020
+2,Ascension,512,4/20/2020
+2,Ascension,515,4/21/2020
+2,Ascension,533,4/22/2020
+2,Ascension,536,4/23/2020
+2,Ascension,551,4/24/2020
+2,Ascension,557,4/25/2020
+2,Ascension,568,4/26/2020
+2,Ascension,574,4/27/2020
+2,Ascension,576,4/28/2020
+2,Ascension,587,4/29/2020
+2,Ascension,593,4/30/2020
+2,Ascension,627,5/1/2020
+2,Ascension,636,5/2/2020
+2,Ascension,644,5/3/2020
+2,Ascension,647,5/4/2020
+2,Ascension,657,5/5/2020
+2,Ascension,664,5/6/2020
+2,Ascension,672,5/7/2020
+2,Ascension,675,5/8/2020
+2,Ascension,689,5/9/2020
+2,Ascension,694,5/10/2020
+2,Ascension,695,5/11/2020
+2,Ascension,701,5/12/2020
+2,Ascension,704,5/13/2020
+2,Ascension,745,5/14/2020
+2,Ascension,749,5/15/2020
+2,Ascension,752,5/16/2020
+2,Ascension,756,5/17/2020
+2,Ascension,760,5/18/2020
+2,Ascension,762,5/19/2020
+2,Ascension,768,5/20/2020
+2,Ascension,782,5/21/2020
+2,Ascension,785,5/22/2020
+2,Ascension,785,5/23/2020
+2,Ascension,786,5/24/2020
+2,Ascension,788,5/25/2020
+2,Ascension,792,5/26/2020
+2,Ascension,805,5/27/2020
+2,Ascension,810,5/28/2020
+2,Ascension,817,5/30/2020
+2,Ascension,820,5/31/2020
+2,Ascension,827,6/1/2020
+2,Ascension,841,6/2/2020
+2,Ascension,852,6/3/2020
+2,Ascension,861,6/4/2020
+2,Ascension,865,6/5/2020
+2,Ascension,876,6/6/2020
+2,Ascension,882,6/7/2020
+2,Ascension,889,6/8/2020
+2,Ascension,900,6/9/2020
+2,Ascension,906,6/10/2020
+2,Ascension,912,6/11/2020
+2,Ascension,918,6/12/2020
+2,Ascension,931,6/13/2020
+2,Ascension,935,6/14/2020
+2,Ascension,948,6/15/2020
+2,Ascension,957,6/16/2020
+2,Ascension,962,6/17/2020
+3,Assumption,,3/14/2020
+3,Assumption,,3/15/2020
+3,Assumption,,3/16/2020
+3,Assumption,,3/17/2020
+3,Assumption,,3/18/2020
+3,Assumption,,3/19/2020
+3,Assumption,1,3/20/2020
+3,Assumption,1,3/21/2020
+3,Assumption,1,3/22/2020
+3,Assumption,1,3/23/2020
+3,Assumption,2,3/24/2020
+3,Assumption,2,3/25/2020
+3,Assumption,5,3/26/2020
+3,Assumption,8,3/27/2020
+3,Assumption,8,3/28/2020
+3,Assumption,14,3/29/2020
+3,Assumption,17,3/30/2020
+3,Assumption,20,3/31/2020
+3,Assumption,25,4/1/2020
+3,Assumption,31,4/2/2020
+3,Assumption,33,4/3/2020
+3,Assumption,56,4/4/2020
+3,Assumption,59,4/5/2020
+3,Assumption,77,4/6/2020
+3,Assumption,84,4/7/2020
+3,Assumption,89,4/8/2020
+3,Assumption,94,4/9/2020
+3,Assumption,105,4/10/2020
+3,Assumption,109,4/11/2020
+3,Assumption,116,4/12/2020
+3,Assumption,120,4/13/2020
+3,Assumption,123,4/14/2020
+3,Assumption,129,4/15/2020
+3,Assumption,132,4/16/2020
+3,Assumption,137,4/17/2020
+3,Assumption,143,4/18/2020
+3,Assumption,146,4/19/2020
+3,Assumption,146,4/20/2020
+3,Assumption,151,4/21/2020
+3,Assumption,154,4/22/2020
+3,Assumption,158,4/23/2020
+3,Assumption,166,4/24/2020
+3,Assumption,172,4/25/2020
+3,Assumption,173,4/26/2020
+3,Assumption,175,4/27/2020
+3,Assumption,177,4/28/2020
+3,Assumption,178,4/29/2020
+3,Assumption,182,4/30/2020
+3,Assumption,189,5/1/2020
+3,Assumption,194,5/2/2020
+3,Assumption,197,5/3/2020
+3,Assumption,201,5/4/2020
+3,Assumption,202,5/5/2020
+3,Assumption,203,5/6/2020
+3,Assumption,206,5/7/2020
+3,Assumption,206,5/8/2020
+3,Assumption,208,5/9/2020
+3,Assumption,228,5/10/2020
+3,Assumption,228,5/11/2020
+3,Assumption,230,5/12/2020
+3,Assumption,231,5/13/2020
+3,Assumption,234,5/14/2020
+3,Assumption,235,5/15/2020
+3,Assumption,229,5/16/2020
+3,Assumption,230,5/17/2020
+3,Assumption,230,5/18/2020
+3,Assumption,230,5/19/2020
+3,Assumption,233,5/20/2020
+3,Assumption,238,5/21/2020
+3,Assumption,238,5/22/2020
+3,Assumption,238,5/23/2020
+3,Assumption,238,5/24/2020
+3,Assumption,243,5/25/2020
+3,Assumption,245,5/26/2020
+3,Assumption,245,5/27/2020
+3,Assumption,248,5/28/2020
+3,Assumption,251,5/30/2020
+3,Assumption,252,5/31/2020
+3,Assumption,252,6/1/2020
+3,Assumption,252,6/2/2020
+3,Assumption,252,6/3/2020
+3,Assumption,252,6/4/2020
+3,Assumption,253,6/5/2020
+3,Assumption,254,6/6/2020
+3,Assumption,257,6/7/2020
+3,Assumption,257,6/8/2020
+3,Assumption,258,6/9/2020
+3,Assumption,259,6/10/2020
+3,Assumption,258,6/11/2020
+3,Assumption,258,6/12/2020
+3,Assumption,263,6/13/2020
+3,Assumption,269,6/14/2020
+3,Assumption,274,6/15/2020
+3,Assumption,276,6/16/2020
+3,Assumption,282,6/17/2020
+6,Avoyelles,,3/14/2020
+6,Avoyelles,,3/15/2020
+6,Avoyelles,,3/16/2020
+6,Avoyelles,,3/17/2020
+6,Avoyelles,,3/18/2020
+6,Avoyelles,,3/19/2020
+6,Avoyelles,,3/20/2020
+6,Avoyelles,,3/21/2020
+6,Avoyelles,1,3/22/2020
+6,Avoyelles,1,3/23/2020
+6,Avoyelles,3,3/24/2020
+6,Avoyelles,5,3/25/2020
+6,Avoyelles,7,3/26/2020
+6,Avoyelles,10,3/27/2020
+6,Avoyelles,12,3/28/2020
+6,Avoyelles,13,3/29/2020
+6,Avoyelles,14,3/30/2020
+6,Avoyelles,19,3/31/2020
+6,Avoyelles,31,4/1/2020
+6,Avoyelles,34,4/2/2020
+6,Avoyelles,37,4/3/2020
+6,Avoyelles,36,4/4/2020
+6,Avoyelles,37,4/5/2020
+6,Avoyelles,40,4/6/2020
+6,Avoyelles,45,4/7/2020
+6,Avoyelles,48,4/8/2020
+6,Avoyelles,56,4/9/2020
+6,Avoyelles,56,4/10/2020
+6,Avoyelles,61,4/11/2020
+6,Avoyelles,61,4/12/2020
+6,Avoyelles,64,4/13/2020
+6,Avoyelles,65,4/14/2020
+6,Avoyelles,64,4/15/2020
+6,Avoyelles,66,4/16/2020
+6,Avoyelles,68,4/17/2020
+6,Avoyelles,68,4/18/2020
+6,Avoyelles,69,4/19/2020
+6,Avoyelles,69,4/20/2020
+6,Avoyelles,69,4/21/2020
+6,Avoyelles,71,4/22/2020
+6,Avoyelles,71,4/23/2020
+6,Avoyelles,69,4/24/2020
+6,Avoyelles,69,4/25/2020
+6,Avoyelles,69,4/26/2020
+6,Avoyelles,69,4/27/2020
+6,Avoyelles,71,4/28/2020
+6,Avoyelles,71,4/29/2020
+6,Avoyelles,71,4/30/2020
+6,Avoyelles,73,5/1/2020
+6,Avoyelles,72,5/2/2020
+6,Avoyelles,74,5/3/2020
+6,Avoyelles,74,5/4/2020
+6,Avoyelles,73,5/5/2020
+6,Avoyelles,74,5/6/2020
+6,Avoyelles,74,5/7/2020
+6,Avoyelles,74,5/8/2020
+6,Avoyelles,74,5/9/2020
+6,Avoyelles,74,5/10/2020
+6,Avoyelles,75,5/11/2020
+6,Avoyelles,76,5/12/2020
+6,Avoyelles,79,5/13/2020
+6,Avoyelles,79,5/14/2020
+6,Avoyelles,80,5/15/2020
+6,Avoyelles,89,5/16/2020
+6,Avoyelles,92,5/17/2020
+6,Avoyelles,93,5/18/2020
+6,Avoyelles,94,5/19/2020
+6,Avoyelles,96,5/20/2020
+6,Avoyelles,99,5/21/2020
+6,Avoyelles,101,5/22/2020
+6,Avoyelles,103,5/23/2020
+6,Avoyelles,104,5/24/2020
+6,Avoyelles,113,5/25/2020
+6,Avoyelles,115,5/26/2020
+6,Avoyelles,117,5/27/2020
+6,Avoyelles,120,5/28/2020
+6,Avoyelles,125,5/30/2020
+6,Avoyelles,128,5/31/2020
+6,Avoyelles,130,6/1/2020
+6,Avoyelles,136,6/2/2020
+6,Avoyelles,141,6/3/2020
+6,Avoyelles,149,6/4/2020
+6,Avoyelles,151,6/5/2020
+6,Avoyelles,155,6/6/2020
+6,Avoyelles,161,6/7/2020
+6,Avoyelles,165,6/8/2020
+6,Avoyelles,175,6/9/2020
+6,Avoyelles,178,6/10/2020
+6,Avoyelles,178,6/11/2020
+6,Avoyelles,181,6/12/2020
+6,Avoyelles,184,6/13/2020
+6,Avoyelles,185,6/14/2020
+6,Avoyelles,188,6/15/2020
+6,Avoyelles,188,6/16/2020
+6,Avoyelles,193,6/17/2020
+5,Beauregard,,3/14/2020
+5,Beauregard,,3/15/2020
+5,Beauregard,,3/16/2020
+5,Beauregard,,3/17/2020
+5,Beauregard,,3/18/2020
+5,Beauregard,,3/19/2020
+5,Beauregard,,3/20/2020
+5,Beauregard,,3/21/2020
+5,Beauregard,1,3/22/2020
+5,Beauregard,1,3/23/2020
+5,Beauregard,2,3/24/2020
+5,Beauregard,3,3/25/2020
+5,Beauregard,3,3/26/2020
+5,Beauregard,4,3/27/2020
+5,Beauregard,4,3/28/2020
+5,Beauregard,4,3/29/2020
+5,Beauregard,5,3/30/2020
+5,Beauregard,5,3/31/2020
+5,Beauregard,8,4/1/2020
+5,Beauregard,10,4/2/2020
+5,Beauregard,13,4/3/2020
+5,Beauregard,15,4/4/2020
+5,Beauregard,19,4/5/2020
+5,Beauregard,23,4/6/2020
+5,Beauregard,23,4/7/2020
+5,Beauregard,23,4/8/2020
+5,Beauregard,26,4/9/2020
+5,Beauregard,27,4/10/2020
+5,Beauregard,27,4/11/2020
+5,Beauregard,27,4/12/2020
+5,Beauregard,28,4/13/2020
+5,Beauregard,28,4/14/2020
+5,Beauregard,30,4/15/2020
+5,Beauregard,33,4/16/2020
+5,Beauregard,35,4/17/2020
+5,Beauregard,35,4/18/2020
+5,Beauregard,35,4/19/2020
+5,Beauregard,36,4/20/2020
+5,Beauregard,36,4/21/2020
+5,Beauregard,36,4/22/2020
+5,Beauregard,35,4/23/2020
+5,Beauregard,35,4/24/2020
+5,Beauregard,35,4/25/2020
+5,Beauregard,35,4/26/2020
+5,Beauregard,36,4/27/2020
+5,Beauregard,37,4/28/2020
+5,Beauregard,37,4/29/2020
+5,Beauregard,39,4/30/2020
+5,Beauregard,42,5/1/2020
+5,Beauregard,42,5/2/2020
+5,Beauregard,43,5/3/2020
+5,Beauregard,43,5/4/2020
+5,Beauregard,43,5/5/2020
+5,Beauregard,44,5/6/2020
+5,Beauregard,44,5/7/2020
+5,Beauregard,44,5/8/2020
+5,Beauregard,46,5/9/2020
+5,Beauregard,46,5/10/2020
+5,Beauregard,46,5/11/2020
+5,Beauregard,46,5/12/2020
+5,Beauregard,48,5/13/2020
+5,Beauregard,49,5/14/2020
+5,Beauregard,50,5/15/2020
+5,Beauregard,51,5/16/2020
+5,Beauregard,52,5/17/2020
+5,Beauregard,52,5/18/2020
+5,Beauregard,52,5/19/2020
+5,Beauregard,52,5/20/2020
+5,Beauregard,54,5/21/2020
+5,Beauregard,56,5/22/2020
+5,Beauregard,56,5/23/2020
+5,Beauregard,56,5/24/2020
+5,Beauregard,58,5/25/2020
+5,Beauregard,58,5/26/2020
+5,Beauregard,61,5/27/2020
+5,Beauregard,61,5/28/2020
+5,Beauregard,66,5/30/2020
+5,Beauregard,66,5/31/2020
+5,Beauregard,69,6/1/2020
+5,Beauregard,69,6/2/2020
+5,Beauregard,81,6/3/2020
+5,Beauregard,90,6/4/2020
+5,Beauregard,99,6/5/2020
+5,Beauregard,102,6/6/2020
+5,Beauregard,101,6/7/2020
+5,Beauregard,106,6/8/2020
+5,Beauregard,114,6/9/2020
+5,Beauregard,116,6/10/2020
+5,Beauregard,117,6/11/2020
+5,Beauregard,127,6/12/2020
+5,Beauregard,134,6/13/2020
+5,Beauregard,134,6/14/2020
+5,Beauregard,136,6/15/2020
+5,Beauregard,136,6/16/2020
+5,Beauregard,139,6/17/2020
+7,Bienville,,3/14/2020
+7,Bienville,,3/15/2020
+7,Bienville,,3/16/2020
+7,Bienville,,3/17/2020
+7,Bienville,,3/18/2020
+7,Bienville,,3/19/2020
+7,Bienville,,3/20/2020
+7,Bienville,,3/21/2020
+7,Bienville,1,3/22/2020
+7,Bienville,1,3/23/2020
+7,Bienville,1,3/24/2020
+7,Bienville,1,3/25/2020
+7,Bienville,1,3/26/2020
+7,Bienville,1,3/27/2020
+7,Bienville,3,3/28/2020
+7,Bienville,3,3/29/2020
+7,Bienville,5,3/30/2020
+7,Bienville,6,3/31/2020
+7,Bienville,6,4/1/2020
+7,Bienville,8,4/2/2020
+7,Bienville,9,4/3/2020
+7,Bienville,10,4/4/2020
+7,Bienville,12,4/5/2020
+7,Bienville,14,4/6/2020
+7,Bienville,17,4/7/2020
+7,Bienville,17,4/8/2020
+7,Bienville,24,4/9/2020
+7,Bienville,27,4/10/2020
+7,Bienville,30,4/11/2020
+7,Bienville,33,4/12/2020
+7,Bienville,37,4/13/2020
+7,Bienville,37,4/14/2020
+7,Bienville,42,4/15/2020
+7,Bienville,45,4/16/2020
+7,Bienville,58,4/17/2020
+7,Bienville,65,4/18/2020
+7,Bienville,66,4/19/2020
+7,Bienville,66,4/20/2020
+7,Bienville,66,4/21/2020
+7,Bienville,69,4/22/2020
+7,Bienville,69,4/23/2020
+7,Bienville,69,4/24/2020
+7,Bienville,70,4/25/2020
+7,Bienville,72,4/26/2020
+7,Bienville,73,4/27/2020
+7,Bienville,73,4/28/2020
+7,Bienville,74,4/29/2020
+7,Bienville,77,4/30/2020
+7,Bienville,77,5/1/2020
+7,Bienville,76,5/2/2020
+7,Bienville,76,5/3/2020
+7,Bienville,78,5/4/2020
+7,Bienville,78,5/5/2020
+7,Bienville,78,5/6/2020
+7,Bienville,78,5/7/2020
+7,Bienville,77,5/8/2020
+7,Bienville,77,5/9/2020
+7,Bienville,77,5/10/2020
+7,Bienville,77,5/11/2020
+7,Bienville,77,5/12/2020
+7,Bienville,80,5/13/2020
+7,Bienville,81,5/14/2020
+7,Bienville,83,5/15/2020
+7,Bienville,82,5/16/2020
+7,Bienville,83,5/17/2020
+7,Bienville,84,5/18/2020
+7,Bienville,84,5/19/2020
+7,Bienville,84,5/20/2020
+7,Bienville,114,5/21/2020
+7,Bienville,136,5/22/2020
+7,Bienville,136,5/23/2020
+7,Bienville,137,5/24/2020
+7,Bienville,138,5/25/2020
+7,Bienville,138,5/26/2020
+7,Bienville,139,5/27/2020
+7,Bienville,139,5/28/2020
+7,Bienville,144,5/30/2020
+7,Bienville,146,5/31/2020
+7,Bienville,147,6/1/2020
+7,Bienville,147,6/2/2020
+7,Bienville,149,6/3/2020
+7,Bienville,149,6/4/2020
+7,Bienville,151,6/5/2020
+7,Bienville,152,6/6/2020
+7,Bienville,153,6/7/2020
+7,Bienville,154,6/8/2020
+7,Bienville,157,6/9/2020
+7,Bienville,166,6/10/2020
+7,Bienville,167,6/11/2020
+7,Bienville,170,6/12/2020
+7,Bienville,172,6/13/2020
+7,Bienville,173,6/14/2020
+7,Bienville,175,6/15/2020
+7,Bienville,176,6/16/2020
+7,Bienville,183,6/17/2020
+7,Bossier,1,3/14/2020
+7,Bossier,1,3/15/2020
+7,Bossier,1,3/16/2020
+7,Bossier,1,3/17/2020
+7,Bossier,1,3/18/2020
+7,Bossier,2,3/19/2020
+7,Bossier,4,3/20/2020
+7,Bossier,5,3/21/2020
+7,Bossier,5,3/22/2020
+7,Bossier,12,3/23/2020
+7,Bossier,12,3/24/2020
+7,Bossier,25,3/25/2020
+7,Bossier,32,3/26/2020
+7,Bossier,37,3/27/2020
+7,Bossier,45,3/28/2020
+7,Bossier,56,3/29/2020
+7,Bossier,57,3/30/2020
+7,Bossier,63,3/31/2020
+7,Bossier,75,4/1/2020
+7,Bossier,87,4/2/2020
+7,Bossier,95,4/3/2020
+7,Bossier,126,4/4/2020
+7,Bossier,133,4/5/2020
+7,Bossier,139,4/6/2020
+7,Bossier,146,4/7/2020
+7,Bossier,159,4/8/2020
+7,Bossier,171,4/9/2020
+7,Bossier,175,4/10/2020
+7,Bossier,178,4/11/2020
+7,Bossier,186,4/12/2020
+7,Bossier,188,4/13/2020
+7,Bossier,207,4/14/2020
+7,Bossier,211,4/15/2020
+7,Bossier,220,4/16/2020
+7,Bossier,230,4/17/2020
+7,Bossier,230,4/18/2020
+7,Bossier,233,4/19/2020
+7,Bossier,233,4/20/2020
+7,Bossier,241,4/21/2020
+7,Bossier,246,4/22/2020
+7,Bossier,255,4/23/2020
+7,Bossier,258,4/24/2020
+7,Bossier,265,4/25/2020
+7,Bossier,270,4/26/2020
+7,Bossier,274,4/27/2020
+7,Bossier,277,4/28/2020
+7,Bossier,285,4/29/2020
+7,Bossier,286,4/30/2020
+7,Bossier,287,5/1/2020
+7,Bossier,292,5/2/2020
+7,Bossier,295,5/3/2020
+7,Bossier,300,5/4/2020
+7,Bossier,300,5/5/2020
+7,Bossier,303,5/6/2020
+7,Bossier,307,5/7/2020
+7,Bossier,308,5/8/2020
+7,Bossier,310,5/9/2020
+7,Bossier,310,5/10/2020
+7,Bossier,312,5/11/2020
+7,Bossier,313,5/12/2020
+7,Bossier,324,5/13/2020
+7,Bossier,327,5/14/2020
+7,Bossier,336,5/15/2020
+7,Bossier,342,5/16/2020
+7,Bossier,344,5/17/2020
+7,Bossier,346,5/18/2020
+7,Bossier,348,5/19/2020
+7,Bossier,353,5/20/2020
+7,Bossier,374,5/21/2020
+7,Bossier,380,5/22/2020
+7,Bossier,381,5/23/2020
+7,Bossier,382,5/24/2020
+7,Bossier,398,5/25/2020
+7,Bossier,398,5/26/2020
+7,Bossier,402,5/27/2020
+7,Bossier,406,5/28/2020
+7,Bossier,412,5/30/2020
+7,Bossier,415,5/31/2020
+7,Bossier,416,6/1/2020
+7,Bossier,421,6/2/2020
+7,Bossier,425,6/3/2020
+7,Bossier,438,6/4/2020
+7,Bossier,450,6/5/2020
+7,Bossier,453,6/6/2020
+7,Bossier,463,6/7/2020
+7,Bossier,464,6/8/2020
+7,Bossier,473,6/9/2020
+7,Bossier,478,6/10/2020
+7,Bossier,484,6/11/2020
+7,Bossier,488,6/12/2020
+7,Bossier,494,6/13/2020
+7,Bossier,502,6/14/2020
+7,Bossier,510,6/15/2020
+7,Bossier,513,6/16/2020
+7,Bossier,528,6/17/2020
+7,Caddo,1,3/14/2020
+7,Caddo,1,3/15/2020
+7,Caddo,3,3/16/2020
+7,Caddo,3,3/17/2020
+7,Caddo,5,3/18/2020
+7,Caddo,7,3/19/2020
+7,Caddo,13,3/20/2020
+7,Caddo,13,3/21/2020
+7,Caddo,16,3/22/2020
+7,Caddo,34,3/23/2020
+7,Caddo,40,3/24/2020
+7,Caddo,93,3/25/2020
+7,Caddo,115,3/26/2020
+7,Caddo,140,3/27/2020
+7,Caddo,189,3/28/2020
+7,Caddo,219,3/29/2020
+7,Caddo,222,3/30/2020
+7,Caddo,242,3/31/2020
+7,Caddo,298,4/1/2020
+7,Caddo,336,4/2/2020
+7,Caddo,377,4/3/2020
+7,Caddo,598,4/4/2020
+7,Caddo,647,4/5/2020
+7,Caddo,711,4/6/2020
+7,Caddo,756,4/7/2020
+7,Caddo,803,4/8/2020
+7,Caddo,906,4/9/2020
+7,Caddo,950,4/10/2020
+7,Caddo,974,4/11/2020
+7,Caddo,1018,4/12/2020
+7,Caddo,1033,4/13/2020
+7,Caddo,1097,4/14/2020
+7,Caddo,1118,4/15/2020
+7,Caddo,1154,4/16/2020
+7,Caddo,1220,4/17/2020
+7,Caddo,1244,4/18/2020
+7,Caddo,1261,4/19/2020
+7,Caddo,1276,4/20/2020
+7,Caddo,1310,4/21/2020
+7,Caddo,1332,4/22/2020
+7,Caddo,1389,4/23/2020
+7,Caddo,1407,4/24/2020
+7,Caddo,1432,4/25/2020
+7,Caddo,1448,4/26/2020
+7,Caddo,1470,4/27/2020
+7,Caddo,1497,4/28/2020
+7,Caddo,1525,4/29/2020
+7,Caddo,1540,4/30/2020
+7,Caddo,1579,5/1/2020
+7,Caddo,1601,5/2/2020
+7,Caddo,1610,5/3/2020
+7,Caddo,1629,5/4/2020
+7,Caddo,1639,5/5/2020
+7,Caddo,1667,5/6/2020
+7,Caddo,1690,5/7/2020
+7,Caddo,1712,5/8/2020
+7,Caddo,1743,5/9/2020
+7,Caddo,1751,5/10/2020
+7,Caddo,1765,5/11/2020
+7,Caddo,1784,5/12/2020
+7,Caddo,1800,5/13/2020
+7,Caddo,1818,5/14/2020
+7,Caddo,1846,5/15/2020
+7,Caddo,1864,5/16/2020
+7,Caddo,1877,5/17/2020
+7,Caddo,1898,5/18/2020
+7,Caddo,1912,5/19/2020
+7,Caddo,1939,5/20/2020
+7,Caddo,2272,5/21/2020
+7,Caddo,2293,5/22/2020
+7,Caddo,2299,5/23/2020
+7,Caddo,2312,5/24/2020
+7,Caddo,2343,5/25/2020
+7,Caddo,2347,5/26/2020
+7,Caddo,2427,5/27/2020
+7,Caddo,2480,5/28/2020
+7,Caddo,2525,5/30/2020
+7,Caddo,2562,5/31/2020
+7,Caddo,2578,6/1/2020
+7,Caddo,2609,6/2/2020
+7,Caddo,2633,6/3/2020
+7,Caddo,2676,6/4/2020
+7,Caddo,2699,6/5/2020
+7,Caddo,2713,6/6/2020
+7,Caddo,2731,6/7/2020
+7,Caddo,2737,6/8/2020
+7,Caddo,2755,6/9/2020
+7,Caddo,2784,6/10/2020
+7,Caddo,2794,6/11/2020
+7,Caddo,2803,6/12/2020
+7,Caddo,2830,6/13/2020
+7,Caddo,2853,6/14/2020
+7,Caddo,2869,6/15/2020
+7,Caddo,2888,6/16/2020
+7,Caddo,2933,6/17/2020
+5,Calcasieu,,3/14/2020
+5,Calcasieu,,3/15/2020
+5,Calcasieu,,3/16/2020
+5,Calcasieu,,3/17/2020
+5,Calcasieu,,3/18/2020
+5,Calcasieu,,3/19/2020
+5,Calcasieu,,3/20/2020
+5,Calcasieu,4,3/21/2020
+5,Calcasieu,4,3/22/2020
+5,Calcasieu,4,3/23/2020
+5,Calcasieu,5,3/24/2020
+5,Calcasieu,11,3/25/2020
+5,Calcasieu,15,3/26/2020
+5,Calcasieu,22,3/27/2020
+5,Calcasieu,28,3/28/2020
+5,Calcasieu,35,3/29/2020
+5,Calcasieu,42,3/30/2020
+5,Calcasieu,65,3/31/2020
+5,Calcasieu,90,4/1/2020
+5,Calcasieu,108,4/2/2020
+5,Calcasieu,119,4/3/2020
+5,Calcasieu,135,4/4/2020
+5,Calcasieu,139,4/5/2020
+5,Calcasieu,159,4/6/2020
+5,Calcasieu,186,4/7/2020
+5,Calcasieu,191,4/8/2020
+5,Calcasieu,209,4/9/2020
+5,Calcasieu,228,4/10/2020
+5,Calcasieu,248,4/11/2020
+5,Calcasieu,259,4/12/2020
+5,Calcasieu,268,4/13/2020
+5,Calcasieu,273,4/14/2020
+5,Calcasieu,282,4/15/2020
+5,Calcasieu,300,4/16/2020
+5,Calcasieu,309,4/17/2020
+5,Calcasieu,309,4/18/2020
+5,Calcasieu,323,4/19/2020
+5,Calcasieu,324,4/20/2020
+5,Calcasieu,334,4/21/2020
+5,Calcasieu,341,4/22/2020
+5,Calcasieu,352,4/23/2020
+5,Calcasieu,356,4/24/2020
+5,Calcasieu,360,4/25/2020
+5,Calcasieu,363,4/26/2020
+5,Calcasieu,369,4/27/2020
+5,Calcasieu,377,4/28/2020
+5,Calcasieu,386,4/29/2020
+5,Calcasieu,389,4/30/2020
+5,Calcasieu,437,5/1/2020
+5,Calcasieu,449,5/2/2020
+5,Calcasieu,455,5/3/2020
+5,Calcasieu,464,5/4/2020
+5,Calcasieu,470,5/5/2020
+5,Calcasieu,475,5/6/2020
+5,Calcasieu,478,5/7/2020
+5,Calcasieu,481,5/8/2020
+5,Calcasieu,490,5/9/2020
+5,Calcasieu,493,5/10/2020
+5,Calcasieu,496,5/11/2020
+5,Calcasieu,496,5/12/2020
+5,Calcasieu,505,5/13/2020
+5,Calcasieu,507,5/14/2020
+5,Calcasieu,513,5/15/2020
+5,Calcasieu,514,5/16/2020
+5,Calcasieu,517,5/17/2020
+5,Calcasieu,520,5/18/2020
+5,Calcasieu,521,5/19/2020
+5,Calcasieu,521,5/20/2020
+5,Calcasieu,548,5/21/2020
+5,Calcasieu,567,5/22/2020
+5,Calcasieu,568,5/23/2020
+5,Calcasieu,568,5/24/2020
+5,Calcasieu,572,5/25/2020
+5,Calcasieu,578,5/26/2020
+5,Calcasieu,581,5/27/2020
+5,Calcasieu,588,5/28/2020
+5,Calcasieu,596,5/30/2020
+5,Calcasieu,599,5/31/2020
+5,Calcasieu,608,6/1/2020
+5,Calcasieu,611,6/2/2020
+5,Calcasieu,613,6/3/2020
+5,Calcasieu,621,6/4/2020
+5,Calcasieu,625,6/5/2020
+5,Calcasieu,632,6/6/2020
+5,Calcasieu,637,6/7/2020
+5,Calcasieu,642,6/8/2020
+5,Calcasieu,661,6/9/2020
+5,Calcasieu,673,6/10/2020
+5,Calcasieu,684,6/11/2020
+5,Calcasieu,701,6/12/2020
+5,Calcasieu,741,6/13/2020
+5,Calcasieu,755,6/14/2020
+5,Calcasieu,772,6/15/2020
+5,Calcasieu,789,6/16/2020
+5,Calcasieu,824,6/17/2020
+8,Caldwell,,3/14/2020
+8,Caldwell,,3/15/2020
+8,Caldwell,,3/16/2020
+8,Caldwell,,3/17/2020
+8,Caldwell,,3/18/2020
+8,Caldwell,,3/19/2020
+8,Caldwell,,3/20/2020
+8,Caldwell,,3/21/2020
+8,Caldwell,,3/22/2020
+8,Caldwell,,3/23/2020
+8,Caldwell,,3/24/2020
+8,Caldwell,,3/25/2020
+8,Caldwell,,3/26/2020
+8,Caldwell,,3/27/2020
+8,Caldwell,,3/28/2020
+8,Caldwell,1,3/29/2020
+8,Caldwell,1,3/30/2020
+8,Caldwell,,3/31/2020
+8,Caldwell,,4/1/2020
+8,Caldwell,1,4/2/2020
+8,Caldwell,1,4/3/2020
+8,Caldwell,3,4/4/2020
+8,Caldwell,10,4/5/2020
+8,Caldwell,11,4/6/2020
+8,Caldwell,13,4/7/2020
+8,Caldwell,14,4/8/2020
+8,Caldwell,18,4/9/2020
+8,Caldwell,18,4/10/2020
+8,Caldwell,18,4/11/2020
+8,Caldwell,18,4/12/2020
+8,Caldwell,18,4/13/2020
+8,Caldwell,18,4/14/2020
+8,Caldwell,18,4/15/2020
+8,Caldwell,19,4/16/2020
+8,Caldwell,19,4/17/2020
+8,Caldwell,15,4/18/2020
+8,Caldwell,15,4/19/2020
+8,Caldwell,15,4/20/2020
+8,Caldwell,15,4/21/2020
+8,Caldwell,15,4/22/2020
+8,Caldwell,17,4/23/2020
+8,Caldwell,17,4/24/2020
+8,Caldwell,17,4/25/2020
+8,Caldwell,17,4/26/2020
+8,Caldwell,17,4/27/2020
+8,Caldwell,17,4/28/2020
+8,Caldwell,18,4/29/2020
+8,Caldwell,18,4/30/2020
+8,Caldwell,20,5/1/2020
+8,Caldwell,20,5/2/2020
+8,Caldwell,31,5/3/2020
+8,Caldwell,39,5/4/2020
+8,Caldwell,40,5/5/2020
+8,Caldwell,41,5/6/2020
+8,Caldwell,41,5/7/2020
+8,Caldwell,47,5/8/2020
+8,Caldwell,48,5/9/2020
+8,Caldwell,48,5/10/2020
+8,Caldwell,48,5/11/2020
+8,Caldwell,48,5/12/2020
+8,Caldwell,48,5/13/2020
+8,Caldwell,48,5/14/2020
+8,Caldwell,48,5/15/2020
+8,Caldwell,50,5/16/2020
+8,Caldwell,50,5/17/2020
+8,Caldwell,50,5/18/2020
+8,Caldwell,50,5/19/2020
+8,Caldwell,50,5/20/2020
+8,Caldwell,51,5/21/2020
+8,Caldwell,51,5/22/2020
+8,Caldwell,51,5/23/2020
+8,Caldwell,52,5/24/2020
+8,Caldwell,52,5/25/2020
+8,Caldwell,52,5/26/2020
+8,Caldwell,52,5/27/2020
+8,Caldwell,52,5/28/2020
+8,Caldwell,53,5/30/2020
+8,Caldwell,54,5/31/2020
+8,Caldwell,58,6/1/2020
+8,Caldwell,60,6/2/2020
+8,Caldwell,61,6/3/2020
+8,Caldwell,65,6/4/2020
+8,Caldwell,70,6/5/2020
+8,Caldwell,71,6/6/2020
+8,Caldwell,71,6/7/2020
+8,Caldwell,72,6/8/2020
+8,Caldwell,74,6/9/2020
+8,Caldwell,76,6/10/2020
+8,Caldwell,76,6/11/2020
+8,Caldwell,76,6/12/2020
+8,Caldwell,79,6/13/2020
+8,Caldwell,83,6/14/2020
+8,Caldwell,83,6/15/2020
+8,Caldwell,83,6/16/2020
+8,Caldwell,86,6/17/2020
+5,Cameron,,3/14/2020
+5,Cameron,,3/15/2020
+5,Cameron,,3/16/2020
+5,Cameron,,3/17/2020
+5,Cameron,,3/18/2020
+5,Cameron,,3/19/2020
+5,Cameron,,3/20/2020
+5,Cameron,,3/21/2020
+5,Cameron,,3/22/2020
+5,Cameron,,3/23/2020
+5,Cameron,,3/24/2020
+5,Cameron,,3/25/2020
+5,Cameron,,3/26/2020
+5,Cameron,,3/27/2020
+5,Cameron,,3/28/2020
+5,Cameron,,3/29/2020
+5,Cameron,,3/30/2020
+5,Cameron,,3/31/2020
+5,Cameron,,4/1/2020
+5,Cameron,,4/2/2020
+5,Cameron,,4/3/2020
+5,Cameron,,4/4/2020
+5,Cameron,,4/5/2020
+5,Cameron,,4/6/2020
+5,Cameron,1,4/7/2020
+5,Cameron,1,4/8/2020
+5,Cameron,1,4/9/2020
+5,Cameron,1,4/10/2020
+5,Cameron,2,4/11/2020
+5,Cameron,2,4/12/2020
+5,Cameron,2,4/13/2020
+5,Cameron,2,4/14/2020
+5,Cameron,2,4/15/2020
+5,Cameron,2,4/16/2020
+5,Cameron,2,4/17/2020
+5,Cameron,2,4/18/2020
+5,Cameron,3,4/19/2020
+5,Cameron,3,4/20/2020
+5,Cameron,3,4/21/2020
+5,Cameron,3,4/22/2020
+5,Cameron,3,4/23/2020
+5,Cameron,3,4/24/2020
+5,Cameron,3,4/25/2020
+5,Cameron,3,4/26/2020
+5,Cameron,3,4/27/2020
+5,Cameron,3,4/28/2020
+5,Cameron,3,4/29/2020
+5,Cameron,3,4/30/2020
+5,Cameron,3,5/1/2020
+5,Cameron,3,5/2/2020
+5,Cameron,3,5/3/2020
+5,Cameron,3,5/4/2020
+5,Cameron,3,5/5/2020
+5,Cameron,3,5/6/2020
+5,Cameron,3,5/7/2020
+5,Cameron,3,5/8/2020
+5,Cameron,3,5/9/2020
+5,Cameron,3,5/10/2020
+5,Cameron,3,5/11/2020
+5,Cameron,3,5/12/2020
+5,Cameron,3,5/13/2020
+5,Cameron,3,5/14/2020
+5,Cameron,3,5/15/2020
+5,Cameron,3,5/16/2020
+5,Cameron,3,5/17/2020
+5,Cameron,3,5/18/2020
+5,Cameron,3,5/19/2020
+5,Cameron,3,5/20/2020
+5,Cameron,3,5/21/2020
+5,Cameron,3,5/22/2020
+5,Cameron,3,5/23/2020
+5,Cameron,3,5/24/2020
+5,Cameron,3,5/25/2020
+5,Cameron,3,5/26/2020
+5,Cameron,3,5/27/2020
+5,Cameron,3,5/28/2020
+5,Cameron,5,5/30/2020
+5,Cameron,6,5/31/2020
+5,Cameron,6,6/1/2020
+5,Cameron,6,6/2/2020
+5,Cameron,6,6/3/2020
+5,Cameron,8,6/4/2020
+5,Cameron,8,6/5/2020
+5,Cameron,9,6/6/2020
+5,Cameron,9,6/7/2020
+5,Cameron,9,6/8/2020
+5,Cameron,10,6/9/2020
+5,Cameron,10,6/10/2020
+5,Cameron,11,6/11/2020
+5,Cameron,11,6/12/2020
+5,Cameron,11,6/13/2020
+5,Cameron,11,6/14/2020
+5,Cameron,11,6/15/2020
+5,Cameron,11,6/16/2020
+5,Cameron,12,6/17/2020
+6,Catahoula,,3/14/2020
+6,Catahoula,,3/15/2020
+6,Catahoula,,3/16/2020
+6,Catahoula,,3/17/2020
+6,Catahoula,,3/18/2020
+6,Catahoula,,3/19/2020
+6,Catahoula,,3/20/2020
+6,Catahoula,1,3/21/2020
+6,Catahoula,1,3/22/2020
+6,Catahoula,1,3/23/2020
+6,Catahoula,1,3/24/2020
+6,Catahoula,1,3/25/2020
+6,Catahoula,1,3/26/2020
+6,Catahoula,1,3/27/2020
+6,Catahoula,1,3/28/2020
+6,Catahoula,1,3/29/2020
+6,Catahoula,3,3/30/2020
+6,Catahoula,3,3/31/2020
+6,Catahoula,3,4/1/2020
+6,Catahoula,5,4/2/2020
+6,Catahoula,6,4/3/2020
+6,Catahoula,9,4/4/2020
+6,Catahoula,9,4/5/2020
+6,Catahoula,12,4/6/2020
+6,Catahoula,13,4/7/2020
+6,Catahoula,14,4/8/2020
+6,Catahoula,17,4/9/2020
+6,Catahoula,18,4/10/2020
+6,Catahoula,20,4/11/2020
+6,Catahoula,21,4/12/2020
+6,Catahoula,21,4/13/2020
+6,Catahoula,21,4/14/2020
+6,Catahoula,22,4/15/2020
+6,Catahoula,23,4/16/2020
+6,Catahoula,23,4/17/2020
+6,Catahoula,23,4/18/2020
+6,Catahoula,24,4/19/2020
+6,Catahoula,24,4/20/2020
+6,Catahoula,24,4/21/2020
+6,Catahoula,24,4/22/2020
+6,Catahoula,24,4/23/2020
+6,Catahoula,25,4/24/2020
+6,Catahoula,25,4/25/2020
+6,Catahoula,25,4/26/2020
+6,Catahoula,25,4/27/2020
+6,Catahoula,25,4/28/2020
+6,Catahoula,35,4/29/2020
+6,Catahoula,36,4/30/2020
+6,Catahoula,40,5/1/2020
+6,Catahoula,44,5/2/2020
+6,Catahoula,45,5/3/2020
+6,Catahoula,46,5/4/2020
+6,Catahoula,46,5/5/2020
+6,Catahoula,46,5/6/2020
+6,Catahoula,46,5/7/2020
+6,Catahoula,59,5/8/2020
+6,Catahoula,83,5/9/2020
+6,Catahoula,85,5/10/2020
+6,Catahoula,85,5/11/2020
+6,Catahoula,86,5/12/2020
+6,Catahoula,103,5/13/2020
+6,Catahoula,103,5/14/2020
+6,Catahoula,103,5/15/2020
+6,Catahoula,104,5/16/2020
+6,Catahoula,106,5/17/2020
+6,Catahoula,106,5/18/2020
+6,Catahoula,106,5/19/2020
+6,Catahoula,106,5/20/2020
+6,Catahoula,112,5/21/2020
+6,Catahoula,112,5/22/2020
+6,Catahoula,112,5/23/2020
+6,Catahoula,112,5/24/2020
+6,Catahoula,112,5/25/2020
+6,Catahoula,112,5/26/2020
+6,Catahoula,112,5/27/2020
+6,Catahoula,112,5/28/2020
+6,Catahoula,113,5/30/2020
+6,Catahoula,113,5/31/2020
+6,Catahoula,115,6/1/2020
+6,Catahoula,114,6/2/2020
+6,Catahoula,117,6/3/2020
+6,Catahoula,119,6/4/2020
+6,Catahoula,120,6/5/2020
+6,Catahoula,120,6/6/2020
+6,Catahoula,121,6/7/2020
+6,Catahoula,121,6/8/2020
+6,Catahoula,121,6/9/2020
+6,Catahoula,123,6/10/2020
+6,Catahoula,123,6/11/2020
+6,Catahoula,124,6/12/2020
+6,Catahoula,130,6/13/2020
+6,Catahoula,130,6/14/2020
+6,Catahoula,131,6/15/2020
+6,Catahoula,162,6/16/2020
+6,Catahoula,164,6/17/2020
+7,Claiborne,,3/14/2020
+7,Claiborne,,3/15/2020
+7,Claiborne,,3/16/2020
+7,Claiborne,,3/17/2020
+7,Claiborne,,3/18/2020
+7,Claiborne,,3/19/2020
+7,Claiborne,,3/20/2020
+7,Claiborne,,3/21/2020
+7,Claiborne,1,3/22/2020
+7,Claiborne,2,3/23/2020
+7,Claiborne,2,3/24/2020
+7,Claiborne,2,3/25/2020
+7,Claiborne,2,3/26/2020
+7,Claiborne,3,3/27/2020
+7,Claiborne,4,3/28/2020
+7,Claiborne,4,3/29/2020
+7,Claiborne,4,3/30/2020
+7,Claiborne,8,3/31/2020
+7,Claiborne,10,4/1/2020
+7,Claiborne,11,4/2/2020
+7,Claiborne,18,4/3/2020
+7,Claiborne,20,4/4/2020
+7,Claiborne,23,4/5/2020
+7,Claiborne,30,4/6/2020
+7,Claiborne,30,4/7/2020
+7,Claiborne,33,4/8/2020
+7,Claiborne,38,4/9/2020
+7,Claiborne,40,4/10/2020
+7,Claiborne,41,4/11/2020
+7,Claiborne,41,4/12/2020
+7,Claiborne,41,4/13/2020
+7,Claiborne,41,4/14/2020
+7,Claiborne,44,4/15/2020
+7,Claiborne,47,4/16/2020
+7,Claiborne,48,4/17/2020
+7,Claiborne,50,4/18/2020
+7,Claiborne,50,4/19/2020
+7,Claiborne,50,4/20/2020
+7,Claiborne,50,4/21/2020
+7,Claiborne,50,4/22/2020
+7,Claiborne,50,4/23/2020
+7,Claiborne,52,4/24/2020
+7,Claiborne,52,4/25/2020
+7,Claiborne,52,4/26/2020
+7,Claiborne,52,4/27/2020
+7,Claiborne,53,4/28/2020
+7,Claiborne,54,4/29/2020
+7,Claiborne,59,4/30/2020
+7,Claiborne,59,5/1/2020
+7,Claiborne,59,5/2/2020
+7,Claiborne,58,5/3/2020
+7,Claiborne,58,5/4/2020
+7,Claiborne,58,5/5/2020
+7,Claiborne,58,5/6/2020
+7,Claiborne,58,5/7/2020
+7,Claiborne,58,5/8/2020
+7,Claiborne,59,5/9/2020
+7,Claiborne,59,5/10/2020
+7,Claiborne,59,5/11/2020
+7,Claiborne,59,5/12/2020
+7,Claiborne,59,5/13/2020
+7,Claiborne,59,5/14/2020
+7,Claiborne,59,5/15/2020
+7,Claiborne,58,5/16/2020
+7,Claiborne,58,5/17/2020
+7,Claiborne,58,5/18/2020
+7,Claiborne,58,5/19/2020
+7,Claiborne,58,5/20/2020
+7,Claiborne,58,5/21/2020
+7,Claiborne,60,5/22/2020
+7,Claiborne,60,5/23/2020
+7,Claiborne,61,5/24/2020
+7,Claiborne,61,5/25/2020
+7,Claiborne,61,5/26/2020
+7,Claiborne,62,5/27/2020
+7,Claiborne,62,5/28/2020
+7,Claiborne,66,5/30/2020
+7,Claiborne,66,5/31/2020
+7,Claiborne,66,6/1/2020
+7,Claiborne,66,6/2/2020
+7,Claiborne,66,6/3/2020
+7,Claiborne,66,6/4/2020
+7,Claiborne,66,6/5/2020
+7,Claiborne,66,6/6/2020
+7,Claiborne,66,6/7/2020
+7,Claiborne,68,6/8/2020
+7,Claiborne,70,6/9/2020
+7,Claiborne,71,6/10/2020
+7,Claiborne,72,6/11/2020
+7,Claiborne,73,6/12/2020
+7,Claiborne,76,6/13/2020
+7,Claiborne,77,6/14/2020
+7,Claiborne,78,6/15/2020
+7,Claiborne,81,6/16/2020
+7,Claiborne,85,6/17/2020
+6,Concordia,,3/14/2020
+6,Concordia,,3/15/2020
+6,Concordia,,3/16/2020
+6,Concordia,,3/17/2020
+6,Concordia,,3/18/2020
+6,Concordia,,3/19/2020
+6,Concordia,,3/20/2020
+6,Concordia,,3/21/2020
+6,Concordia,,3/22/2020
+6,Concordia,,3/23/2020
+6,Concordia,,3/24/2020
+6,Concordia,,3/25/2020
+6,Concordia,,3/26/2020
+6,Concordia,,3/27/2020
+6,Concordia,,3/28/2020
+6,Concordia,,3/29/2020
+6,Concordia,,3/30/2020
+6,Concordia,3,3/31/2020
+6,Concordia,5,4/1/2020
+6,Concordia,8,4/2/2020
+6,Concordia,10,4/3/2020
+6,Concordia,5,4/4/2020
+6,Concordia,5,4/5/2020
+6,Concordia,9,4/6/2020
+6,Concordia,11,4/7/2020
+6,Concordia,12,4/8/2020
+6,Concordia,13,4/9/2020
+6,Concordia,16,4/10/2020
+6,Concordia,17,4/11/2020
+6,Concordia,18,4/12/2020
+6,Concordia,19,4/13/2020
+6,Concordia,19,4/14/2020
+6,Concordia,21,4/15/2020
+6,Concordia,21,4/16/2020
+6,Concordia,23,4/17/2020
+6,Concordia,25,4/18/2020
+6,Concordia,26,4/19/2020
+6,Concordia,26,4/20/2020
+6,Concordia,26,4/21/2020
+6,Concordia,27,4/22/2020
+6,Concordia,27,4/23/2020
+6,Concordia,28,4/24/2020
+6,Concordia,30,4/25/2020
+6,Concordia,30,4/26/2020
+6,Concordia,31,4/27/2020
+6,Concordia,32,4/28/2020
+6,Concordia,36,4/29/2020
+6,Concordia,38,4/30/2020
+6,Concordia,39,5/1/2020
+6,Concordia,39,5/2/2020
+6,Concordia,39,5/3/2020
+6,Concordia,40,5/4/2020
+6,Concordia,41,5/5/2020
+6,Concordia,42,5/6/2020
+6,Concordia,42,5/7/2020
+6,Concordia,43,5/8/2020
+6,Concordia,43,5/9/2020
+6,Concordia,43,5/10/2020
+6,Concordia,43,5/11/2020
+6,Concordia,43,5/12/2020
+6,Concordia,51,5/13/2020
+6,Concordia,54,5/14/2020
+6,Concordia,55,5/15/2020
+6,Concordia,56,5/16/2020
+6,Concordia,57,5/17/2020
+6,Concordia,57,5/18/2020
+6,Concordia,57,5/19/2020
+6,Concordia,57,5/20/2020
+6,Concordia,68,5/21/2020
+6,Concordia,69,5/22/2020
+6,Concordia,69,5/23/2020
+6,Concordia,69,5/24/2020
+6,Concordia,73,5/25/2020
+6,Concordia,74,5/26/2020
+6,Concordia,86,5/27/2020
+6,Concordia,86,5/28/2020
+6,Concordia,87,5/30/2020
+6,Concordia,87,5/31/2020
+6,Concordia,88,6/1/2020
+6,Concordia,88,6/2/2020
+6,Concordia,94,6/3/2020
+6,Concordia,94,6/4/2020
+6,Concordia,95,6/5/2020
+6,Concordia,96,6/6/2020
+6,Concordia,96,6/7/2020
+6,Concordia,96,6/8/2020
+6,Concordia,97,6/9/2020
+6,Concordia,97,6/10/2020
+6,Concordia,97,6/11/2020
+6,Concordia,97,6/12/2020
+6,Concordia,105,6/13/2020
+6,Concordia,105,6/14/2020
+6,Concordia,107,6/15/2020
+6,Concordia,109,6/16/2020
+6,Concordia,117,6/17/2020
+7,De Soto,,3/14/2020
+7,De Soto,,3/15/2020
+7,De Soto,,3/16/2020
+7,De Soto,,3/17/2020
+7,De Soto,,3/18/2020
+7,De Soto,,3/19/2020
+7,De Soto,,3/20/2020
+7,De Soto,2,3/21/2020
+7,De Soto,2,3/22/2020
+7,De Soto,5,3/23/2020
+7,De Soto,6,3/24/2020
+7,De Soto,8,3/25/2020
+7,De Soto,11,3/26/2020
+7,De Soto,13,3/27/2020
+7,De Soto,21,3/28/2020
+7,De Soto,25,3/29/2020
+7,De Soto,28,3/30/2020
+7,De Soto,30,3/31/2020
+7,De Soto,39,4/1/2020
+7,De Soto,42,4/2/2020
+7,De Soto,46,4/3/2020
+7,De Soto,71,4/4/2020
+7,De Soto,80,4/5/2020
+7,De Soto,82,4/6/2020
+7,De Soto,89,4/7/2020
+7,De Soto,91,4/8/2020
+7,De Soto,101,4/9/2020
+7,De Soto,107,4/10/2020
+7,De Soto,114,4/11/2020
+7,De Soto,124,4/12/2020
+7,De Soto,125,4/13/2020
+7,De Soto,130,4/14/2020
+7,De Soto,134,4/15/2020
+7,De Soto,140,4/16/2020
+7,De Soto,145,4/17/2020
+7,De Soto,152,4/18/2020
+7,De Soto,156,4/19/2020
+7,De Soto,158,4/20/2020
+7,De Soto,168,4/21/2020
+7,De Soto,171,4/22/2020
+7,De Soto,176,4/23/2020
+7,De Soto,180,4/24/2020
+7,De Soto,184,4/25/2020
+7,De Soto,185,4/26/2020
+7,De Soto,187,4/27/2020
+7,De Soto,189,4/28/2020
+7,De Soto,191,4/29/2020
+7,De Soto,190,4/30/2020
+7,De Soto,194,5/1/2020
+7,De Soto,198,5/2/2020
+7,De Soto,198,5/3/2020
+7,De Soto,202,5/4/2020
+7,De Soto,202,5/5/2020
+7,De Soto,205,5/6/2020
+7,De Soto,207,5/7/2020
+7,De Soto,208,5/8/2020
+7,De Soto,213,5/9/2020
+7,De Soto,214,5/10/2020
+7,De Soto,215,5/11/2020
+7,De Soto,215,5/12/2020
+7,De Soto,221,5/13/2020
+7,De Soto,223,5/14/2020
+7,De Soto,225,5/15/2020
+7,De Soto,218,5/16/2020
+7,De Soto,222,5/17/2020
+7,De Soto,224,5/18/2020
+7,De Soto,226,5/19/2020
+7,De Soto,228,5/20/2020
+7,De Soto,235,5/21/2020
+7,De Soto,236,5/22/2020
+7,De Soto,236,5/23/2020
+7,De Soto,237,5/24/2020
+7,De Soto,239,5/25/2020
+7,De Soto,239,5/26/2020
+7,De Soto,241,5/27/2020
+7,De Soto,242,5/28/2020
+7,De Soto,246,5/30/2020
+7,De Soto,247,5/31/2020
+7,De Soto,247,6/1/2020
+7,De Soto,249,6/2/2020
+7,De Soto,250,6/3/2020
+7,De Soto,260,6/4/2020
+7,De Soto,262,6/5/2020
+7,De Soto,262,6/6/2020
+7,De Soto,262,6/7/2020
+7,De Soto,263,6/8/2020
+7,De Soto,263,6/9/2020
+7,De Soto,263,6/10/2020
+7,De Soto,266,6/11/2020
+7,De Soto,269,6/12/2020
+7,De Soto,270,6/13/2020
+7,De Soto,271,6/14/2020
+7,De Soto,271,6/15/2020
+7,De Soto,273,6/16/2020
+7,De Soto,275,6/17/2020
+2,East Baton Rouge,,3/14/2020
+2,East Baton Rouge,,3/15/2020
+2,East Baton Rouge,,3/16/2020
+2,East Baton Rouge,,3/17/2020
+2,East Baton Rouge,1,3/18/2020
+2,East Baton Rouge,5,3/19/2020
+2,East Baton Rouge,7,3/20/2020
+2,East Baton Rouge,8,3/21/2020
+2,East Baton Rouge,20,3/22/2020
+2,East Baton Rouge,43,3/23/2020
+2,East Baton Rouge,58,3/24/2020
+2,East Baton Rouge,75,3/25/2020
+2,East Baton Rouge,105,3/26/2020
+2,East Baton Rouge,124,3/27/2020
+2,East Baton Rouge,153,3/28/2020
+2,East Baton Rouge,164,3/29/2020
+2,East Baton Rouge,188,3/30/2020
+2,East Baton Rouge,228,3/31/2020
+2,East Baton Rouge,244,4/1/2020
+2,East Baton Rouge,325,4/2/2020
+2,East Baton Rouge,389,4/3/2020
+2,East Baton Rouge,621,4/4/2020
+2,East Baton Rouge,656,4/5/2020
+2,East Baton Rouge,816,4/6/2020
+2,East Baton Rouge,892,4/7/2020
+2,East Baton Rouge,935,4/8/2020
+2,East Baton Rouge,1000,4/9/2020
+2,East Baton Rouge,1088,4/10/2020
+2,East Baton Rouge,1158,4/11/2020
+2,East Baton Rouge,1223,4/12/2020
+2,East Baton Rouge,1273,4/13/2020
+2,East Baton Rouge,1295,4/14/2020
+2,East Baton Rouge,1325,4/15/2020
+2,East Baton Rouge,1389,4/16/2020
+2,East Baton Rouge,1424,4/17/2020
+2,East Baton Rouge,1476,4/18/2020
+2,East Baton Rouge,1512,4/19/2020
+2,East Baton Rouge,1534,4/20/2020
+2,East Baton Rouge,1560,4/21/2020
+2,East Baton Rouge,1603,4/22/2020
+2,East Baton Rouge,1636,4/23/2020
+2,East Baton Rouge,1697,4/24/2020
+2,East Baton Rouge,1720,4/25/2020
+2,East Baton Rouge,1739,4/26/2020
+2,East Baton Rouge,1771,4/27/2020
+2,East Baton Rouge,1787,4/28/2020
+2,East Baton Rouge,1830,4/29/2020
+2,East Baton Rouge,1874,4/30/2020
+2,East Baton Rouge,1989,5/1/2020
+2,East Baton Rouge,2054,5/2/2020
+2,East Baton Rouge,2086,5/3/2020
+2,East Baton Rouge,2131,5/4/2020
+2,East Baton Rouge,2175,5/5/2020
+2,East Baton Rouge,2224,5/6/2020
+2,East Baton Rouge,2256,5/7/2020
+2,East Baton Rouge,2284,5/8/2020
+2,East Baton Rouge,2348,5/9/2020
+2,East Baton Rouge,2374,5/10/2020
+2,East Baton Rouge,2398,5/11/2020
+2,East Baton Rouge,2445,5/12/2020
+2,East Baton Rouge,2487,5/13/2020
+2,East Baton Rouge,2898,5/14/2020
+2,East Baton Rouge,2953,5/15/2020
+2,East Baton Rouge,3009,5/16/2020
+2,East Baton Rouge,3034,5/17/2020
+2,East Baton Rouge,3056,5/18/2020
+2,East Baton Rouge,3145,5/19/2020
+2,East Baton Rouge,3213,5/20/2020
+2,East Baton Rouge,3319,5/21/2020
+2,East Baton Rouge,3370,5/22/2020
+2,East Baton Rouge,3382,5/23/2020
+2,East Baton Rouge,3386,5/24/2020
+2,East Baton Rouge,3438,5/25/2020
+2,East Baton Rouge,3462,5/26/2020
+2,East Baton Rouge,3491,5/27/2020
+2,East Baton Rouge,3526,5/28/2020
+2,East Baton Rouge,3591,5/30/2020
+2,East Baton Rouge,3618,5/31/2020
+2,East Baton Rouge,3666,6/1/2020
+2,East Baton Rouge,3730,6/2/2020
+2,East Baton Rouge,3773,6/3/2020
+2,East Baton Rouge,3820,6/4/2020
+2,East Baton Rouge,3874,6/5/2020
+2,East Baton Rouge,3911,6/6/2020
+2,East Baton Rouge,3949,6/7/2020
+2,East Baton Rouge,3963,6/8/2020
+2,East Baton Rouge,4023,6/9/2020
+2,East Baton Rouge,4054,6/10/2020
+2,East Baton Rouge,4088,6/11/2020
+2,East Baton Rouge,4150,6/12/2020
+2,East Baton Rouge,4197,6/13/2020
+2,East Baton Rouge,4226,6/14/2020
+2,East Baton Rouge,4284,6/15/2020
+2,East Baton Rouge,4301,6/16/2020
+2,East Baton Rouge,4357,6/17/2020
+8,East Carroll,,3/14/2020
+8,East Carroll,,3/15/2020
+8,East Carroll,,3/16/2020
+8,East Carroll,,3/17/2020
+8,East Carroll,,3/18/2020
+8,East Carroll,,3/19/2020
+8,East Carroll,,3/20/2020
+8,East Carroll,,3/21/2020
+8,East Carroll,,3/22/2020
+8,East Carroll,,3/23/2020
+8,East Carroll,,3/24/2020
+8,East Carroll,,3/25/2020
+8,East Carroll,,3/26/2020
+8,East Carroll,,3/27/2020
+8,East Carroll,1,3/28/2020
+8,East Carroll,1,3/29/2020
+8,East Carroll,1,3/30/2020
+8,East Carroll,1,3/31/2020
+8,East Carroll,1,4/1/2020
+8,East Carroll,1,4/2/2020
+8,East Carroll,1,4/3/2020
+8,East Carroll,1,4/4/2020
+8,East Carroll,1,4/5/2020
+8,East Carroll,1,4/6/2020
+8,East Carroll,1,4/7/2020
+8,East Carroll,1,4/8/2020
+8,East Carroll,1,4/9/2020
+8,East Carroll,1,4/10/2020
+8,East Carroll,1,4/11/2020
+8,East Carroll,1,4/12/2020
+8,East Carroll,1,4/13/2020
+8,East Carroll,1,4/14/2020
+8,East Carroll,1,4/15/2020
+8,East Carroll,1,4/16/2020
+8,East Carroll,1,4/17/2020
+8,East Carroll,1,4/18/2020
+8,East Carroll,1,4/19/2020
+8,East Carroll,1,4/20/2020
+8,East Carroll,1,4/21/2020
+8,East Carroll,5,4/22/2020
+8,East Carroll,5,4/23/2020
+8,East Carroll,6,4/24/2020
+8,East Carroll,6,4/25/2020
+8,East Carroll,6,4/26/2020
+8,East Carroll,6,4/27/2020
+8,East Carroll,8,4/28/2020
+8,East Carroll,8,4/29/2020
+8,East Carroll,9,4/30/2020
+8,East Carroll,9,5/1/2020
+8,East Carroll,9,5/2/2020
+8,East Carroll,9,5/3/2020
+8,East Carroll,8,5/4/2020
+8,East Carroll,9,5/5/2020
+8,East Carroll,11,5/6/2020
+8,East Carroll,14,5/7/2020
+8,East Carroll,15,5/8/2020
+8,East Carroll,17,5/9/2020
+8,East Carroll,17,5/10/2020
+8,East Carroll,23,5/11/2020
+8,East Carroll,24,5/12/2020
+8,East Carroll,25,5/13/2020
+8,East Carroll,25,5/14/2020
+8,East Carroll,26,5/15/2020
+8,East Carroll,32,5/16/2020
+8,East Carroll,34,5/17/2020
+8,East Carroll,37,5/18/2020
+8,East Carroll,46,5/19/2020
+8,East Carroll,46,5/20/2020
+8,East Carroll,51,5/21/2020
+8,East Carroll,62,5/22/2020
+8,East Carroll,62,5/23/2020
+8,East Carroll,65,5/24/2020
+8,East Carroll,103,5/25/2020
+8,East Carroll,111,5/26/2020
+8,East Carroll,115,5/27/2020
+8,East Carroll,118,5/28/2020
+8,East Carroll,138,5/30/2020
+8,East Carroll,148,5/31/2020
+8,East Carroll,159,6/1/2020
+8,East Carroll,164,6/2/2020
+8,East Carroll,165,6/3/2020
+8,East Carroll,179,6/4/2020
+8,East Carroll,184,6/5/2020
+8,East Carroll,187,6/6/2020
+8,East Carroll,195,6/7/2020
+8,East Carroll,199,6/8/2020
+8,East Carroll,205,6/9/2020
+8,East Carroll,208,6/10/2020
+8,East Carroll,212,6/11/2020
+8,East Carroll,216,6/12/2020
+8,East Carroll,222,6/13/2020
+8,East Carroll,235,6/14/2020
+8,East Carroll,243,6/15/2020
+8,East Carroll,243,6/16/2020
+8,East Carroll,244,6/17/2020
+2,East Feliciana,,3/14/2020
+2,East Feliciana,,3/15/2020
+2,East Feliciana,,3/16/2020
+2,East Feliciana,,3/17/2020
+2,East Feliciana,,3/18/2020
+2,East Feliciana,,3/19/2020
+2,East Feliciana,,3/20/2020
+2,East Feliciana,,3/21/2020
+2,East Feliciana,,3/22/2020
+2,East Feliciana,,3/23/2020
+2,East Feliciana,,3/24/2020
+2,East Feliciana,,3/25/2020
+2,East Feliciana,4,3/26/2020
+2,East Feliciana,5,3/27/2020
+2,East Feliciana,6,3/28/2020
+2,East Feliciana,8,3/29/2020
+2,East Feliciana,8,3/30/2020
+2,East Feliciana,9,3/31/2020
+2,East Feliciana,10,4/1/2020
+2,East Feliciana,14,4/2/2020
+2,East Feliciana,19,4/3/2020
+2,East Feliciana,22,4/4/2020
+2,East Feliciana,27,4/5/2020
+2,East Feliciana,39,4/6/2020
+2,East Feliciana,39,4/7/2020
+2,East Feliciana,39,4/8/2020
+2,East Feliciana,59,4/9/2020
+2,East Feliciana,65,4/10/2020
+2,East Feliciana,67,4/11/2020
+2,East Feliciana,71,4/12/2020
+2,East Feliciana,73,4/13/2020
+2,East Feliciana,77,4/14/2020
+2,East Feliciana,81,4/15/2020
+2,East Feliciana,84,4/16/2020
+2,East Feliciana,90,4/17/2020
+2,East Feliciana,90,4/18/2020
+2,East Feliciana,93,4/19/2020
+2,East Feliciana,95,4/20/2020
+2,East Feliciana,101,4/21/2020
+2,East Feliciana,102,4/22/2020
+2,East Feliciana,106,4/23/2020
+2,East Feliciana,105,4/24/2020
+2,East Feliciana,107,4/25/2020
+2,East Feliciana,108,4/26/2020
+2,East Feliciana,116,4/27/2020
+2,East Feliciana,118,4/28/2020
+2,East Feliciana,119,4/29/2020
+2,East Feliciana,122,4/30/2020
+2,East Feliciana,128,5/1/2020
+2,East Feliciana,128,5/2/2020
+2,East Feliciana,129,5/3/2020
+2,East Feliciana,130,5/4/2020
+2,East Feliciana,131,5/5/2020
+2,East Feliciana,132,5/6/2020
+2,East Feliciana,132,5/7/2020
+2,East Feliciana,133,5/8/2020
+2,East Feliciana,136,5/9/2020
+2,East Feliciana,135,5/10/2020
+2,East Feliciana,136,5/11/2020
+2,East Feliciana,140,5/12/2020
+2,East Feliciana,145,5/13/2020
+2,East Feliciana,169,5/14/2020
+2,East Feliciana,172,5/15/2020
+2,East Feliciana,176,5/16/2020
+2,East Feliciana,176,5/17/2020
+2,East Feliciana,177,5/18/2020
+2,East Feliciana,179,5/19/2020
+2,East Feliciana,179,5/20/2020
+2,East Feliciana,183,5/21/2020
+2,East Feliciana,184,5/22/2020
+2,East Feliciana,185,5/23/2020
+2,East Feliciana,187,5/24/2020
+2,East Feliciana,190,5/25/2020
+2,East Feliciana,190,5/26/2020
+2,East Feliciana,191,5/27/2020
+2,East Feliciana,192,5/28/2020
+2,East Feliciana,194,5/30/2020
+2,East Feliciana,194,5/31/2020
+2,East Feliciana,197,6/1/2020
+2,East Feliciana,198,6/2/2020
+2,East Feliciana,198,6/3/2020
+2,East Feliciana,199,6/4/2020
+2,East Feliciana,199,6/5/2020
+2,East Feliciana,201,6/6/2020
+2,East Feliciana,201,6/7/2020
+2,East Feliciana,201,6/8/2020
+2,East Feliciana,207,6/9/2020
+2,East Feliciana,210,6/10/2020
+2,East Feliciana,210,6/11/2020
+2,East Feliciana,216,6/12/2020
+2,East Feliciana,225,6/13/2020
+2,East Feliciana,226,6/14/2020
+2,East Feliciana,227,6/15/2020
+2,East Feliciana,229,6/16/2020
+2,East Feliciana,231,6/17/2020
+4,Evangeline,,3/14/2020
+4,Evangeline,,3/15/2020
+4,Evangeline,,3/16/2020
+4,Evangeline,,3/17/2020
+4,Evangeline,,3/18/2020
+4,Evangeline,,3/19/2020
+4,Evangeline,,3/20/2020
+4,Evangeline,1,3/21/2020
+4,Evangeline,2,3/22/2020
+4,Evangeline,2,3/23/2020
+4,Evangeline,2,3/24/2020
+4,Evangeline,2,3/25/2020
+4,Evangeline,2,3/26/2020
+4,Evangeline,4,3/27/2020
+4,Evangeline,4,3/28/2020
+4,Evangeline,4,3/29/2020
+4,Evangeline,8,3/30/2020
+4,Evangeline,10,3/31/2020
+4,Evangeline,11,4/1/2020
+4,Evangeline,16,4/2/2020
+4,Evangeline,18,4/3/2020
+4,Evangeline,19,4/4/2020
+4,Evangeline,19,4/5/2020
+4,Evangeline,23,4/6/2020
+4,Evangeline,23,4/7/2020
+4,Evangeline,25,4/8/2020
+4,Evangeline,31,4/9/2020
+4,Evangeline,35,4/10/2020
+4,Evangeline,34,4/11/2020
+4,Evangeline,36,4/12/2020
+4,Evangeline,38,4/13/2020
+4,Evangeline,39,4/14/2020
+4,Evangeline,40,4/15/2020
+4,Evangeline,41,4/16/2020
+4,Evangeline,42,4/17/2020
+4,Evangeline,43,4/18/2020
+4,Evangeline,43,4/19/2020
+4,Evangeline,43,4/20/2020
+4,Evangeline,43,4/21/2020
+4,Evangeline,44,4/22/2020
+4,Evangeline,44,4/23/2020
+4,Evangeline,44,4/24/2020
+4,Evangeline,45,4/25/2020
+4,Evangeline,45,4/26/2020
+4,Evangeline,45,4/27/2020
+4,Evangeline,46,4/28/2020
+4,Evangeline,49,4/29/2020
+4,Evangeline,49,4/30/2020
+4,Evangeline,51,5/1/2020
+4,Evangeline,59,5/2/2020
+4,Evangeline,59,5/3/2020
+4,Evangeline,60,5/4/2020
+4,Evangeline,63,5/5/2020
+4,Evangeline,63,5/6/2020
+4,Evangeline,64,5/7/2020
+4,Evangeline,67,5/8/2020
+4,Evangeline,67,5/9/2020
+4,Evangeline,67,5/10/2020
+4,Evangeline,67,5/11/2020
+4,Evangeline,68,5/12/2020
+4,Evangeline,74,5/13/2020
+4,Evangeline,74,5/14/2020
+4,Evangeline,74,5/15/2020
+4,Evangeline,66,5/16/2020
+4,Evangeline,66,5/17/2020
+4,Evangeline,66,5/18/2020
+4,Evangeline,67,5/19/2020
+4,Evangeline,67,5/20/2020
+4,Evangeline,83,5/21/2020
+4,Evangeline,87,5/22/2020
+4,Evangeline,129,5/23/2020
+4,Evangeline,165,5/24/2020
+4,Evangeline,166,5/25/2020
+4,Evangeline,75,5/26/2020
+4,Evangeline,75,5/27/2020
+4,Evangeline,75,5/28/2020
+4,Evangeline,78,5/30/2020
+4,Evangeline,78,5/31/2020
+4,Evangeline,78,6/1/2020
+4,Evangeline,80,6/2/2020
+4,Evangeline,81,6/3/2020
+4,Evangeline,81,6/4/2020
+4,Evangeline,81,6/5/2020
+4,Evangeline,82,6/6/2020
+4,Evangeline,84,6/7/2020
+4,Evangeline,84,6/8/2020
+4,Evangeline,85,6/9/2020
+4,Evangeline,85,6/10/2020
+4,Evangeline,85,6/11/2020
+4,Evangeline,87,6/12/2020
+4,Evangeline,89,6/13/2020
+4,Evangeline,89,6/14/2020
+4,Evangeline,91,6/15/2020
+4,Evangeline,93,6/16/2020
+4,Evangeline,100,6/17/2020
+8,Franklin,,3/14/2020
+8,Franklin,,3/15/2020
+8,Franklin,,3/16/2020
+8,Franklin,,3/17/2020
+8,Franklin,,3/18/2020
+8,Franklin,,3/19/2020
+8,Franklin,,3/20/2020
+8,Franklin,,3/21/2020
+8,Franklin,,3/22/2020
+8,Franklin,,3/23/2020
+8,Franklin,,3/24/2020
+8,Franklin,,3/25/2020
+8,Franklin,,3/26/2020
+8,Franklin,,3/27/2020
+8,Franklin,4,3/28/2020
+8,Franklin,4,3/29/2020
+8,Franklin,5,3/30/2020
+8,Franklin,5,3/31/2020
+8,Franklin,5,4/1/2020
+8,Franklin,5,4/2/2020
+8,Franklin,10,4/3/2020
+8,Franklin,19,4/4/2020
+8,Franklin,25,4/5/2020
+8,Franklin,28,4/6/2020
+8,Franklin,28,4/7/2020
+8,Franklin,30,4/8/2020
+8,Franklin,37,4/9/2020
+8,Franklin,40,4/10/2020
+8,Franklin,47,4/11/2020
+8,Franklin,48,4/12/2020
+8,Franklin,49,4/13/2020
+8,Franklin,49,4/14/2020
+8,Franklin,53,4/15/2020
+8,Franklin,58,4/16/2020
+8,Franklin,67,4/17/2020
+8,Franklin,78,4/18/2020
+8,Franklin,81,4/19/2020
+8,Franklin,83,4/20/2020
+8,Franklin,87,4/21/2020
+8,Franklin,95,4/22/2020
+8,Franklin,108,4/23/2020
+8,Franklin,108,4/24/2020
+8,Franklin,113,4/25/2020
+8,Franklin,116,4/26/2020
+8,Franklin,119,4/27/2020
+8,Franklin,121,4/28/2020
+8,Franklin,123,4/29/2020
+8,Franklin,125,4/30/2020
+8,Franklin,130,5/1/2020
+8,Franklin,131,5/2/2020
+8,Franklin,131,5/3/2020
+8,Franklin,139,5/4/2020
+8,Franklin,140,5/5/2020
+8,Franklin,146,5/6/2020
+8,Franklin,145,5/7/2020
+8,Franklin,146,5/8/2020
+8,Franklin,188,5/9/2020
+8,Franklin,206,5/10/2020
+8,Franklin,208,5/11/2020
+8,Franklin,208,5/12/2020
+8,Franklin,256,5/13/2020
+8,Franklin,266,5/14/2020
+8,Franklin,266,5/15/2020
+8,Franklin,268,5/16/2020
+8,Franklin,273,5/17/2020
+8,Franklin,273,5/18/2020
+8,Franklin,274,5/19/2020
+8,Franklin,274,5/20/2020
+8,Franklin,287,5/21/2020
+8,Franklin,287,5/22/2020
+8,Franklin,287,5/23/2020
+8,Franklin,288,5/24/2020
+8,Franklin,294,5/25/2020
+8,Franklin,297,5/26/2020
+8,Franklin,310,5/27/2020
+8,Franklin,311,5/28/2020
+8,Franklin,314,5/30/2020
+8,Franklin,332,5/31/2020
+8,Franklin,376,6/1/2020
+8,Franklin,377,6/2/2020
+8,Franklin,377,6/3/2020
+8,Franklin,378,6/4/2020
+8,Franklin,383,6/5/2020
+8,Franklin,384,6/6/2020
+8,Franklin,386,6/7/2020
+8,Franklin,389,6/8/2020
+8,Franklin,390,6/9/2020
+8,Franklin,391,6/10/2020
+8,Franklin,395,6/11/2020
+8,Franklin,395,6/12/2020
+8,Franklin,415,6/13/2020
+8,Franklin,415,6/14/2020
+8,Franklin,424,6/15/2020
+8,Franklin,425,6/16/2020
+8,Franklin,439,6/17/2020
+6,Grant,,3/14/2020
+6,Grant,,3/15/2020
+6,Grant,,3/16/2020
+6,Grant,,3/17/2020
+6,Grant,,3/18/2020
+6,Grant,,3/19/2020
+6,Grant,,3/20/2020
+6,Grant,,3/21/2020
+6,Grant,,3/22/2020
+6,Grant,1,3/23/2020
+6,Grant,1,3/24/2020
+6,Grant,1,3/25/2020
+6,Grant,1,3/26/2020
+6,Grant,1,3/27/2020
+6,Grant,1,3/28/2020
+6,Grant,2,3/29/2020
+6,Grant,2,3/30/2020
+6,Grant,2,3/31/2020
+6,Grant,3,4/1/2020
+6,Grant,5,4/2/2020
+6,Grant,5,4/3/2020
+6,Grant,9,4/4/2020
+6,Grant,8,4/5/2020
+6,Grant,10,4/6/2020
+6,Grant,10,4/7/2020
+6,Grant,10,4/8/2020
+6,Grant,10,4/9/2020
+6,Grant,11,4/10/2020
+6,Grant,11,4/11/2020
+6,Grant,11,4/12/2020
+6,Grant,12,4/13/2020
+6,Grant,12,4/14/2020
+6,Grant,12,4/15/2020
+6,Grant,12,4/16/2020
+6,Grant,12,4/17/2020
+6,Grant,12,4/18/2020
+6,Grant,12,4/19/2020
+6,Grant,12,4/20/2020
+6,Grant,12,4/21/2020
+6,Grant,12,4/22/2020
+6,Grant,11,4/23/2020
+6,Grant,11,4/24/2020
+6,Grant,11,4/25/2020
+6,Grant,11,4/26/2020
+6,Grant,12,4/27/2020
+6,Grant,12,4/28/2020
+6,Grant,12,4/29/2020
+6,Grant,13,4/30/2020
+6,Grant,14,5/1/2020
+6,Grant,15,5/2/2020
+6,Grant,15,5/3/2020
+6,Grant,17,5/4/2020
+6,Grant,17,5/5/2020
+6,Grant,17,5/6/2020
+6,Grant,17,5/7/2020
+6,Grant,17,5/8/2020
+6,Grant,18,5/9/2020
+6,Grant,18,5/10/2020
+6,Grant,18,5/11/2020
+6,Grant,18,5/12/2020
+6,Grant,18,5/13/2020
+6,Grant,18,5/14/2020
+6,Grant,20,5/15/2020
+6,Grant,20,5/16/2020
+6,Grant,21,5/17/2020
+6,Grant,22,5/18/2020
+6,Grant,22,5/19/2020
+6,Grant,22,5/20/2020
+6,Grant,26,5/21/2020
+6,Grant,26,5/22/2020
+6,Grant,26,5/23/2020
+6,Grant,26,5/24/2020
+6,Grant,27,5/25/2020
+6,Grant,27,5/26/2020
+6,Grant,28,5/27/2020
+6,Grant,28,5/28/2020
+6,Grant,28,5/30/2020
+6,Grant,28,5/31/2020
+6,Grant,29,6/1/2020
+6,Grant,30,6/2/2020
+6,Grant,30,6/3/2020
+6,Grant,33,6/4/2020
+6,Grant,34,6/5/2020
+6,Grant,36,6/6/2020
+6,Grant,44,6/7/2020
+6,Grant,46,6/8/2020
+6,Grant,48,6/9/2020
+6,Grant,51,6/10/2020
+6,Grant,51,6/11/2020
+6,Grant,54,6/12/2020
+6,Grant,58,6/13/2020
+6,Grant,59,6/14/2020
+6,Grant,61,6/15/2020
+6,Grant,61,6/16/2020
+6,Grant,61,6/17/2020
+4,Iberia,,3/14/2020
+4,Iberia,,3/15/2020
+4,Iberia,,3/16/2020
+4,Iberia,,3/17/2020
+4,Iberia,,3/18/2020
+4,Iberia,,3/19/2020
+4,Iberia,,3/20/2020
+4,Iberia,,3/21/2020
+4,Iberia,2,3/22/2020
+4,Iberia,3,3/23/2020
+4,Iberia,2,3/24/2020
+4,Iberia,2,3/25/2020
+4,Iberia,3,3/26/2020
+4,Iberia,4,3/27/2020
+4,Iberia,9,3/28/2020
+4,Iberia,11,3/29/2020
+4,Iberia,18,3/30/2020
+4,Iberia,36,3/31/2020
+4,Iberia,49,4/1/2020
+4,Iberia,67,4/2/2020
+4,Iberia,78,4/3/2020
+4,Iberia,68,4/4/2020
+4,Iberia,69,4/5/2020
+4,Iberia,83,4/6/2020
+4,Iberia,89,4/7/2020
+4,Iberia,97,4/8/2020
+4,Iberia,108,4/9/2020
+4,Iberia,121,4/10/2020
+4,Iberia,128,4/11/2020
+4,Iberia,136,4/12/2020
+4,Iberia,142,4/13/2020
+4,Iberia,148,4/14/2020
+4,Iberia,159,4/15/2020
+4,Iberia,164,4/16/2020
+4,Iberia,175,4/17/2020
+4,Iberia,176,4/18/2020
+4,Iberia,184,4/19/2020
+4,Iberia,194,4/20/2020
+4,Iberia,195,4/21/2020
+4,Iberia,217,4/22/2020
+4,Iberia,228,4/23/2020
+4,Iberia,231,4/24/2020
+4,Iberia,240,4/25/2020
+4,Iberia,243,4/26/2020
+4,Iberia,245,4/27/2020
+4,Iberia,247,4/28/2020
+4,Iberia,248,4/29/2020
+4,Iberia,257,4/30/2020
+4,Iberia,261,5/1/2020
+4,Iberia,265,5/2/2020
+4,Iberia,267,5/3/2020
+4,Iberia,270,5/4/2020
+4,Iberia,274,5/5/2020
+4,Iberia,278,5/6/2020
+4,Iberia,281,5/7/2020
+4,Iberia,283,5/8/2020
+4,Iberia,285,5/9/2020
+4,Iberia,285,5/10/2020
+4,Iberia,286,5/11/2020
+4,Iberia,287,5/12/2020
+4,Iberia,352,5/13/2020
+4,Iberia,352,5/14/2020
+4,Iberia,352,5/15/2020
+4,Iberia,353,5/16/2020
+4,Iberia,353,5/17/2020
+4,Iberia,355,5/18/2020
+4,Iberia,358,5/19/2020
+4,Iberia,359,5/20/2020
+4,Iberia,384,5/21/2020
+4,Iberia,388,5/22/2020
+4,Iberia,388,5/23/2020
+4,Iberia,388,5/24/2020
+4,Iberia,392,5/25/2020
+4,Iberia,393,5/26/2020
+4,Iberia,403,5/27/2020
+4,Iberia,404,5/28/2020
+4,Iberia,407,5/30/2020
+4,Iberia,408,5/31/2020
+4,Iberia,410,6/1/2020
+4,Iberia,411,6/2/2020
+4,Iberia,418,6/3/2020
+4,Iberia,419,6/4/2020
+4,Iberia,422,6/5/2020
+4,Iberia,424,6/6/2020
+4,Iberia,424,6/7/2020
+4,Iberia,427,6/8/2020
+4,Iberia,428,6/9/2020
+4,Iberia,428,6/10/2020
+4,Iberia,430,6/11/2020
+4,Iberia,435,6/12/2020
+4,Iberia,459,6/13/2020
+4,Iberia,461,6/14/2020
+4,Iberia,465,6/15/2020
+4,Iberia,476,6/16/2020
+4,Iberia,501,6/17/2020
+2,Iberville,,3/14/2020
+2,Iberville,,3/15/2020
+2,Iberville,,3/16/2020
+2,Iberville,,3/17/2020
+2,Iberville,,3/18/2020
+2,Iberville,,3/19/2020
+2,Iberville,,3/20/2020
+2,Iberville,,3/21/2020
+2,Iberville,2,3/22/2020
+2,Iberville,10,3/23/2020
+2,Iberville,14,3/24/2020
+2,Iberville,14,3/25/2020
+2,Iberville,17,3/26/2020
+2,Iberville,20,3/27/2020
+2,Iberville,21,3/28/2020
+2,Iberville,22,3/29/2020
+2,Iberville,28,3/30/2020
+2,Iberville,35,3/31/2020
+2,Iberville,36,4/1/2020
+2,Iberville,69,4/2/2020
+2,Iberville,81,4/3/2020
+2,Iberville,119,4/4/2020
+2,Iberville,122,4/5/2020
+2,Iberville,136,4/6/2020
+2,Iberville,160,4/7/2020
+2,Iberville,171,4/8/2020
+2,Iberville,187,4/9/2020
+2,Iberville,198,4/10/2020
+2,Iberville,214,4/11/2020
+2,Iberville,232,4/12/2020
+2,Iberville,241,4/13/2020
+2,Iberville,253,4/14/2020
+2,Iberville,256,4/15/2020
+2,Iberville,258,4/16/2020
+2,Iberville,267,4/17/2020
+2,Iberville,270,4/18/2020
+2,Iberville,274,4/19/2020
+2,Iberville,282,4/20/2020
+2,Iberville,281,4/21/2020
+2,Iberville,297,4/22/2020
+2,Iberville,299,4/23/2020
+2,Iberville,339,4/24/2020
+2,Iberville,433,4/25/2020
+2,Iberville,433,4/26/2020
+2,Iberville,442,4/27/2020
+2,Iberville,443,4/28/2020
+2,Iberville,448,4/29/2020
+2,Iberville,450,4/30/2020
+2,Iberville,459,5/1/2020
+2,Iberville,472,5/2/2020
+2,Iberville,476,5/3/2020
+2,Iberville,482,5/4/2020
+2,Iberville,484,5/5/2020
+2,Iberville,489,5/6/2020
+2,Iberville,492,5/7/2020
+2,Iberville,493,5/8/2020
+2,Iberville,495,5/9/2020
+2,Iberville,499,5/10/2020
+2,Iberville,501,5/11/2020
+2,Iberville,504,5/12/2020
+2,Iberville,507,5/13/2020
+2,Iberville,537,5/14/2020
+2,Iberville,543,5/15/2020
+2,Iberville,524,5/16/2020
+2,Iberville,526,5/17/2020
+2,Iberville,527,5/18/2020
+2,Iberville,528,5/19/2020
+2,Iberville,531,5/20/2020
+2,Iberville,540,5/21/2020
+2,Iberville,541,5/22/2020
+2,Iberville,542,5/23/2020
+2,Iberville,546,5/24/2020
+2,Iberville,554,5/25/2020
+2,Iberville,556,5/26/2020
+2,Iberville,559,5/27/2020
+2,Iberville,563,5/28/2020
+2,Iberville,564,5/30/2020
+2,Iberville,567,5/31/2020
+2,Iberville,577,6/1/2020
+2,Iberville,578,6/2/2020
+2,Iberville,579,6/3/2020
+2,Iberville,584,6/4/2020
+2,Iberville,588,6/5/2020
+2,Iberville,593,6/6/2020
+2,Iberville,596,6/7/2020
+2,Iberville,599,6/8/2020
+2,Iberville,603,6/9/2020
+2,Iberville,607,6/10/2020
+2,Iberville,607,6/11/2020
+2,Iberville,610,6/12/2020
+2,Iberville,610,6/13/2020
+2,Iberville,610,6/14/2020
+2,Iberville,615,6/15/2020
+2,Iberville,617,6/16/2020
+2,Iberville,618,6/17/2020
+8,Jackson,,3/14/2020
+8,Jackson,,3/15/2020
+8,Jackson,,3/16/2020
+8,Jackson,,3/17/2020
+8,Jackson,,3/18/2020
+8,Jackson,,3/19/2020
+8,Jackson,,3/20/2020
+8,Jackson,,3/21/2020
+8,Jackson,,3/22/2020
+8,Jackson,,3/23/2020
+8,Jackson,,3/24/2020
+8,Jackson,1,3/25/2020
+8,Jackson,1,3/26/2020
+8,Jackson,3,3/27/2020
+8,Jackson,2,3/28/2020
+8,Jackson,2,3/29/2020
+8,Jackson,2,3/30/2020
+8,Jackson,3,3/31/2020
+8,Jackson,4,4/1/2020
+8,Jackson,4,4/2/2020
+8,Jackson,4,4/3/2020
+8,Jackson,1,4/4/2020
+8,Jackson,1,4/5/2020
+8,Jackson,4,4/6/2020
+8,Jackson,5,4/7/2020
+8,Jackson,5,4/8/2020
+8,Jackson,7,4/9/2020
+8,Jackson,8,4/10/2020
+8,Jackson,8,4/11/2020
+8,Jackson,8,4/12/2020
+8,Jackson,8,4/13/2020
+8,Jackson,9,4/14/2020
+8,Jackson,11,4/15/2020
+8,Jackson,12,4/16/2020
+8,Jackson,14,4/17/2020
+8,Jackson,14,4/18/2020
+8,Jackson,14,4/19/2020
+8,Jackson,15,4/20/2020
+8,Jackson,15,4/21/2020
+8,Jackson,16,4/22/2020
+8,Jackson,21,4/23/2020
+8,Jackson,22,4/24/2020
+8,Jackson,25,4/25/2020
+8,Jackson,25,4/26/2020
+8,Jackson,30,4/27/2020
+8,Jackson,30,4/28/2020
+8,Jackson,34,4/29/2020
+8,Jackson,34,4/30/2020
+8,Jackson,40,5/1/2020
+8,Jackson,40,5/2/2020
+8,Jackson,42,5/3/2020
+8,Jackson,47,5/4/2020
+8,Jackson,48,5/5/2020
+8,Jackson,56,5/6/2020
+8,Jackson,57,5/7/2020
+8,Jackson,58,5/8/2020
+8,Jackson,59,5/9/2020
+8,Jackson,64,5/10/2020
+8,Jackson,67,5/11/2020
+8,Jackson,67,5/12/2020
+8,Jackson,67,5/13/2020
+8,Jackson,70,5/14/2020
+8,Jackson,69,5/15/2020
+8,Jackson,68,5/16/2020
+8,Jackson,69,5/17/2020
+8,Jackson,70,5/18/2020
+8,Jackson,75,5/19/2020
+8,Jackson,76,5/20/2020
+8,Jackson,80,5/21/2020
+8,Jackson,82,5/22/2020
+8,Jackson,82,5/23/2020
+8,Jackson,83,5/24/2020
+8,Jackson,90,5/25/2020
+8,Jackson,96,5/26/2020
+8,Jackson,100,5/27/2020
+8,Jackson,100,5/28/2020
+8,Jackson,106,5/30/2020
+8,Jackson,106,5/31/2020
+8,Jackson,106,6/1/2020
+8,Jackson,109,6/2/2020
+8,Jackson,110,6/3/2020
+8,Jackson,117,6/4/2020
+8,Jackson,120,6/5/2020
+8,Jackson,130,6/6/2020
+8,Jackson,131,6/7/2020
+8,Jackson,133,6/8/2020
+8,Jackson,139,6/9/2020
+8,Jackson,148,6/10/2020
+8,Jackson,149,6/11/2020
+8,Jackson,154,6/12/2020
+8,Jackson,158,6/13/2020
+8,Jackson,158,6/14/2020
+8,Jackson,162,6/15/2020
+8,Jackson,169,6/16/2020
+8,Jackson,173,6/17/2020
+1,Jefferson,7,3/14/2020
+1,Jefferson,12,3/15/2020
+1,Jefferson,16,3/16/2020
+1,Jefferson,20,3/17/2020
+1,Jefferson,37,3/18/2020
+1,Jefferson,62,3/19/2020
+1,Jefferson,90,3/20/2020
+1,Jefferson,116,3/21/2020
+1,Jefferson,184,3/22/2020
+1,Jefferson,252,3/23/2020
+1,Jefferson,293,3/24/2020
+1,Jefferson,359,3/25/2020
+1,Jefferson,458,3/26/2020
+1,Jefferson,548,3/27/2020
+1,Jefferson,744,3/28/2020
+1,Jefferson,761,3/29/2020
+1,Jefferson,838,3/30/2020
+1,Jefferson,1193,3/31/2020
+1,Jefferson,1433,4/1/2020
+1,Jefferson,2178,4/2/2020
+1,Jefferson,2495,4/3/2020
+1,Jefferson,3008,4/4/2020
+1,Jefferson,3088,4/5/2020
+1,Jefferson,3530,4/6/2020
+1,Jefferson,3922,4/7/2020
+1,Jefferson,4092,4/8/2020
+1,Jefferson,4480,4/9/2020
+1,Jefferson,4678,4/10/2020
+1,Jefferson,4877,4/11/2020
+1,Jefferson,4990,4/12/2020
+1,Jefferson,5088,4/13/2020
+1,Jefferson,5188,4/14/2020
+1,Jefferson,5265,4/15/2020
+1,Jefferson,5346,4/16/2020
+1,Jefferson,5476,4/17/2020
+1,Jefferson,5543,4/18/2020
+1,Jefferson,5592,4/19/2020
+1,Jefferson,5761,4/20/2020
+1,Jefferson,5802,4/21/2020
+1,Jefferson,5860,4/22/2020
+1,Jefferson,5929,4/23/2020
+1,Jefferson,5985,4/24/2020
+1,Jefferson,6007,4/25/2020
+1,Jefferson,6059,4/26/2020
+1,Jefferson,6104,4/27/2020
+1,Jefferson,6135,4/28/2020
+1,Jefferson,6173,4/29/2020
+1,Jefferson,6197,4/30/2020
+1,Jefferson,6305,5/1/2020
+1,Jefferson,6362,5/2/2020
+1,Jefferson,6388,5/3/2020
+1,Jefferson,6426,5/4/2020
+1,Jefferson,6491,5/5/2020
+1,Jefferson,6554,5/6/2020
+1,Jefferson,6588,5/7/2020
+1,Jefferson,6610,5/8/2020
+1,Jefferson,6679,5/9/2020
+1,Jefferson,6709,5/10/2020
+1,Jefferson,6755,5/11/2020
+1,Jefferson,6789,5/12/2020
+1,Jefferson,6833,5/13/2020
+1,Jefferson,6860,5/14/2020
+1,Jefferson,6897,5/15/2020
+1,Jefferson,6982,5/16/2020
+1,Jefferson,7039,5/17/2020
+1,Jefferson,7059,5/18/2020
+1,Jefferson,7095,5/19/2020
+1,Jefferson,7128,5/20/2020
+1,Jefferson,7175,5/21/2020
+1,Jefferson,7232,5/22/2020
+1,Jefferson,7233,5/23/2020
+1,Jefferson,7248,5/24/2020
+1,Jefferson,7298,5/25/2020
+1,Jefferson,7332,5/26/2020
+1,Jefferson,7394,5/27/2020
+1,Jefferson,7424,5/28/2020
+1,Jefferson,7536,5/30/2020
+1,Jefferson,7584,5/31/2020
+1,Jefferson,7652,6/1/2020
+1,Jefferson,7711,6/2/2020
+1,Jefferson,7738,6/3/2020
+1,Jefferson,7763,6/4/2020
+1,Jefferson,7803,6/5/2020
+1,Jefferson,7831,6/6/2020
+1,Jefferson,7862,6/7/2020
+1,Jefferson,7885,6/8/2020
+1,Jefferson,7940,6/9/2020
+1,Jefferson,7971,6/10/2020
+1,Jefferson,8032,6/11/2020
+1,Jefferson,8091,6/12/2020
+1,Jefferson,8339,6/13/2020
+1,Jefferson,8379,6/14/2020
+1,Jefferson,8416,6/15/2020
+1,Jefferson,8468,6/16/2020
+1,Jefferson,8507,6/17/2020
+5,Jefferson Davis,,3/14/2020
+5,Jefferson Davis,,3/15/2020
+5,Jefferson Davis,,3/16/2020
+5,Jefferson Davis,,3/17/2020
+5,Jefferson Davis,,3/18/2020
+5,Jefferson Davis,,3/19/2020
+5,Jefferson Davis,,3/20/2020
+5,Jefferson Davis,,3/21/2020
+5,Jefferson Davis,,3/22/2020
+5,Jefferson Davis,,3/23/2020
+5,Jefferson Davis,,3/24/2020
+5,Jefferson Davis,1,3/25/2020
+5,Jefferson Davis,1,3/26/2020
+5,Jefferson Davis,1,3/27/2020
+5,Jefferson Davis,1,3/28/2020
+5,Jefferson Davis,2,3/29/2020
+5,Jefferson Davis,3,3/30/2020
+5,Jefferson Davis,5,3/31/2020
+5,Jefferson Davis,9,4/1/2020
+5,Jefferson Davis,13,4/2/2020
+5,Jefferson Davis,14,4/3/2020
+5,Jefferson Davis,9,4/4/2020
+5,Jefferson Davis,13,4/5/2020
+5,Jefferson Davis,21,4/6/2020
+5,Jefferson Davis,25,4/7/2020
+5,Jefferson Davis,28,4/8/2020
+5,Jefferson Davis,30,4/9/2020
+5,Jefferson Davis,32,4/10/2020
+5,Jefferson Davis,35,4/11/2020
+5,Jefferson Davis,44,4/12/2020
+5,Jefferson Davis,47,4/13/2020
+5,Jefferson Davis,47,4/14/2020
+5,Jefferson Davis,48,4/15/2020
+5,Jefferson Davis,48,4/16/2020
+5,Jefferson Davis,52,4/17/2020
+5,Jefferson Davis,53,4/18/2020
+5,Jefferson Davis,55,4/19/2020
+5,Jefferson Davis,55,4/20/2020
+5,Jefferson Davis,57,4/21/2020
+5,Jefferson Davis,57,4/22/2020
+5,Jefferson Davis,57,4/23/2020
+5,Jefferson Davis,57,4/24/2020
+5,Jefferson Davis,59,4/25/2020
+5,Jefferson Davis,59,4/26/2020
+5,Jefferson Davis,61,4/27/2020
+5,Jefferson Davis,61,4/28/2020
+5,Jefferson Davis,62,4/29/2020
+5,Jefferson Davis,62,4/30/2020
+5,Jefferson Davis,63,5/1/2020
+5,Jefferson Davis,64,5/2/2020
+5,Jefferson Davis,64,5/3/2020
+5,Jefferson Davis,65,5/4/2020
+5,Jefferson Davis,65,5/5/2020
+5,Jefferson Davis,66,5/6/2020
+5,Jefferson Davis,66,5/7/2020
+5,Jefferson Davis,66,5/8/2020
+5,Jefferson Davis,67,5/9/2020
+5,Jefferson Davis,67,5/10/2020
+5,Jefferson Davis,68,5/11/2020
+5,Jefferson Davis,68,5/12/2020
+5,Jefferson Davis,69,5/13/2020
+5,Jefferson Davis,69,5/14/2020
+5,Jefferson Davis,70,5/15/2020
+5,Jefferson Davis,69,5/16/2020
+5,Jefferson Davis,69,5/17/2020
+5,Jefferson Davis,70,5/18/2020
+5,Jefferson Davis,71,5/19/2020
+5,Jefferson Davis,71,5/20/2020
+5,Jefferson Davis,72,5/21/2020
+5,Jefferson Davis,73,5/22/2020
+5,Jefferson Davis,73,5/23/2020
+5,Jefferson Davis,73,5/24/2020
+5,Jefferson Davis,74,5/25/2020
+5,Jefferson Davis,74,5/26/2020
+5,Jefferson Davis,75,5/27/2020
+5,Jefferson Davis,75,5/28/2020
+5,Jefferson Davis,76,5/30/2020
+5,Jefferson Davis,76,5/31/2020
+5,Jefferson Davis,78,6/1/2020
+5,Jefferson Davis,78,6/2/2020
+5,Jefferson Davis,78,6/3/2020
+5,Jefferson Davis,84,6/4/2020
+5,Jefferson Davis,87,6/5/2020
+5,Jefferson Davis,89,6/6/2020
+5,Jefferson Davis,91,6/7/2020
+5,Jefferson Davis,93,6/8/2020
+5,Jefferson Davis,96,6/9/2020
+5,Jefferson Davis,102,6/10/2020
+5,Jefferson Davis,106,6/11/2020
+5,Jefferson Davis,114,6/12/2020
+5,Jefferson Davis,131,6/13/2020
+5,Jefferson Davis,132,6/14/2020
+5,Jefferson Davis,133,6/15/2020
+5,Jefferson Davis,147,6/16/2020
+5,Jefferson Davis,162,6/17/2020
+6,La Salle,,3/14/2020
+6,La Salle,,3/15/2020
+6,La Salle,,3/16/2020
+6,La Salle,,3/17/2020
+6,La Salle,,3/18/2020
+6,La Salle,,3/19/2020
+6,La Salle,,3/20/2020
+6,La Salle,,3/21/2020
+6,La Salle,,3/22/2020
+6,La Salle,,3/23/2020
+6,La Salle,,3/24/2020
+6,La Salle,,3/25/2020
+6,La Salle,1,3/26/2020
+6,La Salle,1,3/27/2020
+6,La Salle,2,3/28/2020
+6,La Salle,2,3/29/2020
+6,La Salle,2,3/30/2020
+6,La Salle,2,3/31/2020
+6,La Salle,2,4/1/2020
+6,La Salle,2,4/2/2020
+6,La Salle,2,4/3/2020
+6,La Salle,4,4/4/2020
+6,La Salle,4,4/5/2020
+6,La Salle,6,4/6/2020
+6,La Salle,6,4/7/2020
+6,La Salle,8,4/8/2020
+6,La Salle,9,4/9/2020
+6,La Salle,9,4/10/2020
+6,La Salle,10,4/11/2020
+6,La Salle,11,4/12/2020
+6,La Salle,13,4/13/2020
+6,La Salle,13,4/14/2020
+6,La Salle,13,4/15/2020
+6,La Salle,13,4/16/2020
+6,La Salle,13,4/17/2020
+6,La Salle,13,4/18/2020
+6,La Salle,13,4/19/2020
+6,La Salle,14,4/20/2020
+6,La Salle,14,4/21/2020
+6,La Salle,15,4/22/2020
+6,La Salle,15,4/23/2020
+6,La Salle,17,4/24/2020
+6,La Salle,18,4/25/2020
+6,La Salle,19,4/26/2020
+6,La Salle,21,4/27/2020
+6,La Salle,21,4/28/2020
+6,La Salle,22,4/29/2020
+6,La Salle,23,4/30/2020
+6,La Salle,26,5/1/2020
+6,La Salle,26,5/2/2020
+6,La Salle,26,5/3/2020
+6,La Salle,27,5/4/2020
+6,La Salle,27,5/5/2020
+6,La Salle,29,5/6/2020
+6,La Salle,30,5/7/2020
+6,La Salle,31,5/8/2020
+6,La Salle,33,5/9/2020
+6,La Salle,33,5/10/2020
+6,La Salle,33,5/11/2020
+6,La Salle,33,5/12/2020
+6,La Salle,35,5/13/2020
+6,La Salle,35,5/14/2020
+6,La Salle,36,5/15/2020
+6,La Salle,37,5/16/2020
+6,La Salle,40,5/17/2020
+6,La Salle,40,5/18/2020
+6,La Salle,40,5/19/2020
+6,La Salle,40,5/20/2020
+6,La Salle,45,5/21/2020
+6,La Salle,45,5/22/2020
+6,La Salle,45,5/23/2020
+6,La Salle,45,5/24/2020
+6,La Salle,47,5/25/2020
+6,La Salle,47,5/26/2020
+6,La Salle,48,5/27/2020
+6,La Salle,48,5/28/2020
+6,La Salle,51,5/30/2020
+6,La Salle,51,5/31/2020
+6,La Salle,52,6/1/2020
+6,La Salle,53,6/2/2020
+6,La Salle,53,6/3/2020
+6,La Salle,56,6/4/2020
+6,La Salle,58,6/5/2020
+6,La Salle,59,6/6/2020
+6,La Salle,61,6/7/2020
+6,La Salle,63,6/8/2020
+6,La Salle,66,6/9/2020
+6,La Salle,67,6/10/2020
+6,La Salle,68,6/11/2020
+6,La Salle,72,6/12/2020
+6,La Salle,76,6/13/2020
+6,La Salle,77,6/14/2020
+6,La Salle,80,6/15/2020
+6,La Salle,85,6/16/2020
+6,La Salle,90,6/17/2020
+4,Lafayette,,3/14/2020
+4,Lafayette,,3/15/2020
+4,Lafayette,,3/16/2020
+4,Lafayette,,3/17/2020
+4,Lafayette,,3/18/2020
+4,Lafayette,2,3/19/2020
+4,Lafayette,7,3/20/2020
+4,Lafayette,6,3/21/2020
+4,Lafayette,6,3/22/2020
+4,Lafayette,9,3/23/2020
+4,Lafayette,12,3/24/2020
+4,Lafayette,20,3/25/2020
+4,Lafayette,28,3/26/2020
+4,Lafayette,44,3/27/2020
+4,Lafayette,48,3/28/2020
+4,Lafayette,50,3/29/2020
+4,Lafayette,82,3/30/2020
+4,Lafayette,118,3/31/2020
+4,Lafayette,159,4/1/2020
+4,Lafayette,247,4/2/2020
+4,Lafayette,276,4/3/2020
+4,Lafayette,229,4/4/2020
+4,Lafayette,247,4/5/2020
+4,Lafayette,260,4/6/2020
+4,Lafayette,272,4/7/2020
+4,Lafayette,285,4/8/2020
+4,Lafayette,303,4/9/2020
+4,Lafayette,330,4/10/2020
+4,Lafayette,337,4/11/2020
+4,Lafayette,354,4/12/2020
+4,Lafayette,360,4/13/2020
+4,Lafayette,363,4/14/2020
+4,Lafayette,375,4/15/2020
+4,Lafayette,387,4/16/2020
+4,Lafayette,396,4/17/2020
+4,Lafayette,414,4/18/2020
+4,Lafayette,419,4/19/2020
+4,Lafayette,423,4/20/2020
+4,Lafayette,429,4/21/2020
+4,Lafayette,435,4/22/2020
+4,Lafayette,439,4/23/2020
+4,Lafayette,440,4/24/2020
+4,Lafayette,442,4/25/2020
+4,Lafayette,443,4/26/2020
+4,Lafayette,443,4/27/2020
+4,Lafayette,446,4/28/2020
+4,Lafayette,451,4/29/2020
+4,Lafayette,455,4/30/2020
+4,Lafayette,463,5/1/2020
+4,Lafayette,464,5/2/2020
+4,Lafayette,466,5/3/2020
+4,Lafayette,468,5/4/2020
+4,Lafayette,473,5/5/2020
+4,Lafayette,477,5/6/2020
+4,Lafayette,479,5/7/2020
+4,Lafayette,481,5/8/2020
+4,Lafayette,498,5/9/2020
+4,Lafayette,501,5/10/2020
+4,Lafayette,508,5/11/2020
+4,Lafayette,512,5/12/2020
+4,Lafayette,537,5/13/2020
+4,Lafayette,541,5/14/2020
+4,Lafayette,543,5/15/2020
+4,Lafayette,578,5/16/2020
+4,Lafayette,590,5/17/2020
+4,Lafayette,598,5/18/2020
+4,Lafayette,605,5/19/2020
+4,Lafayette,607,5/20/2020
+4,Lafayette,631,5/21/2020
+4,Lafayette,637,5/22/2020
+4,Lafayette,659,5/23/2020
+4,Lafayette,659,5/24/2020
+4,Lafayette,674,5/25/2020
+4,Lafayette,678,5/26/2020
+4,Lafayette,689,5/27/2020
+4,Lafayette,695,5/28/2020
+4,Lafayette,763,5/30/2020
+4,Lafayette,768,5/31/2020
+4,Lafayette,793,6/1/2020
+4,Lafayette,803,6/2/2020
+4,Lafayette,821,6/3/2020
+4,Lafayette,834,6/4/2020
+4,Lafayette,854,6/5/2020
+4,Lafayette,866,6/6/2020
+4,Lafayette,880,6/7/2020
+4,Lafayette,897,6/8/2020
+4,Lafayette,908,6/9/2020
+4,Lafayette,931,6/10/2020
+4,Lafayette,957,6/11/2020
+4,Lafayette,988,6/12/2020
+4,Lafayette,1140,6/13/2020
+4,Lafayette,1148,6/14/2020
+4,Lafayette,1202,6/15/2020
+4,Lafayette,1243,6/16/2020
+4,Lafayette,1302,6/17/2020
+3,Lafourche,,3/14/2020
+3,Lafourche,1,3/15/2020
+3,Lafourche,2,3/16/2020
+3,Lafourche,2,3/17/2020
+3,Lafourche,3,3/18/2020
+3,Lafourche,4,3/19/2020
+3,Lafourche,5,3/20/2020
+3,Lafourche,5,3/21/2020
+3,Lafourche,12,3/22/2020
+3,Lafourche,15,3/23/2020
+3,Lafourche,16,3/24/2020
+3,Lafourche,18,3/25/2020
+3,Lafourche,28,3/26/2020
+3,Lafourche,30,3/27/2020
+3,Lafourche,34,3/28/2020
+3,Lafourche,36,3/29/2020
+3,Lafourche,51,3/30/2020
+3,Lafourche,74,3/31/2020
+3,Lafourche,105,4/1/2020
+3,Lafourche,158,4/2/2020
+3,Lafourche,185,4/3/2020
+3,Lafourche,217,4/4/2020
+3,Lafourche,228,4/5/2020
+3,Lafourche,305,4/6/2020
+3,Lafourche,322,4/7/2020
+3,Lafourche,355,4/8/2020
+3,Lafourche,393,4/9/2020
+3,Lafourche,426,4/10/2020
+3,Lafourche,454,4/11/2020
+3,Lafourche,468,4/12/2020
+3,Lafourche,481,4/13/2020
+3,Lafourche,486,4/14/2020
+3,Lafourche,499,4/15/2020
+3,Lafourche,528,4/16/2020
+3,Lafourche,542,4/17/2020
+3,Lafourche,560,4/18/2020
+3,Lafourche,566,4/19/2020
+3,Lafourche,573,4/20/2020
+3,Lafourche,576,4/21/2020
+3,Lafourche,583,4/22/2020
+3,Lafourche,603,4/23/2020
+3,Lafourche,607,4/24/2020
+3,Lafourche,610,4/25/2020
+3,Lafourche,624,4/26/2020
+3,Lafourche,632,4/27/2020
+3,Lafourche,635,4/28/2020
+3,Lafourche,651,4/29/2020
+3,Lafourche,651,4/30/2020
+3,Lafourche,661,5/1/2020
+3,Lafourche,666,5/2/2020
+3,Lafourche,669,5/3/2020
+3,Lafourche,681,5/4/2020
+3,Lafourche,686,5/5/2020
+3,Lafourche,692,5/6/2020
+3,Lafourche,693,5/7/2020
+3,Lafourche,698,5/8/2020
+3,Lafourche,706,5/9/2020
+3,Lafourche,711,5/10/2020
+3,Lafourche,713,5/11/2020
+3,Lafourche,715,5/12/2020
+3,Lafourche,716,5/13/2020
+3,Lafourche,719,5/14/2020
+3,Lafourche,724,5/15/2020
+3,Lafourche,738,5/16/2020
+3,Lafourche,742,5/17/2020
+3,Lafourche,744,5/18/2020
+3,Lafourche,750,5/19/2020
+3,Lafourche,753,5/20/2020
+3,Lafourche,763,5/21/2020
+3,Lafourche,766,5/22/2020
+3,Lafourche,766,5/23/2020
+3,Lafourche,766,5/24/2020
+3,Lafourche,775,5/25/2020
+3,Lafourche,776,5/26/2020
+3,Lafourche,781,5/27/2020
+3,Lafourche,789,5/28/2020
+3,Lafourche,809,5/30/2020
+3,Lafourche,821,5/31/2020
+3,Lafourche,827,6/1/2020
+3,Lafourche,867,6/2/2020
+3,Lafourche,878,6/3/2020
+3,Lafourche,882,6/4/2020
+3,Lafourche,886,6/5/2020
+3,Lafourche,896,6/6/2020
+3,Lafourche,902,6/7/2020
+3,Lafourche,909,6/8/2020
+3,Lafourche,922,6/9/2020
+3,Lafourche,928,6/10/2020
+3,Lafourche,937,6/11/2020
+3,Lafourche,945,6/12/2020
+3,Lafourche,968,6/13/2020
+3,Lafourche,973,6/14/2020
+3,Lafourche,983,6/15/2020
+3,Lafourche,999,6/16/2020
+3,Lafourche,1013,6/17/2020
+8,Lincoln,,3/14/2020
+8,Lincoln,,3/15/2020
+8,Lincoln,,3/16/2020
+8,Lincoln,,3/17/2020
+8,Lincoln,,3/18/2020
+8,Lincoln,,3/19/2020
+8,Lincoln,,3/20/2020
+8,Lincoln,,3/21/2020
+8,Lincoln,,3/22/2020
+8,Lincoln,2,3/23/2020
+8,Lincoln,2,3/24/2020
+8,Lincoln,2,3/25/2020
+8,Lincoln,3,3/26/2020
+8,Lincoln,7,3/27/2020
+8,Lincoln,6,3/28/2020
+8,Lincoln,7,3/29/2020
+8,Lincoln,8,3/30/2020
+8,Lincoln,12,3/31/2020
+8,Lincoln,13,4/1/2020
+8,Lincoln,13,4/2/2020
+8,Lincoln,17,4/3/2020
+8,Lincoln,17,4/4/2020
+8,Lincoln,18,4/5/2020
+8,Lincoln,19,4/6/2020
+8,Lincoln,22,4/7/2020
+8,Lincoln,24,4/8/2020
+8,Lincoln,28,4/9/2020
+8,Lincoln,33,4/10/2020
+8,Lincoln,37,4/11/2020
+8,Lincoln,39,4/12/2020
+8,Lincoln,39,4/13/2020
+8,Lincoln,42,4/14/2020
+8,Lincoln,41,4/15/2020
+8,Lincoln,43,4/16/2020
+8,Lincoln,47,4/17/2020
+8,Lincoln,49,4/18/2020
+8,Lincoln,49,4/19/2020
+8,Lincoln,51,4/20/2020
+8,Lincoln,52,4/21/2020
+8,Lincoln,58,4/22/2020
+8,Lincoln,62,4/23/2020
+8,Lincoln,64,4/24/2020
+8,Lincoln,69,4/25/2020
+8,Lincoln,72,4/26/2020
+8,Lincoln,79,4/27/2020
+8,Lincoln,80,4/28/2020
+8,Lincoln,83,4/29/2020
+8,Lincoln,85,4/30/2020
+8,Lincoln,85,5/1/2020
+8,Lincoln,88,5/2/2020
+8,Lincoln,90,5/3/2020
+8,Lincoln,94,5/4/2020
+8,Lincoln,96,5/5/2020
+8,Lincoln,99,5/6/2020
+8,Lincoln,101,5/7/2020
+8,Lincoln,103,5/8/2020
+8,Lincoln,106,5/9/2020
+8,Lincoln,106,5/10/2020
+8,Lincoln,107,5/11/2020
+8,Lincoln,107,5/12/2020
+8,Lincoln,115,5/13/2020
+8,Lincoln,116,5/14/2020
+8,Lincoln,122,5/15/2020
+8,Lincoln,119,5/16/2020
+8,Lincoln,121,5/17/2020
+8,Lincoln,121,5/18/2020
+8,Lincoln,122,5/19/2020
+8,Lincoln,122,5/20/2020
+8,Lincoln,130,5/21/2020
+8,Lincoln,133,5/22/2020
+8,Lincoln,133,5/23/2020
+8,Lincoln,133,5/24/2020
+8,Lincoln,135,5/25/2020
+8,Lincoln,138,5/26/2020
+8,Lincoln,142,5/27/2020
+8,Lincoln,144,5/28/2020
+8,Lincoln,152,5/30/2020
+8,Lincoln,157,5/31/2020
+8,Lincoln,160,6/1/2020
+8,Lincoln,160,6/2/2020
+8,Lincoln,161,6/3/2020
+8,Lincoln,163,6/4/2020
+8,Lincoln,165,6/5/2020
+8,Lincoln,169,6/6/2020
+8,Lincoln,173,6/7/2020
+8,Lincoln,175,6/8/2020
+8,Lincoln,184,6/9/2020
+8,Lincoln,193,6/10/2020
+8,Lincoln,196,6/11/2020
+8,Lincoln,202,6/12/2020
+8,Lincoln,227,6/13/2020
+8,Lincoln,235,6/14/2020
+8,Lincoln,241,6/15/2020
+8,Lincoln,248,6/16/2020
+8,Lincoln,259,6/17/2020
+9,Livingston,,3/14/2020
+9,Livingston,,3/15/2020
+9,Livingston,,3/16/2020
+9,Livingston,,3/17/2020
+9,Livingston,,3/18/2020
+9,Livingston,,3/19/2020
+9,Livingston,1,3/20/2020
+9,Livingston,1,3/21/2020
+9,Livingston,2,3/22/2020
+9,Livingston,5,3/23/2020
+9,Livingston,6,3/24/2020
+9,Livingston,6,3/25/2020
+9,Livingston,11,3/26/2020
+9,Livingston,11,3/27/2020
+9,Livingston,12,3/28/2020
+9,Livingston,15,3/29/2020
+9,Livingston,16,3/30/2020
+9,Livingston,23,3/31/2020
+9,Livingston,25,4/1/2020
+9,Livingston,33,4/2/2020
+9,Livingston,40,4/3/2020
+9,Livingston,64,4/4/2020
+9,Livingston,67,4/5/2020
+9,Livingston,79,4/6/2020
+9,Livingston,94,4/7/2020
+9,Livingston,99,4/8/2020
+9,Livingston,103,4/9/2020
+9,Livingston,107,4/10/2020
+9,Livingston,109,4/11/2020
+9,Livingston,120,4/12/2020
+9,Livingston,122,4/13/2020
+9,Livingston,129,4/14/2020
+9,Livingston,133,4/15/2020
+9,Livingston,136,4/16/2020
+9,Livingston,142,4/17/2020
+9,Livingston,144,4/18/2020
+9,Livingston,148,4/19/2020
+9,Livingston,149,4/20/2020
+9,Livingston,158,4/21/2020
+9,Livingston,161,4/22/2020
+9,Livingston,165,4/23/2020
+9,Livingston,172,4/24/2020
+9,Livingston,177,4/25/2020
+9,Livingston,182,4/26/2020
+9,Livingston,183,4/27/2020
+9,Livingston,185,4/28/2020
+9,Livingston,190,4/29/2020
+9,Livingston,197,4/30/2020
+9,Livingston,229,5/1/2020
+9,Livingston,235,5/2/2020
+9,Livingston,238,5/3/2020
+9,Livingston,243,5/4/2020
+9,Livingston,247,5/5/2020
+9,Livingston,266,5/6/2020
+9,Livingston,268,5/7/2020
+9,Livingston,268,5/8/2020
+9,Livingston,277,5/9/2020
+9,Livingston,278,5/10/2020
+9,Livingston,281,5/11/2020
+9,Livingston,283,5/12/2020
+9,Livingston,293,5/13/2020
+9,Livingston,343,5/14/2020
+9,Livingston,347,5/15/2020
+9,Livingston,344,5/16/2020
+9,Livingston,348,5/17/2020
+9,Livingston,350,5/18/2020
+9,Livingston,356,5/19/2020
+9,Livingston,358,5/20/2020
+9,Livingston,363,5/21/2020
+9,Livingston,366,5/22/2020
+9,Livingston,373,5/23/2020
+9,Livingston,375,5/24/2020
+9,Livingston,391,5/25/2020
+9,Livingston,399,5/26/2020
+9,Livingston,403,5/27/2020
+9,Livingston,408,5/28/2020
+9,Livingston,417,5/30/2020
+9,Livingston,422,5/31/2020
+9,Livingston,428,6/1/2020
+9,Livingston,440,6/2/2020
+9,Livingston,446,6/3/2020
+9,Livingston,453,6/4/2020
+9,Livingston,458,6/5/2020
+9,Livingston,460,6/6/2020
+9,Livingston,464,6/7/2020
+9,Livingston,468,6/8/2020
+9,Livingston,481,6/9/2020
+9,Livingston,484,6/10/2020
+9,Livingston,495,6/11/2020
+9,Livingston,514,6/12/2020
+9,Livingston,525,6/13/2020
+9,Livingston,526,6/14/2020
+9,Livingston,546,6/15/2020
+9,Livingston,561,6/16/2020
+9,Livingston,573,6/17/2020
+8,Madison,,3/14/2020
+8,Madison,,3/15/2020
+8,Madison,,3/16/2020
+8,Madison,,3/17/2020
+8,Madison,,3/18/2020
+8,Madison,,3/19/2020
+8,Madison,,3/20/2020
+8,Madison,,3/21/2020
+8,Madison,,3/22/2020
+8,Madison,,3/23/2020
+8,Madison,,3/24/2020
+8,Madison,,3/25/2020
+8,Madison,1,3/26/2020
+8,Madison,1,3/27/2020
+8,Madison,1,3/28/2020
+8,Madison,1,3/29/2020
+8,Madison,1,3/30/2020
+8,Madison,1,3/31/2020
+8,Madison,1,4/1/2020
+8,Madison,1,4/2/2020
+8,Madison,1,4/3/2020
+8,Madison,1,4/4/2020
+8,Madison,1,4/5/2020
+8,Madison,1,4/6/2020
+8,Madison,2,4/7/2020
+8,Madison,2,4/8/2020
+8,Madison,2,4/9/2020
+8,Madison,2,4/10/2020
+8,Madison,2,4/11/2020
+8,Madison,2,4/12/2020
+8,Madison,2,4/13/2020
+8,Madison,2,4/14/2020
+8,Madison,2,4/15/2020
+8,Madison,2,4/16/2020
+8,Madison,4,4/17/2020
+8,Madison,4,4/18/2020
+8,Madison,4,4/19/2020
+8,Madison,4,4/20/2020
+8,Madison,4,4/21/2020
+8,Madison,5,4/22/2020
+8,Madison,5,4/23/2020
+8,Madison,5,4/24/2020
+8,Madison,7,4/25/2020
+8,Madison,7,4/26/2020
+8,Madison,7,4/27/2020
+8,Madison,7,4/28/2020
+8,Madison,7,4/29/2020
+8,Madison,7,4/30/2020
+8,Madison,7,5/1/2020
+8,Madison,8,5/2/2020
+8,Madison,8,5/3/2020
+8,Madison,8,5/4/2020
+8,Madison,8,5/5/2020
+8,Madison,8,5/6/2020
+8,Madison,8,5/7/2020
+8,Madison,8,5/8/2020
+8,Madison,12,5/9/2020
+8,Madison,12,5/10/2020
+8,Madison,13,5/11/2020
+8,Madison,14,5/12/2020
+8,Madison,14,5/13/2020
+8,Madison,18,5/14/2020
+8,Madison,24,5/15/2020
+8,Madison,24,5/16/2020
+8,Madison,24,5/17/2020
+8,Madison,24,5/18/2020
+8,Madison,27,5/19/2020
+8,Madison,33,5/20/2020
+8,Madison,43,5/21/2020
+8,Madison,54,5/22/2020
+8,Madison,54,5/23/2020
+8,Madison,55,5/24/2020
+8,Madison,69,5/25/2020
+8,Madison,70,5/26/2020
+8,Madison,77,5/27/2020
+8,Madison,79,5/28/2020
+8,Madison,90,5/30/2020
+8,Madison,97,5/31/2020
+8,Madison,101,6/1/2020
+8,Madison,105,6/2/2020
+8,Madison,106,6/3/2020
+8,Madison,116,6/4/2020
+8,Madison,121,6/5/2020
+8,Madison,199,6/6/2020
+8,Madison,209,6/7/2020
+8,Madison,214,6/8/2020
+8,Madison,219,6/9/2020
+8,Madison,221,6/10/2020
+8,Madison,249,6/11/2020
+8,Madison,251,6/12/2020
+8,Madison,261,6/13/2020
+8,Madison,270,6/14/2020
+8,Madison,286,6/15/2020
+8,Madison,287,6/16/2020
+8,Madison,287,6/17/2020
+8,Morehouse,,3/14/2020
+8,Morehouse,,3/15/2020
+8,Morehouse,,3/16/2020
+8,Morehouse,,3/17/2020
+8,Morehouse,,3/18/2020
+8,Morehouse,,3/19/2020
+8,Morehouse,,3/20/2020
+8,Morehouse,,3/21/2020
+8,Morehouse,,3/22/2020
+8,Morehouse,,3/23/2020
+8,Morehouse,,3/24/2020
+8,Morehouse,1,3/25/2020
+8,Morehouse,3,3/26/2020
+8,Morehouse,2,3/27/2020
+8,Morehouse,2,3/28/2020
+8,Morehouse,2,3/29/2020
+8,Morehouse,2,3/30/2020
+8,Morehouse,2,3/31/2020
+8,Morehouse,2,4/1/2020
+8,Morehouse,4,4/2/2020
+8,Morehouse,7,4/3/2020
+8,Morehouse,9,4/4/2020
+8,Morehouse,10,4/5/2020
+8,Morehouse,15,4/6/2020
+8,Morehouse,20,4/7/2020
+8,Morehouse,23,4/8/2020
+8,Morehouse,24,4/9/2020
+8,Morehouse,27,4/10/2020
+8,Morehouse,31,4/11/2020
+8,Morehouse,31,4/12/2020
+8,Morehouse,32,4/13/2020
+8,Morehouse,32,4/14/2020
+8,Morehouse,32,4/15/2020
+8,Morehouse,34,4/16/2020
+8,Morehouse,34,4/17/2020
+8,Morehouse,35,4/18/2020
+8,Morehouse,37,4/19/2020
+8,Morehouse,38,4/20/2020
+8,Morehouse,39,4/21/2020
+8,Morehouse,41,4/22/2020
+8,Morehouse,45,4/23/2020
+8,Morehouse,46,4/24/2020
+8,Morehouse,46,4/25/2020
+8,Morehouse,46,4/26/2020
+8,Morehouse,48,4/27/2020
+8,Morehouse,48,4/28/2020
+8,Morehouse,51,4/29/2020
+8,Morehouse,52,4/30/2020
+8,Morehouse,52,5/1/2020
+8,Morehouse,54,5/2/2020
+8,Morehouse,55,5/3/2020
+8,Morehouse,55,5/4/2020
+8,Morehouse,55,5/5/2020
+8,Morehouse,55,5/6/2020
+8,Morehouse,57,5/7/2020
+8,Morehouse,57,5/8/2020
+8,Morehouse,60,5/9/2020
+8,Morehouse,62,5/10/2020
+8,Morehouse,65,5/11/2020
+8,Morehouse,67,5/12/2020
+8,Morehouse,87,5/13/2020
+8,Morehouse,89,5/14/2020
+8,Morehouse,92,5/15/2020
+8,Morehouse,85,5/16/2020
+8,Morehouse,91,5/17/2020
+8,Morehouse,93,5/18/2020
+8,Morehouse,93,5/19/2020
+8,Morehouse,94,5/20/2020
+8,Morehouse,108,5/21/2020
+8,Morehouse,110,5/22/2020
+8,Morehouse,110,5/23/2020
+8,Morehouse,111,5/24/2020
+8,Morehouse,117,5/25/2020
+8,Morehouse,119,5/26/2020
+8,Morehouse,121,5/27/2020
+8,Morehouse,121,5/28/2020
+8,Morehouse,121,5/30/2020
+8,Morehouse,122,5/31/2020
+8,Morehouse,122,6/1/2020
+8,Morehouse,122,6/2/2020
+8,Morehouse,131,6/3/2020
+8,Morehouse,132,6/4/2020
+8,Morehouse,132,6/5/2020
+8,Morehouse,133,6/6/2020
+8,Morehouse,133,6/7/2020
+8,Morehouse,134,6/8/2020
+8,Morehouse,135,6/9/2020
+8,Morehouse,136,6/10/2020
+8,Morehouse,138,6/11/2020
+8,Morehouse,138,6/12/2020
+8,Morehouse,153,6/13/2020
+8,Morehouse,158,6/14/2020
+8,Morehouse,161,6/15/2020
+8,Morehouse,165,6/16/2020
+8,Morehouse,186,6/17/2020
+7,Natchitoches,,3/14/2020
+7,Natchitoches,,3/15/2020
+7,Natchitoches,,3/16/2020
+7,Natchitoches,,3/17/2020
+7,Natchitoches,,3/18/2020
+7,Natchitoches,,3/19/2020
+7,Natchitoches,,3/20/2020
+7,Natchitoches,,3/21/2020
+7,Natchitoches,,3/22/2020
+7,Natchitoches,2,3/23/2020
+7,Natchitoches,2,3/24/2020
+7,Natchitoches,2,3/25/2020
+7,Natchitoches,2,3/26/2020
+7,Natchitoches,2,3/27/2020
+7,Natchitoches,2,3/28/2020
+7,Natchitoches,2,3/29/2020
+7,Natchitoches,2,3/30/2020
+7,Natchitoches,2,3/31/2020
+7,Natchitoches,2,4/1/2020
+7,Natchitoches,4,4/2/2020
+7,Natchitoches,6,4/3/2020
+7,Natchitoches,15,4/4/2020
+7,Natchitoches,14,4/5/2020
+7,Natchitoches,22,4/6/2020
+7,Natchitoches,24,4/7/2020
+7,Natchitoches,25,4/8/2020
+7,Natchitoches,27,4/9/2020
+7,Natchitoches,33,4/10/2020
+7,Natchitoches,33,4/11/2020
+7,Natchitoches,41,4/12/2020
+7,Natchitoches,41,4/13/2020
+7,Natchitoches,42,4/14/2020
+7,Natchitoches,42,4/15/2020
+7,Natchitoches,45,4/16/2020
+7,Natchitoches,50,4/17/2020
+7,Natchitoches,53,4/18/2020
+7,Natchitoches,57,4/19/2020
+7,Natchitoches,58,4/20/2020
+7,Natchitoches,58,4/21/2020
+7,Natchitoches,62,4/22/2020
+7,Natchitoches,62,4/23/2020
+7,Natchitoches,65,4/24/2020
+7,Natchitoches,73,4/25/2020
+7,Natchitoches,73,4/26/2020
+7,Natchitoches,77,4/27/2020
+7,Natchitoches,77,4/28/2020
+7,Natchitoches,79,4/29/2020
+7,Natchitoches,84,4/30/2020
+7,Natchitoches,86,5/1/2020
+7,Natchitoches,87,5/2/2020
+7,Natchitoches,87,5/3/2020
+7,Natchitoches,90,5/4/2020
+7,Natchitoches,90,5/5/2020
+7,Natchitoches,91,5/6/2020
+7,Natchitoches,91,5/7/2020
+7,Natchitoches,92,5/8/2020
+7,Natchitoches,98,5/9/2020
+7,Natchitoches,100,5/10/2020
+7,Natchitoches,100,5/11/2020
+7,Natchitoches,100,5/12/2020
+7,Natchitoches,100,5/13/2020
+7,Natchitoches,102,5/14/2020
+7,Natchitoches,102,5/15/2020
+7,Natchitoches,101,5/16/2020
+7,Natchitoches,101,5/17/2020
+7,Natchitoches,103,5/18/2020
+7,Natchitoches,103,5/19/2020
+7,Natchitoches,103,5/20/2020
+7,Natchitoches,141,5/21/2020
+7,Natchitoches,145,5/22/2020
+7,Natchitoches,145,5/23/2020
+7,Natchitoches,147,5/24/2020
+7,Natchitoches,152,5/25/2020
+7,Natchitoches,157,5/26/2020
+7,Natchitoches,157,5/27/2020
+7,Natchitoches,157,5/28/2020
+7,Natchitoches,168,5/30/2020
+7,Natchitoches,169,5/31/2020
+7,Natchitoches,171,6/1/2020
+7,Natchitoches,172,6/2/2020
+7,Natchitoches,173,6/3/2020
+7,Natchitoches,173,6/4/2020
+7,Natchitoches,173,6/5/2020
+7,Natchitoches,175,6/6/2020
+7,Natchitoches,177,6/7/2020
+7,Natchitoches,177,6/8/2020
+7,Natchitoches,179,6/9/2020
+7,Natchitoches,180,6/10/2020
+7,Natchitoches,182,6/11/2020
+7,Natchitoches,188,6/12/2020
+7,Natchitoches,191,6/13/2020
+7,Natchitoches,191,6/14/2020
+7,Natchitoches,194,6/15/2020
+7,Natchitoches,195,6/16/2020
+7,Natchitoches,195,6/17/2020
+1,Orleans,36,3/14/2020
+1,Orleans,65,3/15/2020
+1,Orleans,79,3/16/2020
+1,Orleans,95,3/17/2020
+1,Orleans,176,3/18/2020
+1,Orleans,231,3/19/2020
+1,Orleans,299,3/20/2020
+1,Orleans,352,3/21/2020
+1,Orleans,451,3/22/2020
+1,Orleans,567,3/23/2020
+1,Orleans,675,3/24/2020
+1,Orleans,827,3/25/2020
+1,Orleans,997,3/26/2020
+1,Orleans,1170,3/27/2020
+1,Orleans,1298,3/28/2020
+1,Orleans,1350,3/29/2020
+1,Orleans,1480,3/30/2020
+1,Orleans,1834,3/31/2020
+1,Orleans,2270,4/1/2020
+1,Orleans,3148,4/2/2020
+1,Orleans,3476,4/3/2020
+1,Orleans,3966,4/4/2020
+1,Orleans,4066,4/5/2020
+1,Orleans,4565,4/6/2020
+1,Orleans,4942,4/7/2020
+1,Orleans,5070,4/8/2020
+1,Orleans,5242,4/9/2020
+1,Orleans,5416,4/10/2020
+1,Orleans,5535,4/11/2020
+1,Orleans,5600,4/12/2020
+1,Orleans,5651,4/13/2020
+1,Orleans,5718,4/14/2020
+1,Orleans,5769,4/15/2020
+1,Orleans,5847,4/16/2020
+1,Orleans,5906,4/17/2020
+1,Orleans,5953,4/18/2020
+1,Orleans,6000,4/19/2020
+1,Orleans,6148,4/20/2020
+1,Orleans,6169,4/21/2020
+1,Orleans,6209,4/22/2020
+1,Orleans,6263,4/23/2020
+1,Orleans,6286,4/24/2020
+1,Orleans,6297,4/25/2020
+1,Orleans,6342,4/26/2020
+1,Orleans,6365,4/27/2020
+1,Orleans,6380,4/28/2020
+1,Orleans,6420,4/29/2020
+1,Orleans,6452,4/30/2020
+1,Orleans,6495,5/1/2020
+1,Orleans,6524,5/2/2020
+1,Orleans,6538,5/3/2020
+1,Orleans,6557,5/4/2020
+1,Orleans,6575,5/5/2020
+1,Orleans,6608,5/6/2020
+1,Orleans,6626,5/7/2020
+1,Orleans,6645,5/8/2020
+1,Orleans,6674,5/9/2020
+1,Orleans,6682,5/10/2020
+1,Orleans,6693,5/11/2020
+1,Orleans,6718,5/12/2020
+1,Orleans,6753,5/13/2020
+1,Orleans,6768,5/14/2020
+1,Orleans,6787,5/15/2020
+1,Orleans,6781,5/16/2020
+1,Orleans,6809,5/17/2020
+1,Orleans,6822,5/18/2020
+1,Orleans,6869,5/19/2020
+1,Orleans,6884,5/20/2020
+1,Orleans,6904,5/21/2020
+1,Orleans,6944,5/22/2020
+1,Orleans,6949,5/23/2020
+1,Orleans,6953,5/24/2020
+1,Orleans,7005,5/25/2020
+1,Orleans,7021,5/26/2020
+1,Orleans,7045,5/27/2020
+1,Orleans,7067,5/28/2020
+1,Orleans,7108,5/30/2020
+1,Orleans,7127,5/31/2020
+1,Orleans,7141,6/1/2020
+1,Orleans,7156,6/2/2020
+1,Orleans,7174,6/3/2020
+1,Orleans,7192,6/4/2020
+1,Orleans,7206,6/5/2020
+1,Orleans,7222,6/6/2020
+1,Orleans,7230,6/7/2020
+1,Orleans,7237,6/8/2020
+1,Orleans,7247,6/9/2020
+1,Orleans,7279,6/10/2020
+1,Orleans,7294,6/11/2020
+1,Orleans,7319,6/12/2020
+1,Orleans,7374,6/13/2020
+1,Orleans,7393,6/14/2020
+1,Orleans,7411,6/15/2020
+1,Orleans,7428,6/16/2020
+1,Orleans,7459,6/17/2020
+8,Ouachita,,3/14/2020
+8,Ouachita,,3/15/2020
+8,Ouachita,,3/16/2020
+8,Ouachita,,3/17/2020
+8,Ouachita,,3/18/2020
+8,Ouachita,,3/19/2020
+8,Ouachita,,3/20/2020
+8,Ouachita,,3/21/2020
+8,Ouachita,4,3/22/2020
+8,Ouachita,9,3/23/2020
+8,Ouachita,7,3/24/2020
+8,Ouachita,10,3/25/2020
+8,Ouachita,19,3/26/2020
+8,Ouachita,25,3/27/2020
+8,Ouachita,34,3/28/2020
+8,Ouachita,41,3/29/2020
+8,Ouachita,44,3/30/2020
+8,Ouachita,57,3/31/2020
+8,Ouachita,80,4/1/2020
+8,Ouachita,94,4/2/2020
+8,Ouachita,114,4/3/2020
+8,Ouachita,176,4/4/2020
+8,Ouachita,182,4/5/2020
+8,Ouachita,230,4/6/2020
+8,Ouachita,264,4/7/2020
+8,Ouachita,275,4/8/2020
+8,Ouachita,300,4/9/2020
+8,Ouachita,326,4/10/2020
+8,Ouachita,350,4/11/2020
+8,Ouachita,367,4/12/2020
+8,Ouachita,384,4/13/2020
+8,Ouachita,387,4/14/2020
+8,Ouachita,411,4/15/2020
+8,Ouachita,429,4/16/2020
+8,Ouachita,470,4/17/2020
+8,Ouachita,483,4/18/2020
+8,Ouachita,511,4/19/2020
+8,Ouachita,518,4/20/2020
+8,Ouachita,532,4/21/2020
+8,Ouachita,552,4/22/2020
+8,Ouachita,579,4/23/2020
+8,Ouachita,598,4/24/2020
+8,Ouachita,609,4/25/2020
+8,Ouachita,622,4/26/2020
+8,Ouachita,645,4/27/2020
+8,Ouachita,651,4/28/2020
+8,Ouachita,671,4/29/2020
+8,Ouachita,706,4/30/2020
+8,Ouachita,730,5/1/2020
+8,Ouachita,755,5/2/2020
+8,Ouachita,770,5/3/2020
+8,Ouachita,785,5/4/2020
+8,Ouachita,793,5/5/2020
+8,Ouachita,806,5/6/2020
+8,Ouachita,814,5/7/2020
+8,Ouachita,820,5/8/2020
+8,Ouachita,836,5/9/2020
+8,Ouachita,842,5/10/2020
+8,Ouachita,842,5/11/2020
+8,Ouachita,856,5/12/2020
+8,Ouachita,861,5/13/2020
+8,Ouachita,869,5/14/2020
+8,Ouachita,891,5/15/2020
+8,Ouachita,931,5/16/2020
+8,Ouachita,946,5/17/2020
+8,Ouachita,956,5/18/2020
+8,Ouachita,966,5/19/2020
+8,Ouachita,980,5/20/2020
+8,Ouachita,1032,5/21/2020
+8,Ouachita,1041,5/22/2020
+8,Ouachita,1042,5/23/2020
+8,Ouachita,1045,5/24/2020
+8,Ouachita,1102,5/25/2020
+8,Ouachita,1125,5/26/2020
+8,Ouachita,1150,5/27/2020
+8,Ouachita,1166,5/28/2020
+8,Ouachita,1219,5/30/2020
+8,Ouachita,1248,5/31/2020
+8,Ouachita,1264,6/1/2020
+8,Ouachita,1289,6/2/2020
+8,Ouachita,1312,6/3/2020
+8,Ouachita,1346,6/4/2020
+8,Ouachita,1396,6/5/2020
+8,Ouachita,1432,6/6/2020
+8,Ouachita,1470,6/7/2020
+8,Ouachita,1500,6/8/2020
+8,Ouachita,1543,6/9/2020
+8,Ouachita,1592,6/10/2020
+8,Ouachita,1631,6/11/2020
+8,Ouachita,1679,6/12/2020
+8,Ouachita,1744,6/13/2020
+8,Ouachita,1782,6/14/2020
+8,Ouachita,1813,6/15/2020
+8,Ouachita,1832,6/16/2020
+8,Ouachita,1889,6/17/2020
+,Out of State,,3/14/2020
+,Out of State,,3/15/2020
+,Out of State,1,3/16/2020
+,Out of State,,3/17/2020
+,Out of State,,3/18/2020
+,Out of State,,3/19/2020
+,Out of State,,3/20/2020
+,Out of State,,3/21/2020
+,Out of State,,3/22/2020
+,Out of State,,3/23/2020
+,Out of State,,3/24/2020
+,Out of State,,3/25/2020
+,Out of State,0,3/26/2020
+,Out of State,,3/27/2020
+,Out of State,,3/28/2020
+,Out of State,,3/29/2020
+,Out of State,,3/30/2020
+,Out of State,,3/31/2020
+,Out of State,,4/1/2020
+,Out of State,,4/2/2020
+,Out of State,,4/3/2020
+,Out of State,,4/4/2020
+,Out of State,,4/5/2020
+,Out of State,,4/6/2020
+,Out of State,,4/7/2020
+,Out of State,,4/8/2020
+,Out of State,,4/9/2020
+,Out of State,,4/10/2020
+,Out of State,,4/11/2020
+,Out of State,,4/12/2020
+,Out of State,,4/13/2020
+,Out of State,,4/14/2020
+,Out of State,,4/15/2020
+,Out of State,,4/16/2020
+,Out of State,,4/17/2020
+,Out of State,,4/18/2020
+,Out of State,,4/19/2020
+,Out of State,,4/20/2020
+,Out of State,,4/21/2020
+,Out of State,,4/22/2020
+,Out of State,,4/23/2020
+,Out of State,,4/24/2020
+,Out of State,,4/25/2020
+,Out of State,,4/26/2020
+,Out of State,,4/27/2020
+,Out of State,,4/28/2020
+,Out of State,,4/29/2020
+,Out of State,,4/30/2020
+,Out of State,,5/1/2020
+,Out of State,,5/2/2020
+,Out of State,,5/3/2020
+,Out of State,,5/4/2020
+,Out of State,,5/5/2020
+,Out of State,,5/6/2020
+,Out of State,,5/7/2020
+,Out of State,,5/8/2020
+,Out of State,,5/9/2020
+,Out of State,,5/10/2020
+,Out of State,,5/11/2020
+,Out of State,,5/12/2020
+,Out of State,,5/13/2020
+,Out of State,,5/14/2020
+,Out of State,,5/15/2020
+,Out of State,,5/16/2020
+,Out of State,,5/17/2020
+,Out of State,,5/18/2020
+,Out of State,,5/19/2020
+,Out of State,,5/20/2020
+,Out of State,,5/21/2020
+,Out of State,,5/22/2020
+,Out of State,,5/23/2020
+,Out of State,,5/24/2020
+,Out of State,,5/25/2020
+,Out of State,,5/26/2020
+,Out of State,,5/27/2020
+,Out of State,,5/28/2020
+,Out of State,,5/30/2020
+,Out of State,,5/31/2020
+,Out of State,,6/1/2020
+,Out of State,,6/2/2020
+,Out of State,,6/3/2020
+,Out of State,,6/4/2020
+,Out of State,,6/5/2020
+,Out of State,,6/6/2020
+,Out of State,,6/7/2020
+,Out of State,,6/8/2020
+,Out of State,,6/9/2020
+,Out of State,,6/10/2020
+,Out of State,,6/11/2020
+,Out of State,,6/12/2020
+,Out of State,,6/13/2020
+,Out of State,,6/14/2020
+,Out of State,,6/15/2020
+,Out of State,,6/16/2020
+,Out of State,,6/17/2020
+,Parish Under Investigation,,3/14/2020
+,Parish Under Investigation,,3/15/2020
+,Parish Under Investigation,,3/16/2020
+,Parish Under Investigation,1,3/17/2020
+,Parish Under Investigation,,3/18/2020
+,Parish Under Investigation,3,3/19/2020
+,Parish Under Investigation,6,3/20/2020
+,Parish Under Investigation,8,3/21/2020
+,Parish Under Investigation,11,3/22/2020
+,Parish Under Investigation,12,3/23/2020
+,Parish Under Investigation,12,3/24/2020
+,Parish Under Investigation,11,3/25/2020
+,Parish Under Investigation,13,3/26/2020
+,Parish Under Investigation,16,3/27/2020
+,Parish Under Investigation,9,3/28/2020
+,Parish Under Investigation,8,3/29/2020
+,Parish Under Investigation,14,3/30/2020
+,Parish Under Investigation,22,3/31/2020
+,Parish Under Investigation,28,4/1/2020
+,Parish Under Investigation,38,4/2/2020
+,Parish Under Investigation,40,4/3/2020
+,Parish Under Investigation,31,4/4/2020
+,Parish Under Investigation,31,4/5/2020
+,Parish Under Investigation,48,4/6/2020
+,Parish Under Investigation,49,4/7/2020
+,Parish Under Investigation,49,4/8/2020
+,Parish Under Investigation,51,4/9/2020
+,Parish Under Investigation,54,4/10/2020
+,Parish Under Investigation,54,4/11/2020
+,Parish Under Investigation,54,4/12/2020
+,Parish Under Investigation,56,4/13/2020
+,Parish Under Investigation,56,4/14/2020
+,Parish Under Investigation,56,4/15/2020
+,Parish Under Investigation,56,4/16/2020
+,Parish Under Investigation,56,4/17/2020
+,Parish Under Investigation,57,4/18/2020
+,Parish Under Investigation,58,4/19/2020
+,Parish Under Investigation,59,4/20/2020
+,Parish Under Investigation,59,4/21/2020
+,Parish Under Investigation,60,4/22/2020
+,Parish Under Investigation,62,4/23/2020
+,Parish Under Investigation,63,4/24/2020
+,Parish Under Investigation,63,4/25/2020
+,Parish Under Investigation,64,4/26/2020
+,Parish Under Investigation,64,4/27/2020
+,Parish Under Investigation,61,4/28/2020
+,Parish Under Investigation,61,4/29/2020
+,Parish Under Investigation,61,4/30/2020
+,Parish Under Investigation,63,5/1/2020
+,Parish Under Investigation,63,5/2/2020
+,Parish Under Investigation,63,5/3/2020
+,Parish Under Investigation,63,5/4/2020
+,Parish Under Investigation,63,5/5/2020
+,Parish Under Investigation,63,5/6/2020
+,Parish Under Investigation,63,5/7/2020
+,Parish Under Investigation,63,5/8/2020
+,Parish Under Investigation,64,5/9/2020
+,Parish Under Investigation,64,5/10/2020
+,Parish Under Investigation,64,5/11/2020
+,Parish Under Investigation,64,5/12/2020
+,Parish Under Investigation,64,5/13/2020
+,Parish Under Investigation,65,5/14/2020
+,Parish Under Investigation,65,5/15/2020
+,Parish Under Investigation,72,5/16/2020
+,Parish Under Investigation,72,5/17/2020
+,Parish Under Investigation,72,5/18/2020
+,Parish Under Investigation,72,5/19/2020
+,Parish Under Investigation,72,5/20/2020
+,Parish Under Investigation,78,5/21/2020
+,Parish Under Investigation,78,5/22/2020
+,Parish Under Investigation,78,5/23/2020
+,Parish Under Investigation,78,5/24/2020
+,Parish Under Investigation,77,5/25/2020
+,Parish Under Investigation,77,5/26/2020
+,Parish Under Investigation,84,5/27/2020
+,Parish Under Investigation,84,5/28/2020
+,Parish Under Investigation,84,5/30/2020
+,Parish Under Investigation,84,5/31/2020
+,Parish Under Investigation,84,6/1/2020
+,Parish Under Investigation,85,6/2/2020
+,Parish Under Investigation,85,6/3/2020
+,Parish Under Investigation,88,6/4/2020
+,Parish Under Investigation,88,6/5/2020
+,Parish Under Investigation,120,6/6/2020
+,Parish Under Investigation,120,6/7/2020
+,Parish Under Investigation,120,6/8/2020
+,Parish Under Investigation,195,6/9/2020
+,Parish Under Investigation,214,6/10/2020
+,Parish Under Investigation,214,6/11/2020
+,Parish Under Investigation,240,6/12/2020
+,Parish Under Investigation,293,6/13/2020
+,Parish Under Investigation,293,6/14/2020
+,Parish Under Investigation,319,6/15/2020
+,Parish Under Investigation,393,6/16/2020
+,Parish Under Investigation,458,6/17/2020
+1,Plaquemines,,3/14/2020
+1,Plaquemines,,3/15/2020
+1,Plaquemines,,3/16/2020
+1,Plaquemines,,3/17/2020
+1,Plaquemines,,3/18/2020
+1,Plaquemines,1,3/19/2020
+1,Plaquemines,1,3/20/2020
+1,Plaquemines,1,3/21/2020
+1,Plaquemines,5,3/22/2020
+1,Plaquemines,8,3/23/2020
+1,Plaquemines,8,3/24/2020
+1,Plaquemines,9,3/25/2020
+1,Plaquemines,13,3/26/2020
+1,Plaquemines,16,3/27/2020
+1,Plaquemines,19,3/28/2020
+1,Plaquemines,20,3/29/2020
+1,Plaquemines,22,3/30/2020
+1,Plaquemines,37,3/31/2020
+1,Plaquemines,47,4/1/2020
+1,Plaquemines,68,4/2/2020
+1,Plaquemines,75,4/3/2020
+1,Plaquemines,86,4/4/2020
+1,Plaquemines,92,4/5/2020
+1,Plaquemines,100,4/6/2020
+1,Plaquemines,115,4/7/2020
+1,Plaquemines,123,4/8/2020
+1,Plaquemines,129,4/9/2020
+1,Plaquemines,130,4/10/2020
+1,Plaquemines,136,4/11/2020
+1,Plaquemines,137,4/12/2020
+1,Plaquemines,140,4/13/2020
+1,Plaquemines,142,4/14/2020
+1,Plaquemines,147,4/15/2020
+1,Plaquemines,149,4/16/2020
+1,Plaquemines,152,4/17/2020
+1,Plaquemines,156,4/18/2020
+1,Plaquemines,157,4/19/2020
+1,Plaquemines,164,4/20/2020
+1,Plaquemines,164,4/21/2020
+1,Plaquemines,164,4/22/2020
+1,Plaquemines,165,4/23/2020
+1,Plaquemines,166,4/24/2020
+1,Plaquemines,168,4/25/2020
+1,Plaquemines,168,4/26/2020
+1,Plaquemines,168,4/27/2020
+1,Plaquemines,168,4/28/2020
+1,Plaquemines,172,4/29/2020
+1,Plaquemines,177,4/30/2020
+1,Plaquemines,179,5/1/2020
+1,Plaquemines,180,5/2/2020
+1,Plaquemines,180,5/3/2020
+1,Plaquemines,181,5/4/2020
+1,Plaquemines,181,5/5/2020
+1,Plaquemines,183,5/6/2020
+1,Plaquemines,185,5/7/2020
+1,Plaquemines,185,5/8/2020
+1,Plaquemines,189,5/9/2020
+1,Plaquemines,190,5/10/2020
+1,Plaquemines,190,5/11/2020
+1,Plaquemines,191,5/12/2020
+1,Plaquemines,191,5/13/2020
+1,Plaquemines,192,5/14/2020
+1,Plaquemines,193,5/15/2020
+1,Plaquemines,194,5/16/2020
+1,Plaquemines,194,5/17/2020
+1,Plaquemines,194,5/18/2020
+1,Plaquemines,196,5/19/2020
+1,Plaquemines,197,5/20/2020
+1,Plaquemines,197,5/21/2020
+1,Plaquemines,198,5/22/2020
+1,Plaquemines,198,5/23/2020
+1,Plaquemines,200,5/24/2020
+1,Plaquemines,200,5/25/2020
+1,Plaquemines,200,5/26/2020
+1,Plaquemines,201,5/27/2020
+1,Plaquemines,201,5/28/2020
+1,Plaquemines,211,5/30/2020
+1,Plaquemines,211,5/31/2020
+1,Plaquemines,213,6/1/2020
+1,Plaquemines,215,6/2/2020
+1,Plaquemines,215,6/3/2020
+1,Plaquemines,217,6/4/2020
+1,Plaquemines,218,6/5/2020
+1,Plaquemines,218,6/6/2020
+1,Plaquemines,218,6/7/2020
+1,Plaquemines,218,6/8/2020
+1,Plaquemines,219,6/9/2020
+1,Plaquemines,220,6/10/2020
+1,Plaquemines,222,6/11/2020
+1,Plaquemines,223,6/12/2020
+1,Plaquemines,228,6/13/2020
+1,Plaquemines,228,6/14/2020
+1,Plaquemines,228,6/15/2020
+1,Plaquemines,228,6/16/2020
+1,Plaquemines,228,6/17/2020
+2,Pointe Coupee,,3/14/2020
+2,Pointe Coupee,,3/15/2020
+2,Pointe Coupee,,3/16/2020
+2,Pointe Coupee,,3/17/2020
+2,Pointe Coupee,,3/18/2020
+2,Pointe Coupee,,3/19/2020
+2,Pointe Coupee,,3/20/2020
+2,Pointe Coupee,,3/21/2020
+2,Pointe Coupee,,3/22/2020
+2,Pointe Coupee,,3/23/2020
+2,Pointe Coupee,,3/24/2020
+2,Pointe Coupee,,3/25/2020
+2,Pointe Coupee,1,3/26/2020
+2,Pointe Coupee,1,3/27/2020
+2,Pointe Coupee,2,3/28/2020
+2,Pointe Coupee,2,3/29/2020
+2,Pointe Coupee,2,3/30/2020
+2,Pointe Coupee,7,3/31/2020
+2,Pointe Coupee,7,4/1/2020
+2,Pointe Coupee,12,4/2/2020
+2,Pointe Coupee,13,4/3/2020
+2,Pointe Coupee,16,4/4/2020
+2,Pointe Coupee,17,4/5/2020
+2,Pointe Coupee,24,4/6/2020
+2,Pointe Coupee,26,4/7/2020
+2,Pointe Coupee,27,4/8/2020
+2,Pointe Coupee,32,4/9/2020
+2,Pointe Coupee,38,4/10/2020
+2,Pointe Coupee,40,4/11/2020
+2,Pointe Coupee,43,4/12/2020
+2,Pointe Coupee,47,4/13/2020
+2,Pointe Coupee,49,4/14/2020
+2,Pointe Coupee,53,4/15/2020
+2,Pointe Coupee,60,4/16/2020
+2,Pointe Coupee,62,4/17/2020
+2,Pointe Coupee,64,4/18/2020
+2,Pointe Coupee,69,4/19/2020
+2,Pointe Coupee,71,4/20/2020
+2,Pointe Coupee,80,4/21/2020
+2,Pointe Coupee,84,4/22/2020
+2,Pointe Coupee,86,4/23/2020
+2,Pointe Coupee,88,4/24/2020
+2,Pointe Coupee,89,4/25/2020
+2,Pointe Coupee,89,4/26/2020
+2,Pointe Coupee,94,4/27/2020
+2,Pointe Coupee,98,4/28/2020
+2,Pointe Coupee,98,4/29/2020
+2,Pointe Coupee,99,4/30/2020
+2,Pointe Coupee,104,5/1/2020
+2,Pointe Coupee,101,5/2/2020
+2,Pointe Coupee,103,5/3/2020
+2,Pointe Coupee,108,5/4/2020
+2,Pointe Coupee,114,5/5/2020
+2,Pointe Coupee,117,5/6/2020
+2,Pointe Coupee,120,5/7/2020
+2,Pointe Coupee,125,5/8/2020
+2,Pointe Coupee,126,5/9/2020
+2,Pointe Coupee,126,5/10/2020
+2,Pointe Coupee,136,5/11/2020
+2,Pointe Coupee,138,5/12/2020
+2,Pointe Coupee,139,5/13/2020
+2,Pointe Coupee,152,5/14/2020
+2,Pointe Coupee,155,5/15/2020
+2,Pointe Coupee,163,5/16/2020
+2,Pointe Coupee,168,5/17/2020
+2,Pointe Coupee,169,5/18/2020
+2,Pointe Coupee,173,5/19/2020
+2,Pointe Coupee,179,5/20/2020
+2,Pointe Coupee,181,5/21/2020
+2,Pointe Coupee,182,5/22/2020
+2,Pointe Coupee,182,5/23/2020
+2,Pointe Coupee,182,5/24/2020
+2,Pointe Coupee,186,5/25/2020
+2,Pointe Coupee,188,5/26/2020
+2,Pointe Coupee,189,5/27/2020
+2,Pointe Coupee,192,5/28/2020
+2,Pointe Coupee,195,5/30/2020
+2,Pointe Coupee,197,5/31/2020
+2,Pointe Coupee,199,6/1/2020
+2,Pointe Coupee,205,6/2/2020
+2,Pointe Coupee,205,6/3/2020
+2,Pointe Coupee,207,6/4/2020
+2,Pointe Coupee,208,6/5/2020
+2,Pointe Coupee,212,6/6/2020
+2,Pointe Coupee,213,6/7/2020
+2,Pointe Coupee,214,6/8/2020
+2,Pointe Coupee,215,6/9/2020
+2,Pointe Coupee,217,6/10/2020
+2,Pointe Coupee,217,6/11/2020
+2,Pointe Coupee,217,6/12/2020
+2,Pointe Coupee,218,6/13/2020
+2,Pointe Coupee,218,6/14/2020
+2,Pointe Coupee,221,6/15/2020
+2,Pointe Coupee,223,6/16/2020
+2,Pointe Coupee,224,6/17/2020
+6,Rapides,,3/14/2020
+6,Rapides,,3/15/2020
+6,Rapides,,3/16/2020
+6,Rapides,,3/17/2020
+6,Rapides,,3/18/2020
+6,Rapides,,3/19/2020
+6,Rapides,1,3/20/2020
+6,Rapides,3,3/21/2020
+6,Rapides,3,3/22/2020
+6,Rapides,8,3/23/2020
+6,Rapides,10,3/24/2020
+6,Rapides,14,3/25/2020
+6,Rapides,25,3/26/2020
+6,Rapides,26,3/27/2020
+6,Rapides,37,3/28/2020
+6,Rapides,41,3/29/2020
+6,Rapides,44,3/30/2020
+6,Rapides,58,3/31/2020
+6,Rapides,69,4/1/2020
+6,Rapides,77,4/2/2020
+6,Rapides,81,4/3/2020
+6,Rapides,97,4/4/2020
+6,Rapides,100,4/5/2020
+6,Rapides,110,4/6/2020
+6,Rapides,129,4/7/2020
+6,Rapides,135,4/8/2020
+6,Rapides,148,4/9/2020
+6,Rapides,156,4/10/2020
+6,Rapides,159,4/11/2020
+6,Rapides,165,4/12/2020
+6,Rapides,168,4/13/2020
+6,Rapides,175,4/14/2020
+6,Rapides,179,4/15/2020
+6,Rapides,192,4/16/2020
+6,Rapides,196,4/17/2020
+6,Rapides,201,4/18/2020
+6,Rapides,210,4/19/2020
+6,Rapides,210,4/20/2020
+6,Rapides,213,4/21/2020
+6,Rapides,217,4/22/2020
+6,Rapides,220,4/23/2020
+6,Rapides,228,4/24/2020
+6,Rapides,239,4/25/2020
+6,Rapides,247,4/26/2020
+6,Rapides,249,4/27/2020
+6,Rapides,255,4/28/2020
+6,Rapides,259,4/29/2020
+6,Rapides,265,4/30/2020
+6,Rapides,270,5/1/2020
+6,Rapides,273,5/2/2020
+6,Rapides,281,5/3/2020
+6,Rapides,300,5/4/2020
+6,Rapides,308,5/5/2020
+6,Rapides,316,5/6/2020
+6,Rapides,316,5/7/2020
+6,Rapides,338,5/8/2020
+6,Rapides,351,5/9/2020
+6,Rapides,362,5/10/2020
+6,Rapides,370,5/11/2020
+6,Rapides,376,5/12/2020
+6,Rapides,394,5/13/2020
+6,Rapides,417,5/14/2020
+6,Rapides,424,5/15/2020
+6,Rapides,437,5/16/2020
+6,Rapides,474,5/17/2020
+6,Rapides,499,5/18/2020
+6,Rapides,504,5/19/2020
+6,Rapides,516,5/20/2020
+6,Rapides,591,5/21/2020
+6,Rapides,600,5/22/2020
+6,Rapides,601,5/23/2020
+6,Rapides,606,5/24/2020
+6,Rapides,654,5/25/2020
+6,Rapides,663,5/26/2020
+6,Rapides,679,5/27/2020
+6,Rapides,703,5/28/2020
+6,Rapides,783,5/30/2020
+6,Rapides,790,5/31/2020
+6,Rapides,800,6/1/2020
+6,Rapides,810,6/2/2020
+6,Rapides,829,6/3/2020
+6,Rapides,850,6/4/2020
+6,Rapides,890,6/5/2020
+6,Rapides,926,6/6/2020
+6,Rapides,957,6/7/2020
+6,Rapides,975,6/8/2020
+6,Rapides,992,6/9/2020
+6,Rapides,1007,6/10/2020
+6,Rapides,1074,6/11/2020
+6,Rapides,1098,6/12/2020
+6,Rapides,1132,6/13/2020
+6,Rapides,1145,6/14/2020
+6,Rapides,1193,6/15/2020
+6,Rapides,1209,6/16/2020
+6,Rapides,1229,6/17/2020
+7,Red River,,3/14/2020
+7,Red River,,3/15/2020
+7,Red River,,3/16/2020
+7,Red River,,3/17/2020
+7,Red River,,3/18/2020
+7,Red River,,3/19/2020
+7,Red River,,3/20/2020
+7,Red River,,3/21/2020
+7,Red River,,3/22/2020
+7,Red River,,3/23/2020
+7,Red River,,3/24/2020
+7,Red River,,3/25/2020
+7,Red River,,3/26/2020
+7,Red River,,3/27/2020
+7,Red River,,3/28/2020
+7,Red River,1,3/29/2020
+7,Red River,1,3/30/2020
+7,Red River,1,3/31/2020
+7,Red River,1,4/1/2020
+7,Red River,1,4/2/2020
+7,Red River,2,4/3/2020
+7,Red River,2,4/4/2020
+7,Red River,2,4/5/2020
+7,Red River,2,4/6/2020
+7,Red River,2,4/7/2020
+7,Red River,3,4/8/2020
+7,Red River,5,4/9/2020
+7,Red River,7,4/10/2020
+7,Red River,9,4/11/2020
+7,Red River,11,4/12/2020
+7,Red River,12,4/13/2020
+7,Red River,13,4/14/2020
+7,Red River,13,4/15/2020
+7,Red River,15,4/16/2020
+7,Red River,18,4/17/2020
+7,Red River,19,4/18/2020
+7,Red River,20,4/19/2020
+7,Red River,21,4/20/2020
+7,Red River,21,4/21/2020
+7,Red River,22,4/22/2020
+7,Red River,22,4/23/2020
+7,Red River,22,4/24/2020
+7,Red River,22,4/25/2020
+7,Red River,22,4/26/2020
+7,Red River,22,4/27/2020
+7,Red River,23,4/28/2020
+7,Red River,24,4/29/2020
+7,Red River,25,4/30/2020
+7,Red River,29,5/1/2020
+7,Red River,32,5/2/2020
+7,Red River,32,5/3/2020
+7,Red River,33,5/4/2020
+7,Red River,34,5/5/2020
+7,Red River,34,5/6/2020
+7,Red River,34,5/7/2020
+7,Red River,34,5/8/2020
+7,Red River,36,5/9/2020
+7,Red River,36,5/10/2020
+7,Red River,36,5/11/2020
+7,Red River,36,5/12/2020
+7,Red River,37,5/13/2020
+7,Red River,38,5/14/2020
+7,Red River,40,5/15/2020
+7,Red River,42,5/16/2020
+7,Red River,42,5/17/2020
+7,Red River,43,5/18/2020
+7,Red River,43,5/19/2020
+7,Red River,43,5/20/2020
+7,Red River,44,5/21/2020
+7,Red River,46,5/22/2020
+7,Red River,46,5/23/2020
+7,Red River,47,5/24/2020
+7,Red River,48,5/25/2020
+7,Red River,48,5/26/2020
+7,Red River,48,5/27/2020
+7,Red River,49,5/28/2020
+7,Red River,50,5/30/2020
+7,Red River,50,5/31/2020
+7,Red River,50,6/1/2020
+7,Red River,50,6/2/2020
+7,Red River,50,6/3/2020
+7,Red River,51,6/4/2020
+7,Red River,51,6/5/2020
+7,Red River,51,6/6/2020
+7,Red River,51,6/7/2020
+7,Red River,51,6/8/2020
+7,Red River,52,6/9/2020
+7,Red River,52,6/10/2020
+7,Red River,52,6/11/2020
+7,Red River,52,6/12/2020
+7,Red River,52,6/13/2020
+7,Red River,52,6/14/2020
+7,Red River,53,6/15/2020
+7,Red River,52,6/16/2020
+7,Red River,52,6/17/2020
+8,Richland,,3/14/2020
+8,Richland,,3/15/2020
+8,Richland,,3/16/2020
+8,Richland,,3/17/2020
+8,Richland,,3/18/2020
+8,Richland,,3/19/2020
+8,Richland,,3/20/2020
+8,Richland,,3/21/2020
+8,Richland,,3/22/2020
+8,Richland,2,3/23/2020
+8,Richland,1,3/24/2020
+8,Richland,1,3/25/2020
+8,Richland,1,3/26/2020
+8,Richland,2,3/27/2020
+8,Richland,2,3/28/2020
+8,Richland,2,3/29/2020
+8,Richland,2,3/30/2020
+8,Richland,2,3/31/2020
+8,Richland,3,4/1/2020
+8,Richland,4,4/2/2020
+8,Richland,4,4/3/2020
+8,Richland,9,4/4/2020
+8,Richland,10,4/5/2020
+8,Richland,11,4/6/2020
+8,Richland,13,4/7/2020
+8,Richland,13,4/8/2020
+8,Richland,16,4/9/2020
+8,Richland,18,4/10/2020
+8,Richland,19,4/11/2020
+8,Richland,19,4/12/2020
+8,Richland,20,4/13/2020
+8,Richland,20,4/14/2020
+8,Richland,21,4/15/2020
+8,Richland,22,4/16/2020
+8,Richland,27,4/17/2020
+8,Richland,27,4/18/2020
+8,Richland,33,4/19/2020
+8,Richland,34,4/20/2020
+8,Richland,38,4/21/2020
+8,Richland,42,4/22/2020
+8,Richland,45,4/23/2020
+8,Richland,47,4/24/2020
+8,Richland,48,4/25/2020
+8,Richland,48,4/26/2020
+8,Richland,52,4/27/2020
+8,Richland,53,4/28/2020
+8,Richland,56,4/29/2020
+8,Richland,58,4/30/2020
+8,Richland,66,5/1/2020
+8,Richland,73,5/2/2020
+8,Richland,74,5/3/2020
+8,Richland,82,5/4/2020
+8,Richland,84,5/5/2020
+8,Richland,86,5/6/2020
+8,Richland,91,5/7/2020
+8,Richland,95,5/8/2020
+8,Richland,99,5/9/2020
+8,Richland,100,5/10/2020
+8,Richland,103,5/11/2020
+8,Richland,103,5/12/2020
+8,Richland,104,5/13/2020
+8,Richland,104,5/14/2020
+8,Richland,106,5/15/2020
+8,Richland,106,5/16/2020
+8,Richland,106,5/17/2020
+8,Richland,107,5/18/2020
+8,Richland,108,5/19/2020
+8,Richland,108,5/20/2020
+8,Richland,113,5/21/2020
+8,Richland,114,5/22/2020
+8,Richland,114,5/23/2020
+8,Richland,114,5/24/2020
+8,Richland,119,5/25/2020
+8,Richland,119,5/26/2020
+8,Richland,124,5/27/2020
+8,Richland,125,5/28/2020
+8,Richland,128,5/30/2020
+8,Richland,135,5/31/2020
+8,Richland,138,6/1/2020
+8,Richland,139,6/2/2020
+8,Richland,143,6/3/2020
+8,Richland,148,6/4/2020
+8,Richland,148,6/5/2020
+8,Richland,149,6/6/2020
+8,Richland,153,6/7/2020
+8,Richland,156,6/8/2020
+8,Richland,157,6/9/2020
+8,Richland,157,6/10/2020
+8,Richland,159,6/11/2020
+8,Richland,160,6/12/2020
+8,Richland,163,6/13/2020
+8,Richland,163,6/14/2020
+8,Richland,164,6/15/2020
+8,Richland,164,6/16/2020
+8,Richland,167,6/17/2020
+7,Sabine,,3/14/2020
+7,Sabine,,3/15/2020
+7,Sabine,,3/16/2020
+7,Sabine,,3/17/2020
+7,Sabine,,3/18/2020
+7,Sabine,,3/19/2020
+7,Sabine,,3/20/2020
+7,Sabine,,3/21/2020
+7,Sabine,,3/22/2020
+7,Sabine,,3/23/2020
+7,Sabine,,3/24/2020
+7,Sabine,,3/25/2020
+7,Sabine,,3/26/2020
+7,Sabine,,3/27/2020
+7,Sabine,,3/28/2020
+7,Sabine,1,3/29/2020
+7,Sabine,1,3/30/2020
+7,Sabine,2,3/31/2020
+7,Sabine,3,4/1/2020
+7,Sabine,4,4/2/2020
+7,Sabine,4,4/3/2020
+7,Sabine,4,4/4/2020
+7,Sabine,5,4/5/2020
+7,Sabine,7,4/6/2020
+7,Sabine,7,4/7/2020
+7,Sabine,7,4/8/2020
+7,Sabine,8,4/9/2020
+7,Sabine,8,4/10/2020
+7,Sabine,8,4/11/2020
+7,Sabine,9,4/12/2020
+7,Sabine,9,4/13/2020
+7,Sabine,10,4/14/2020
+7,Sabine,10,4/15/2020
+7,Sabine,11,4/16/2020
+7,Sabine,13,4/17/2020
+7,Sabine,13,4/18/2020
+7,Sabine,13,4/19/2020
+7,Sabine,13,4/20/2020
+7,Sabine,14,4/21/2020
+7,Sabine,14,4/22/2020
+7,Sabine,13,4/23/2020
+7,Sabine,13,4/24/2020
+7,Sabine,13,4/25/2020
+7,Sabine,13,4/26/2020
+7,Sabine,13,4/27/2020
+7,Sabine,16,4/28/2020
+7,Sabine,16,4/29/2020
+7,Sabine,17,4/30/2020
+7,Sabine,17,5/1/2020
+7,Sabine,17,5/2/2020
+7,Sabine,17,5/3/2020
+7,Sabine,17,5/4/2020
+7,Sabine,17,5/5/2020
+7,Sabine,17,5/6/2020
+7,Sabine,17,5/7/2020
+7,Sabine,17,5/8/2020
+7,Sabine,17,5/9/2020
+7,Sabine,17,5/10/2020
+7,Sabine,19,5/11/2020
+7,Sabine,19,5/12/2020
+7,Sabine,28,5/13/2020
+7,Sabine,29,5/14/2020
+7,Sabine,29,5/15/2020
+7,Sabine,29,5/16/2020
+7,Sabine,29,5/17/2020
+7,Sabine,29,5/18/2020
+7,Sabine,30,5/19/2020
+7,Sabine,31,5/20/2020
+7,Sabine,39,5/21/2020
+7,Sabine,39,5/22/2020
+7,Sabine,40,5/23/2020
+7,Sabine,40,5/24/2020
+7,Sabine,40,5/25/2020
+7,Sabine,40,5/26/2020
+7,Sabine,41,5/27/2020
+7,Sabine,41,5/28/2020
+7,Sabine,46,5/30/2020
+7,Sabine,46,5/31/2020
+7,Sabine,47,6/1/2020
+7,Sabine,47,6/2/2020
+7,Sabine,49,6/3/2020
+7,Sabine,50,6/4/2020
+7,Sabine,50,6/5/2020
+7,Sabine,51,6/6/2020
+7,Sabine,51,6/7/2020
+7,Sabine,51,6/8/2020
+7,Sabine,52,6/9/2020
+7,Sabine,53,6/10/2020
+7,Sabine,53,6/11/2020
+7,Sabine,53,6/12/2020
+7,Sabine,59,6/13/2020
+7,Sabine,59,6/14/2020
+7,Sabine,59,6/15/2020
+7,Sabine,62,6/16/2020
+7,Sabine,63,6/17/2020
+1,St. Bernard,,3/14/2020
+1,St. Bernard,1,3/15/2020
+1,St. Bernard,2,3/16/2020
+1,St. Bernard,2,3/17/2020
+1,St. Bernard,2,3/18/2020
+1,St. Bernard,4,3/19/2020
+1,St. Bernard,5,3/20/2020
+1,St. Bernard,6,3/21/2020
+1,St. Bernard,13,3/22/2020
+1,St. Bernard,15,3/23/2020
+1,St. Bernard,19,3/24/2020
+1,St. Bernard,23,3/25/2020
+1,St. Bernard,28,3/26/2020
+1,St. Bernard,31,3/27/2020
+1,St. Bernard,43,3/28/2020
+1,St. Bernard,45,3/29/2020
+1,St. Bernard,53,3/30/2020
+1,St. Bernard,71,3/31/2020
+1,St. Bernard,94,4/1/2020
+1,St. Bernard,181,4/2/2020
+1,St. Bernard,196,4/3/2020
+1,St. Bernard,239,4/4/2020
+1,St. Bernard,242,4/5/2020
+1,St. Bernard,267,4/6/2020
+1,St. Bernard,289,4/7/2020
+1,St. Bernard,304,4/8/2020
+1,St. Bernard,325,4/9/2020
+1,St. Bernard,343,4/10/2020
+1,St. Bernard,358,4/11/2020
+1,St. Bernard,361,4/12/2020
+1,St. Bernard,369,4/13/2020
+1,St. Bernard,377,4/14/2020
+1,St. Bernard,383,4/15/2020
+1,St. Bernard,388,4/16/2020
+1,St. Bernard,404,4/17/2020
+1,St. Bernard,409,4/18/2020
+1,St. Bernard,411,4/19/2020
+1,St. Bernard,423,4/20/2020
+1,St. Bernard,428,4/21/2020
+1,St. Bernard,430,4/22/2020
+1,St. Bernard,435,4/23/2020
+1,St. Bernard,440,4/24/2020
+1,St. Bernard,443,4/25/2020
+1,St. Bernard,446,4/26/2020
+1,St. Bernard,449,4/27/2020
+1,St. Bernard,452,4/28/2020
+1,St. Bernard,461,4/29/2020
+1,St. Bernard,464,4/30/2020
+1,St. Bernard,469,5/1/2020
+1,St. Bernard,474,5/2/2020
+1,St. Bernard,475,5/3/2020
+1,St. Bernard,480,5/4/2020
+1,St. Bernard,502,5/5/2020
+1,St. Bernard,505,5/6/2020
+1,St. Bernard,508,5/7/2020
+1,St. Bernard,508,5/8/2020
+1,St. Bernard,512,5/9/2020
+1,St. Bernard,513,5/10/2020
+1,St. Bernard,514,5/11/2020
+1,St. Bernard,515,5/12/2020
+1,St. Bernard,515,5/13/2020
+1,St. Bernard,516,5/14/2020
+1,St. Bernard,517,5/15/2020
+1,St. Bernard,511,5/16/2020
+1,St. Bernard,512,5/17/2020
+1,St. Bernard,513,5/18/2020
+1,St. Bernard,516,5/19/2020
+1,St. Bernard,518,5/20/2020
+1,St. Bernard,521,5/21/2020
+1,St. Bernard,521,5/22/2020
+1,St. Bernard,521,5/23/2020
+1,St. Bernard,521,5/24/2020
+1,St. Bernard,529,5/25/2020
+1,St. Bernard,529,5/26/2020
+1,St. Bernard,531,5/27/2020
+1,St. Bernard,534,5/28/2020
+1,St. Bernard,536,5/30/2020
+1,St. Bernard,536,5/31/2020
+1,St. Bernard,539,6/1/2020
+1,St. Bernard,544,6/2/2020
+1,St. Bernard,545,6/3/2020
+1,St. Bernard,546,6/4/2020
+1,St. Bernard,548,6/5/2020
+1,St. Bernard,549,6/6/2020
+1,St. Bernard,552,6/7/2020
+1,St. Bernard,555,6/8/2020
+1,St. Bernard,555,6/9/2020
+1,St. Bernard,558,6/10/2020
+1,St. Bernard,559,6/11/2020
+1,St. Bernard,562,6/12/2020
+1,St. Bernard,568,6/13/2020
+1,St. Bernard,569,6/14/2020
+1,St. Bernard,571,6/15/2020
+1,St. Bernard,575,6/16/2020
+1,St. Bernard,580,6/17/2020
+3,St. Charles,1,3/14/2020
+3,St. Charles,2,3/15/2020
+3,St. Charles,3,3/16/2020
+3,St. Charles,3,3/17/2020
+3,St. Charles,3,3/18/2020
+3,St. Charles,4,3/19/2020
+3,St. Charles,5,3/20/2020
+3,St. Charles,7,3/21/2020
+3,St. Charles,8,3/22/2020
+3,St. Charles,15,3/23/2020
+3,St. Charles,15,3/24/2020
+3,St. Charles,17,3/25/2020
+3,St. Charles,22,3/26/2020
+3,St. Charles,23,3/27/2020
+3,St. Charles,30,3/28/2020
+3,St. Charles,31,3/29/2020
+3,St. Charles,36,3/30/2020
+3,St. Charles,71,3/31/2020
+3,St. Charles,82,4/1/2020
+3,St. Charles,180,4/2/2020
+3,St. Charles,210,4/3/2020
+3,St. Charles,252,4/4/2020
+3,St. Charles,260,4/5/2020
+3,St. Charles,285,4/6/2020
+3,St. Charles,310,4/7/2020
+3,St. Charles,328,4/8/2020
+3,St. Charles,362,4/9/2020
+3,St. Charles,376,4/10/2020
+3,St. Charles,401,4/11/2020
+3,St. Charles,404,4/12/2020
+3,St. Charles,410,4/13/2020
+3,St. Charles,460,4/14/2020
+3,St. Charles,476,4/15/2020
+3,St. Charles,486,4/16/2020
+3,St. Charles,471,4/17/2020
+3,St. Charles,487,4/18/2020
+3,St. Charles,488,4/19/2020
+3,St. Charles,508,4/20/2020
+3,St. Charles,516,4/21/2020
+3,St. Charles,522,4/22/2020
+3,St. Charles,529,4/23/2020
+3,St. Charles,536,4/24/2020
+3,St. Charles,540,4/25/2020
+3,St. Charles,542,4/26/2020
+3,St. Charles,549,4/27/2020
+3,St. Charles,554,4/28/2020
+3,St. Charles,563,4/29/2020
+3,St. Charles,570,4/30/2020
+3,St. Charles,573,5/1/2020
+3,St. Charles,577,5/2/2020
+3,St. Charles,582,5/3/2020
+3,St. Charles,584,5/4/2020
+3,St. Charles,589,5/5/2020
+3,St. Charles,590,5/6/2020
+3,St. Charles,594,5/7/2020
+3,St. Charles,593,5/8/2020
+3,St. Charles,593,5/9/2020
+3,St. Charles,594,5/10/2020
+3,St. Charles,595,5/11/2020
+3,St. Charles,596,5/12/2020
+3,St. Charles,600,5/13/2020
+3,St. Charles,602,5/14/2020
+3,St. Charles,606,5/15/2020
+3,St. Charles,613,5/16/2020
+3,St. Charles,613,5/17/2020
+3,St. Charles,615,5/18/2020
+3,St. Charles,615,5/19/2020
+3,St. Charles,615,5/20/2020
+3,St. Charles,618,5/21/2020
+3,St. Charles,622,5/22/2020
+3,St. Charles,622,5/23/2020
+3,St. Charles,623,5/24/2020
+3,St. Charles,625,5/25/2020
+3,St. Charles,625,5/26/2020
+3,St. Charles,631,5/27/2020
+3,St. Charles,633,5/28/2020
+3,St. Charles,637,5/30/2020
+3,St. Charles,638,5/31/2020
+3,St. Charles,642,6/1/2020
+3,St. Charles,645,6/2/2020
+3,St. Charles,647,6/3/2020
+3,St. Charles,647,6/4/2020
+3,St. Charles,647,6/5/2020
+3,St. Charles,649,6/6/2020
+3,St. Charles,649,6/7/2020
+3,St. Charles,649,6/8/2020
+3,St. Charles,652,6/9/2020
+3,St. Charles,653,6/10/2020
+3,St. Charles,654,6/11/2020
+3,St. Charles,655,6/12/2020
+3,St. Charles,656,6/13/2020
+3,St. Charles,660,6/14/2020
+3,St. Charles,661,6/15/2020
+3,St. Charles,665,6/16/2020
+3,St. Charles,667,6/17/2020
+9,St. Helena,,3/14/2020
+9,St. Helena,,3/15/2020
+9,St. Helena,,3/16/2020
+9,St. Helena,,3/17/2020
+9,St. Helena,,3/18/2020
+9,St. Helena,,3/19/2020
+9,St. Helena,,3/20/2020
+9,St. Helena,,3/21/2020
+9,St. Helena,,3/22/2020
+9,St. Helena,,3/23/2020
+9,St. Helena,,3/24/2020
+9,St. Helena,,3/25/2020
+9,St. Helena,,3/26/2020
+9,St. Helena,,3/27/2020
+9,St. Helena,,3/28/2020
+9,St. Helena,,3/29/2020
+9,St. Helena,,3/30/2020
+9,St. Helena,1,3/31/2020
+9,St. Helena,1,4/1/2020
+9,St. Helena,1,4/2/2020
+9,St. Helena,1,4/3/2020
+9,St. Helena,4,4/4/2020
+9,St. Helena,5,4/5/2020
+9,St. Helena,8,4/6/2020
+9,St. Helena,10,4/7/2020
+9,St. Helena,10,4/8/2020
+9,St. Helena,11,4/9/2020
+9,St. Helena,11,4/10/2020
+9,St. Helena,13,4/11/2020
+9,St. Helena,13,4/12/2020
+9,St. Helena,14,4/13/2020
+9,St. Helena,14,4/14/2020
+9,St. Helena,14,4/15/2020
+9,St. Helena,17,4/16/2020
+9,St. Helena,18,4/17/2020
+9,St. Helena,19,4/18/2020
+9,St. Helena,19,4/19/2020
+9,St. Helena,20,4/20/2020
+9,St. Helena,21,4/21/2020
+9,St. Helena,22,4/22/2020
+9,St. Helena,23,4/23/2020
+9,St. Helena,23,4/24/2020
+9,St. Helena,27,4/25/2020
+9,St. Helena,27,4/26/2020
+9,St. Helena,27,4/27/2020
+9,St. Helena,28,4/28/2020
+9,St. Helena,28,4/29/2020
+9,St. Helena,28,4/30/2020
+9,St. Helena,28,5/1/2020
+9,St. Helena,30,5/2/2020
+9,St. Helena,30,5/3/2020
+9,St. Helena,31,5/4/2020
+9,St. Helena,32,5/5/2020
+9,St. Helena,32,5/6/2020
+9,St. Helena,32,5/7/2020
+9,St. Helena,32,5/8/2020
+9,St. Helena,35,5/9/2020
+9,St. Helena,35,5/10/2020
+9,St. Helena,35,5/11/2020
+9,St. Helena,38,5/12/2020
+9,St. Helena,38,5/13/2020
+9,St. Helena,38,5/14/2020
+9,St. Helena,40,5/15/2020
+9,St. Helena,41,5/16/2020
+9,St. Helena,41,5/17/2020
+9,St. Helena,41,5/18/2020
+9,St. Helena,41,5/19/2020
+9,St. Helena,42,5/20/2020
+9,St. Helena,43,5/21/2020
+9,St. Helena,44,5/22/2020
+9,St. Helena,44,5/23/2020
+9,St. Helena,44,5/24/2020
+9,St. Helena,49,5/25/2020
+9,St. Helena,51,5/26/2020
+9,St. Helena,51,5/27/2020
+9,St. Helena,51,5/28/2020
+9,St. Helena,51,5/30/2020
+9,St. Helena,51,5/31/2020
+9,St. Helena,51,6/1/2020
+9,St. Helena,51,6/2/2020
+9,St. Helena,51,6/3/2020
+9,St. Helena,52,6/4/2020
+9,St. Helena,53,6/5/2020
+9,St. Helena,55,6/6/2020
+9,St. Helena,55,6/7/2020
+9,St. Helena,55,6/8/2020
+9,St. Helena,55,6/9/2020
+9,St. Helena,56,6/10/2020
+9,St. Helena,56,6/11/2020
+9,St. Helena,56,6/12/2020
+9,St. Helena,58,6/13/2020
+9,St. Helena,58,6/14/2020
+9,St. Helena,58,6/15/2020
+9,St. Helena,60,6/16/2020
+9,St. Helena,60,6/17/2020
+3,St. James,,3/14/2020
+3,St. James,,3/15/2020
+3,St. James,,3/16/2020
+3,St. James,,3/17/2020
+3,St. James,,3/18/2020
+3,St. James,1,3/19/2020
+3,St. James,1,3/20/2020
+3,St. James,1,3/21/2020
+3,St. James,1,3/22/2020
+3,St. James,8,3/23/2020
+3,St. James,9,3/24/2020
+3,St. James,14,3/25/2020
+3,St. James,29,3/26/2020
+3,St. James,40,3/27/2020
+3,St. James,48,3/28/2020
+3,St. James,55,3/29/2020
+3,St. James,65,3/30/2020
+3,St. James,77,3/31/2020
+3,St. James,86,4/1/2020
+3,St. James,110,4/2/2020
+3,St. James,116,4/3/2020
+3,St. James,150,4/4/2020
+3,St. James,155,4/5/2020
+3,St. James,167,4/6/2020
+3,St. James,176,4/7/2020
+3,St. James,181,4/8/2020
+3,St. James,191,4/9/2020
+3,St. James,194,4/10/2020
+3,St. James,197,4/11/2020
+3,St. James,204,4/12/2020
+3,St. James,207,4/13/2020
+3,St. James,208,4/14/2020
+3,St. James,210,4/15/2020
+3,St. James,214,4/16/2020
+3,St. James,216,4/17/2020
+3,St. James,217,4/18/2020
+3,St. James,218,4/19/2020
+3,St. James,222,4/20/2020
+3,St. James,228,4/21/2020
+3,St. James,231,4/22/2020
+3,St. James,235,4/23/2020
+3,St. James,237,4/24/2020
+3,St. James,237,4/25/2020
+3,St. James,239,4/26/2020
+3,St. James,239,4/27/2020
+3,St. James,240,4/28/2020
+3,St. James,243,4/29/2020
+3,St. James,246,4/30/2020
+3,St. James,247,5/1/2020
+3,St. James,247,5/2/2020
+3,St. James,250,5/3/2020
+3,St. James,253,5/4/2020
+3,St. James,254,5/5/2020
+3,St. James,256,5/6/2020
+3,St. James,256,5/7/2020
+3,St. James,257,5/8/2020
+3,St. James,257,5/9/2020
+3,St. James,257,5/10/2020
+3,St. James,256,5/11/2020
+3,St. James,256,5/12/2020
+3,St. James,268,5/13/2020
+3,St. James,284,5/14/2020
+3,St. James,284,5/15/2020
+3,St. James,282,5/16/2020
+3,St. James,283,5/17/2020
+3,St. James,284,5/18/2020
+3,St. James,284,5/19/2020
+3,St. James,284,5/20/2020
+3,St. James,289,5/21/2020
+3,St. James,289,5/22/2020
+3,St. James,289,5/23/2020
+3,St. James,289,5/24/2020
+3,St. James,292,5/25/2020
+3,St. James,292,5/26/2020
+3,St. James,293,5/27/2020
+3,St. James,294,5/28/2020
+3,St. James,294,5/30/2020
+3,St. James,294,5/31/2020
+3,St. James,294,6/1/2020
+3,St. James,294,6/2/2020
+3,St. James,303,6/3/2020
+3,St. James,303,6/4/2020
+3,St. James,304,6/5/2020
+3,St. James,304,6/6/2020
+3,St. James,304,6/7/2020
+3,St. James,304,6/8/2020
+3,St. James,305,6/9/2020
+3,St. James,306,6/10/2020
+3,St. James,306,6/11/2020
+3,St. James,308,6/12/2020
+3,St. James,308,6/13/2020
+3,St. James,308,6/14/2020
+3,St. James,308,6/15/2020
+3,St. James,309,6/16/2020
+3,St. James,313,6/17/2020
+3,St. John the Baptist,1,3/14/2020
+3,St. John the Baptist,1,3/15/2020
+3,St. John the Baptist,1,3/16/2020
+3,St. John the Baptist,1,3/17/2020
+3,St. John the Baptist,1,3/18/2020
+3,St. John the Baptist,2,3/19/2020
+3,St. John the Baptist,4,3/20/2020
+3,St. John the Baptist,7,3/21/2020
+3,St. John the Baptist,10,3/22/2020
+3,St. John the Baptist,16,3/23/2020
+3,St. John the Baptist,21,3/24/2020
+3,St. John the Baptist,27,3/25/2020
+3,St. John the Baptist,38,3/26/2020
+3,St. John the Baptist,41,3/27/2020
+3,St. John the Baptist,54,3/28/2020
+3,St. John the Baptist,57,3/29/2020
+3,St. John the Baptist,75,3/30/2020
+3,St. John the Baptist,104,3/31/2020
+3,St. John the Baptist,118,4/1/2020
+3,St. John the Baptist,274,4/2/2020
+3,St. John the Baptist,290,4/3/2020
+3,St. John the Baptist,338,4/4/2020
+3,St. John the Baptist,345,4/5/2020
+3,St. John the Baptist,366,4/6/2020
+3,St. John the Baptist,415,4/7/2020
+3,St. John the Baptist,432,4/8/2020
+3,St. John the Baptist,477,4/9/2020
+3,St. John the Baptist,507,4/10/2020
+3,St. John the Baptist,538,4/11/2020
+3,St. John the Baptist,545,4/12/2020
+3,St. John the Baptist,556,4/13/2020
+3,St. John the Baptist,562,4/14/2020
+3,St. John the Baptist,569,4/15/2020
+3,St. John the Baptist,609,4/16/2020
+3,St. John the Baptist,623,4/17/2020
+3,St. John the Baptist,637,4/18/2020
+3,St. John the Baptist,642,4/19/2020
+3,St. John the Baptist,669,4/20/2020
+3,St. John the Baptist,686,4/21/2020
+3,St. John the Baptist,704,4/22/2020
+3,St. John the Baptist,721,4/23/2020
+3,St. John the Baptist,736,4/24/2020
+3,St. John the Baptist,747,4/25/2020
+3,St. John the Baptist,749,4/26/2020
+3,St. John the Baptist,751,4/27/2020
+3,St. John the Baptist,758,4/28/2020
+3,St. John the Baptist,765,4/29/2020
+3,St. John the Baptist,768,4/30/2020
+3,St. John the Baptist,771,5/1/2020
+3,St. John the Baptist,772,5/2/2020
+3,St. John the Baptist,772,5/3/2020
+3,St. John the Baptist,777,5/4/2020
+3,St. John the Baptist,782,5/5/2020
+3,St. John the Baptist,790,5/6/2020
+3,St. John the Baptist,791,5/7/2020
+3,St. John the Baptist,791,5/8/2020
+3,St. John the Baptist,801,5/9/2020
+3,St. John the Baptist,801,5/10/2020
+3,St. John the Baptist,801,5/11/2020
+3,St. John the Baptist,804,5/12/2020
+3,St. John the Baptist,808,5/13/2020
+3,St. John the Baptist,820,5/14/2020
+3,St. John the Baptist,830,5/15/2020
+3,St. John the Baptist,829,5/16/2020
+3,St. John the Baptist,829,5/17/2020
+3,St. John the Baptist,830,5/18/2020
+3,St. John the Baptist,831,5/19/2020
+3,St. John the Baptist,832,5/20/2020
+3,St. John the Baptist,838,5/21/2020
+3,St. John the Baptist,838,5/22/2020
+3,St. John the Baptist,838,5/23/2020
+3,St. John the Baptist,841,5/24/2020
+3,St. John the Baptist,845,5/25/2020
+3,St. John the Baptist,848,5/26/2020
+3,St. John the Baptist,849,5/27/2020
+3,St. John the Baptist,850,5/28/2020
+3,St. John the Baptist,858,5/30/2020
+3,St. John the Baptist,860,5/31/2020
+3,St. John the Baptist,862,6/1/2020
+3,St. John the Baptist,864,6/2/2020
+3,St. John the Baptist,868,6/3/2020
+3,St. John the Baptist,872,6/4/2020
+3,St. John the Baptist,873,6/5/2020
+3,St. John the Baptist,875,6/6/2020
+3,St. John the Baptist,877,6/7/2020
+3,St. John the Baptist,877,6/8/2020
+3,St. John the Baptist,881,6/9/2020
+3,St. John the Baptist,883,6/10/2020
+3,St. John the Baptist,883,6/11/2020
+3,St. John the Baptist,886,6/12/2020
+3,St. John the Baptist,889,6/13/2020
+3,St. John the Baptist,891,6/14/2020
+3,St. John the Baptist,892,6/15/2020
+3,St. John the Baptist,894,6/16/2020
+3,St. John the Baptist,904,6/17/2020
+4,St. Landry,,3/14/2020
+4,St. Landry,,3/15/2020
+4,St. Landry,,3/16/2020
+4,St. Landry,,3/17/2020
+4,St. Landry,,3/18/2020
+4,St. Landry,,3/19/2020
+4,St. Landry,2,3/20/2020
+4,St. Landry,2,3/21/2020
+4,St. Landry,3,3/22/2020
+4,St. Landry,3,3/23/2020
+4,St. Landry,3,3/24/2020
+4,St. Landry,4,3/25/2020
+4,St. Landry,5,3/26/2020
+4,St. Landry,10,3/27/2020
+4,St. Landry,10,3/28/2020
+4,St. Landry,10,3/29/2020
+4,St. Landry,15,3/30/2020
+4,St. Landry,31,3/31/2020
+4,St. Landry,45,4/1/2020
+4,St. Landry,56,4/2/2020
+4,St. Landry,68,4/3/2020
+4,St. Landry,45,4/4/2020
+4,St. Landry,47,4/5/2020
+4,St. Landry,52,4/6/2020
+4,St. Landry,60,4/7/2020
+4,St. Landry,86,4/8/2020
+4,St. Landry,90,4/9/2020
+4,St. Landry,103,4/10/2020
+4,St. Landry,109,4/11/2020
+4,St. Landry,113,4/12/2020
+4,St. Landry,114,4/13/2020
+4,St. Landry,115,4/14/2020
+4,St. Landry,116,4/15/2020
+4,St. Landry,118,4/16/2020
+4,St. Landry,119,4/17/2020
+4,St. Landry,133,4/18/2020
+4,St. Landry,134,4/19/2020
+4,St. Landry,136,4/20/2020
+4,St. Landry,136,4/21/2020
+4,St. Landry,140,4/22/2020
+4,St. Landry,154,4/23/2020
+4,St. Landry,157,4/24/2020
+4,St. Landry,163,4/25/2020
+4,St. Landry,163,4/26/2020
+4,St. Landry,167,4/27/2020
+4,St. Landry,170,4/28/2020
+4,St. Landry,172,4/29/2020
+4,St. Landry,180,4/30/2020
+4,St. Landry,181,5/1/2020
+4,St. Landry,185,5/2/2020
+4,St. Landry,186,5/3/2020
+4,St. Landry,191,5/4/2020
+4,St. Landry,198,5/5/2020
+4,St. Landry,202,5/6/2020
+4,St. Landry,203,5/7/2020
+4,St. Landry,204,5/8/2020
+4,St. Landry,211,5/9/2020
+4,St. Landry,215,5/10/2020
+4,St. Landry,214,5/11/2020
+4,St. Landry,215,5/12/2020
+4,St. Landry,241,5/13/2020
+4,St. Landry,244,5/14/2020
+4,St. Landry,244,5/15/2020
+4,St. Landry,230,5/16/2020
+4,St. Landry,231,5/17/2020
+4,St. Landry,235,5/18/2020
+4,St. Landry,237,5/19/2020
+4,St. Landry,237,5/20/2020
+4,St. Landry,244,5/21/2020
+4,St. Landry,247,5/22/2020
+4,St. Landry,247,5/23/2020
+4,St. Landry,247,5/24/2020
+4,St. Landry,248,5/25/2020
+4,St. Landry,249,5/26/2020
+4,St. Landry,252,5/27/2020
+4,St. Landry,252,5/28/2020
+4,St. Landry,255,5/30/2020
+4,St. Landry,257,5/31/2020
+4,St. Landry,263,6/1/2020
+4,St. Landry,266,6/2/2020
+4,St. Landry,269,6/3/2020
+4,St. Landry,272,6/4/2020
+4,St. Landry,308,6/5/2020
+4,St. Landry,309,6/6/2020
+4,St. Landry,309,6/7/2020
+4,St. Landry,311,6/8/2020
+4,St. Landry,316,6/9/2020
+4,St. Landry,323,6/10/2020
+4,St. Landry,324,6/11/2020
+4,St. Landry,326,6/12/2020
+4,St. Landry,358,6/13/2020
+4,St. Landry,360,6/14/2020
+4,St. Landry,370,6/15/2020
+4,St. Landry,379,6/16/2020
+4,St. Landry,393,6/17/2020
+4,St. Martin,,3/14/2020
+4,St. Martin,,3/15/2020
+4,St. Martin,,3/16/2020
+4,St. Martin,,3/17/2020
+4,St. Martin,,3/18/2020
+4,St. Martin,,3/19/2020
+4,St. Martin,,3/20/2020
+4,St. Martin,,3/21/2020
+4,St. Martin,,3/22/2020
+4,St. Martin,,3/23/2020
+4,St. Martin,1,3/24/2020
+4,St. Martin,1,3/25/2020
+4,St. Martin,3,3/26/2020
+4,St. Martin,10,3/27/2020
+4,St. Martin,13,3/28/2020
+4,St. Martin,13,3/29/2020
+4,St. Martin,20,3/30/2020
+4,St. Martin,32,3/31/2020
+4,St. Martin,41,4/1/2020
+4,St. Martin,58,4/2/2020
+4,St. Martin,69,4/3/2020
+4,St. Martin,64,4/4/2020
+4,St. Martin,77,4/5/2020
+4,St. Martin,90,4/6/2020
+4,St. Martin,101,4/7/2020
+4,St. Martin,112,4/8/2020
+4,St. Martin,127,4/9/2020
+4,St. Martin,140,4/10/2020
+4,St. Martin,146,4/11/2020
+4,St. Martin,157,4/12/2020
+4,St. Martin,162,4/13/2020
+4,St. Martin,168,4/14/2020
+4,St. Martin,174,4/15/2020
+4,St. Martin,179,4/16/2020
+4,St. Martin,184,4/17/2020
+4,St. Martin,187,4/18/2020
+4,St. Martin,190,4/19/2020
+4,St. Martin,193,4/20/2020
+4,St. Martin,193,4/21/2020
+4,St. Martin,202,4/22/2020
+4,St. Martin,210,4/23/2020
+4,St. Martin,218,4/24/2020
+4,St. Martin,219,4/25/2020
+4,St. Martin,221,4/26/2020
+4,St. Martin,223,4/27/2020
+4,St. Martin,226,4/28/2020
+4,St. Martin,228,4/29/2020
+4,St. Martin,232,4/30/2020
+4,St. Martin,241,5/1/2020
+4,St. Martin,244,5/2/2020
+4,St. Martin,244,5/3/2020
+4,St. Martin,244,5/4/2020
+4,St. Martin,247,5/5/2020
+4,St. Martin,252,5/6/2020
+4,St. Martin,254,5/7/2020
+4,St. Martin,255,5/8/2020
+4,St. Martin,257,5/9/2020
+4,St. Martin,257,5/10/2020
+4,St. Martin,260,5/11/2020
+4,St. Martin,264,5/12/2020
+4,St. Martin,276,5/13/2020
+4,St. Martin,278,5/14/2020
+4,St. Martin,278,5/15/2020
+4,St. Martin,272,5/16/2020
+4,St. Martin,274,5/17/2020
+4,St. Martin,274,5/18/2020
+4,St. Martin,275,5/19/2020
+4,St. Martin,275,5/20/2020
+4,St. Martin,287,5/21/2020
+4,St. Martin,288,5/22/2020
+4,St. Martin,288,5/23/2020
+4,St. Martin,288,5/24/2020
+4,St. Martin,289,5/25/2020
+4,St. Martin,291,5/26/2020
+4,St. Martin,292,5/27/2020
+4,St. Martin,293,5/28/2020
+4,St. Martin,294,5/30/2020
+4,St. Martin,298,5/31/2020
+4,St. Martin,300,6/1/2020
+4,St. Martin,300,6/2/2020
+4,St. Martin,306,6/3/2020
+4,St. Martin,311,6/4/2020
+4,St. Martin,281,6/5/2020
+4,St. Martin,285,6/6/2020
+4,St. Martin,286,6/7/2020
+4,St. Martin,288,6/8/2020
+4,St. Martin,291,6/9/2020
+4,St. Martin,295,6/10/2020
+4,St. Martin,307,6/11/2020
+4,St. Martin,316,6/12/2020
+4,St. Martin,340,6/13/2020
+4,St. Martin,343,6/14/2020
+4,St. Martin,351,6/15/2020
+4,St. Martin,381,6/16/2020
+4,St. Martin,441,6/17/2020
+3,St. Mary,,3/14/2020
+3,St. Mary,,3/15/2020
+3,St. Mary,,3/16/2020
+3,St. Mary,,3/17/2020
+3,St. Mary,,3/18/2020
+3,St. Mary,,3/19/2020
+3,St. Mary,,3/20/2020
+3,St. Mary,,3/21/2020
+3,St. Mary,1,3/22/2020
+3,St. Mary,1,3/23/2020
+3,St. Mary,2,3/24/2020
+3,St. Mary,5,3/25/2020
+3,St. Mary,5,3/26/2020
+3,St. Mary,6,3/27/2020
+3,St. Mary,7,3/28/2020
+3,St. Mary,7,3/29/2020
+3,St. Mary,10,3/30/2020
+3,St. Mary,22,3/31/2020
+3,St. Mary,26,4/1/2020
+3,St. Mary,42,4/2/2020
+3,St. Mary,47,4/3/2020
+3,St. Mary,65,4/4/2020
+3,St. Mary,67,4/5/2020
+3,St. Mary,73,4/6/2020
+3,St. Mary,76,4/7/2020
+3,St. Mary,81,4/8/2020
+3,St. Mary,89,4/9/2020
+3,St. Mary,100,4/10/2020
+3,St. Mary,105,4/11/2020
+3,St. Mary,113,4/12/2020
+3,St. Mary,127,4/13/2020
+3,St. Mary,129,4/14/2020
+3,St. Mary,130,4/15/2020
+3,St. Mary,134,4/16/2020
+3,St. Mary,137,4/17/2020
+3,St. Mary,143,4/18/2020
+3,St. Mary,149,4/19/2020
+3,St. Mary,156,4/20/2020
+3,St. Mary,160,4/21/2020
+3,St. Mary,162,4/22/2020
+3,St. Mary,168,4/23/2020
+3,St. Mary,171,4/24/2020
+3,St. Mary,178,4/25/2020
+3,St. Mary,179,4/26/2020
+3,St. Mary,181,4/27/2020
+3,St. Mary,182,4/28/2020
+3,St. Mary,185,4/29/2020
+3,St. Mary,191,4/30/2020
+3,St. Mary,193,5/1/2020
+3,St. Mary,199,5/2/2020
+3,St. Mary,205,5/3/2020
+3,St. Mary,209,5/4/2020
+3,St. Mary,212,5/5/2020
+3,St. Mary,215,5/6/2020
+3,St. Mary,222,5/7/2020
+3,St. Mary,224,5/8/2020
+3,St. Mary,242,5/9/2020
+3,St. Mary,245,5/10/2020
+3,St. Mary,250,5/11/2020
+3,St. Mary,251,5/12/2020
+3,St. Mary,257,5/13/2020
+3,St. Mary,263,5/14/2020
+3,St. Mary,268,5/15/2020
+3,St. Mary,269,5/16/2020
+3,St. Mary,274,5/17/2020
+3,St. Mary,275,5/18/2020
+3,St. Mary,277,5/19/2020
+3,St. Mary,281,5/20/2020
+3,St. Mary,288,5/21/2020
+3,St. Mary,294,5/22/2020
+3,St. Mary,294,5/23/2020
+3,St. Mary,295,5/24/2020
+3,St. Mary,302,5/25/2020
+3,St. Mary,304,5/26/2020
+3,St. Mary,308,5/27/2020
+3,St. Mary,309,5/28/2020
+3,St. Mary,317,5/30/2020
+3,St. Mary,319,5/31/2020
+3,St. Mary,321,6/1/2020
+3,St. Mary,323,6/2/2020
+3,St. Mary,328,6/3/2020
+3,St. Mary,331,6/4/2020
+3,St. Mary,333,6/5/2020
+3,St. Mary,337,6/6/2020
+3,St. Mary,339,6/7/2020
+3,St. Mary,339,6/8/2020
+3,St. Mary,342,6/9/2020
+3,St. Mary,342,6/10/2020
+3,St. Mary,346,6/11/2020
+3,St. Mary,348,6/12/2020
+3,St. Mary,353,6/13/2020
+3,St. Mary,356,6/14/2020
+3,St. Mary,359,6/15/2020
+3,St. Mary,360,6/16/2020
+3,St. Mary,363,6/17/2020
+9,St. Tammany,2,3/14/2020
+9,St. Tammany,4,3/15/2020
+9,St. Tammany,5,3/16/2020
+9,St. Tammany,6,3/17/2020
+9,St. Tammany,6,3/18/2020
+9,St. Tammany,10,3/19/2020
+9,St. Tammany,10,3/20/2020
+9,St. Tammany,14,3/21/2020
+9,St. Tammany,25,3/22/2020
+9,St. Tammany,47,3/23/2020
+9,St. Tammany,52,3/24/2020
+9,St. Tammany,67,3/25/2020
+9,St. Tammany,89,3/26/2020
+9,St. Tammany,111,3/27/2020
+9,St. Tammany,134,3/28/2020
+9,St. Tammany,138,3/29/2020
+9,St. Tammany,186,3/30/2020
+9,St. Tammany,220,3/31/2020
+9,St. Tammany,270,4/1/2020
+9,St. Tammany,399,4/2/2020
+9,St. Tammany,435,4/3/2020
+9,St. Tammany,532,4/4/2020
+9,St. Tammany,560,4/5/2020
+9,St. Tammany,637,4/6/2020
+9,St. Tammany,700,4/7/2020
+9,St. Tammany,733,4/8/2020
+9,St. Tammany,777,4/9/2020
+9,St. Tammany,825,4/10/2020
+9,St. Tammany,845,4/11/2020
+9,St. Tammany,864,4/12/2020
+9,St. Tammany,881,4/13/2020
+9,St. Tammany,898,4/14/2020
+9,St. Tammany,924,4/15/2020
+9,St. Tammany,944,4/16/2020
+9,St. Tammany,961,4/17/2020
+9,St. Tammany,987,4/18/2020
+9,St. Tammany,1011,4/19/2020
+9,St. Tammany,1057,4/20/2020
+9,St. Tammany,1067,4/21/2020
+9,St. Tammany,1079,4/22/2020
+9,St. Tammany,1111,4/23/2020
+9,St. Tammany,1131,4/24/2020
+9,St. Tammany,1138,4/25/2020
+9,St. Tammany,1162,4/26/2020
+9,St. Tammany,1172,4/27/2020
+9,St. Tammany,1184,4/28/2020
+9,St. Tammany,1205,4/29/2020
+9,St. Tammany,1220,4/30/2020
+9,St. Tammany,1270,5/1/2020
+9,St. Tammany,1321,5/2/2020
+9,St. Tammany,1325,5/3/2020
+9,St. Tammany,1341,5/4/2020
+9,St. Tammany,1369,5/5/2020
+9,St. Tammany,1406,5/6/2020
+9,St. Tammany,1415,5/7/2020
+9,St. Tammany,1416,5/8/2020
+9,St. Tammany,1447,5/9/2020
+9,St. Tammany,1452,5/10/2020
+9,St. Tammany,1463,5/11/2020
+9,St. Tammany,1477,5/12/2020
+9,St. Tammany,1492,5/13/2020
+9,St. Tammany,1511,5/14/2020
+9,St. Tammany,1520,5/15/2020
+9,St. Tammany,1528,5/16/2020
+9,St. Tammany,1539,5/17/2020
+9,St. Tammany,1544,5/18/2020
+9,St. Tammany,1559,5/19/2020
+9,St. Tammany,1572,5/20/2020
+9,St. Tammany,1599,5/21/2020
+9,St. Tammany,1609,5/22/2020
+9,St. Tammany,1613,5/23/2020
+9,St. Tammany,1618,5/24/2020
+9,St. Tammany,1665,5/25/2020
+9,St. Tammany,1678,5/26/2020
+9,St. Tammany,1687,5/27/2020
+9,St. Tammany,1703,5/28/2020
+9,St. Tammany,1724,5/30/2020
+9,St. Tammany,1749,5/31/2020
+9,St. Tammany,1764,6/1/2020
+9,St. Tammany,1776,6/2/2020
+9,St. Tammany,1790,6/3/2020
+9,St. Tammany,1799,6/4/2020
+9,St. Tammany,1823,6/5/2020
+9,St. Tammany,1837,6/6/2020
+9,St. Tammany,1846,6/7/2020
+9,St. Tammany,1849,6/8/2020
+9,St. Tammany,1863,6/9/2020
+9,St. Tammany,1872,6/10/2020
+9,St. Tammany,1885,6/11/2020
+9,St. Tammany,1906,6/12/2020
+9,St. Tammany,1931,6/13/2020
+9,St. Tammany,1942,6/14/2020
+9,St. Tammany,1954,6/15/2020
+9,St. Tammany,1962,6/16/2020
+9,St. Tammany,1999,6/17/2020
+9,Tangipahoa,,3/14/2020
+9,Tangipahoa,,3/15/2020
+9,Tangipahoa,,3/16/2020
+9,Tangipahoa,,3/17/2020
+9,Tangipahoa,,3/18/2020
+9,Tangipahoa,,3/19/2020
+9,Tangipahoa,,3/20/2020
+9,Tangipahoa,,3/21/2020
+9,Tangipahoa,3,3/22/2020
+9,Tangipahoa,3,3/23/2020
+9,Tangipahoa,4,3/24/2020
+9,Tangipahoa,5,3/25/2020
+9,Tangipahoa,7,3/26/2020
+9,Tangipahoa,7,3/27/2020
+9,Tangipahoa,10,3/28/2020
+9,Tangipahoa,10,3/29/2020
+9,Tangipahoa,18,3/30/2020
+9,Tangipahoa,25,3/31/2020
+9,Tangipahoa,33,4/1/2020
+9,Tangipahoa,42,4/2/2020
+9,Tangipahoa,55,4/3/2020
+9,Tangipahoa,131,4/4/2020
+9,Tangipahoa,171,4/5/2020
+9,Tangipahoa,186,4/6/2020
+9,Tangipahoa,238,4/7/2020
+9,Tangipahoa,269,4/8/2020
+9,Tangipahoa,283,4/9/2020
+9,Tangipahoa,305,4/10/2020
+9,Tangipahoa,318,4/11/2020
+9,Tangipahoa,344,4/12/2020
+9,Tangipahoa,352,4/13/2020
+9,Tangipahoa,391,4/14/2020
+9,Tangipahoa,418,4/15/2020
+9,Tangipahoa,422,4/16/2020
+9,Tangipahoa,435,4/17/2020
+9,Tangipahoa,440,4/18/2020
+9,Tangipahoa,442,4/19/2020
+9,Tangipahoa,452,4/20/2020
+9,Tangipahoa,489,4/21/2020
+9,Tangipahoa,494,4/22/2020
+9,Tangipahoa,501,4/23/2020
+9,Tangipahoa,508,4/24/2020
+9,Tangipahoa,526,4/25/2020
+9,Tangipahoa,528,4/26/2020
+9,Tangipahoa,535,4/27/2020
+9,Tangipahoa,540,4/28/2020
+9,Tangipahoa,549,4/29/2020
+9,Tangipahoa,553,4/30/2020
+9,Tangipahoa,565,5/1/2020
+9,Tangipahoa,584,5/2/2020
+9,Tangipahoa,584,5/3/2020
+9,Tangipahoa,588,5/4/2020
+9,Tangipahoa,605,5/5/2020
+9,Tangipahoa,631,5/6/2020
+9,Tangipahoa,635,5/7/2020
+9,Tangipahoa,645,5/8/2020
+9,Tangipahoa,652,5/9/2020
+9,Tangipahoa,654,5/10/2020
+9,Tangipahoa,670,5/11/2020
+9,Tangipahoa,679,5/12/2020
+9,Tangipahoa,687,5/13/2020
+9,Tangipahoa,696,5/14/2020
+9,Tangipahoa,707,5/15/2020
+9,Tangipahoa,719,5/16/2020
+9,Tangipahoa,729,5/17/2020
+9,Tangipahoa,732,5/18/2020
+9,Tangipahoa,742,5/19/2020
+9,Tangipahoa,752,5/20/2020
+9,Tangipahoa,767,5/21/2020
+9,Tangipahoa,782,5/22/2020
+9,Tangipahoa,784,5/23/2020
+9,Tangipahoa,784,5/24/2020
+9,Tangipahoa,802,5/25/2020
+9,Tangipahoa,810,5/26/2020
+9,Tangipahoa,826,5/27/2020
+9,Tangipahoa,831,5/28/2020
+9,Tangipahoa,854,5/30/2020
+9,Tangipahoa,858,5/31/2020
+9,Tangipahoa,868,6/1/2020
+9,Tangipahoa,883,6/2/2020
+9,Tangipahoa,891,6/3/2020
+9,Tangipahoa,898,6/4/2020
+9,Tangipahoa,916,6/5/2020
+9,Tangipahoa,935,6/6/2020
+9,Tangipahoa,944,6/7/2020
+9,Tangipahoa,944,6/8/2020
+9,Tangipahoa,965,6/9/2020
+9,Tangipahoa,973,6/10/2020
+9,Tangipahoa,984,6/11/2020
+9,Tangipahoa,1001,6/12/2020
+9,Tangipahoa,1039,6/13/2020
+9,Tangipahoa,1042,6/14/2020
+9,Tangipahoa,1048,6/15/2020
+9,Tangipahoa,1062,6/16/2020
+9,Tangipahoa,1082,6/17/2020
+8,Tensas,,3/14/2020
+8,Tensas,,3/15/2020
+8,Tensas,,3/16/2020
+8,Tensas,,3/17/2020
+8,Tensas,,3/18/2020
+8,Tensas,,3/19/2020
+8,Tensas,,3/20/2020
+8,Tensas,,3/21/2020
+8,Tensas,,3/22/2020
+8,Tensas,,3/23/2020
+8,Tensas,,3/24/2020
+8,Tensas,,3/25/2020
+8,Tensas,,3/26/2020
+8,Tensas,,3/27/2020
+8,Tensas,,3/28/2020
+8,Tensas,,3/29/2020
+8,Tensas,,3/30/2020
+8,Tensas,,3/31/2020
+8,Tensas,,4/1/2020
+8,Tensas,,4/2/2020
+8,Tensas,,4/3/2020
+8,Tensas,,4/4/2020
+8,Tensas,,4/5/2020
+8,Tensas,,4/6/2020
+8,Tensas,,4/7/2020
+8,Tensas,,4/8/2020
+8,Tensas,,4/9/2020
+8,Tensas,,4/10/2020
+8,Tensas,1,4/11/2020
+8,Tensas,1,4/12/2020
+8,Tensas,1,4/13/2020
+8,Tensas,1,4/14/2020
+8,Tensas,1,4/15/2020
+8,Tensas,1,4/16/2020
+8,Tensas,1,4/17/2020
+8,Tensas,1,4/18/2020
+8,Tensas,1,4/19/2020
+8,Tensas,1,4/20/2020
+8,Tensas,1,4/21/2020
+8,Tensas,1,4/22/2020
+8,Tensas,1,4/23/2020
+8,Tensas,1,4/24/2020
+8,Tensas,1,4/25/2020
+8,Tensas,1,4/26/2020
+8,Tensas,1,4/27/2020
+8,Tensas,1,4/28/2020
+8,Tensas,1,4/29/2020
+8,Tensas,1,4/30/2020
+8,Tensas,1,5/1/2020
+8,Tensas,2,5/2/2020
+8,Tensas,2,5/3/2020
+8,Tensas,2,5/4/2020
+8,Tensas,2,5/5/2020
+8,Tensas,2,5/6/2020
+8,Tensas,3,5/7/2020
+8,Tensas,3,5/8/2020
+8,Tensas,6,5/9/2020
+8,Tensas,6,5/10/2020
+8,Tensas,6,5/11/2020
+8,Tensas,6,5/12/2020
+8,Tensas,6,5/13/2020
+8,Tensas,6,5/14/2020
+8,Tensas,6,5/15/2020
+8,Tensas,5,5/16/2020
+8,Tensas,5,5/17/2020
+8,Tensas,5,5/18/2020
+8,Tensas,5,5/19/2020
+8,Tensas,5,5/20/2020
+8,Tensas,10,5/21/2020
+8,Tensas,10,5/22/2020
+8,Tensas,10,5/23/2020
+8,Tensas,10,5/24/2020
+8,Tensas,10,5/25/2020
+8,Tensas,10,5/26/2020
+8,Tensas,10,5/27/2020
+8,Tensas,10,5/28/2020
+8,Tensas,11,5/30/2020
+8,Tensas,11,5/31/2020
+8,Tensas,12,6/1/2020
+8,Tensas,12,6/2/2020
+8,Tensas,16,6/3/2020
+8,Tensas,16,6/4/2020
+8,Tensas,20,6/5/2020
+8,Tensas,21,6/6/2020
+8,Tensas,21,6/7/2020
+8,Tensas,21,6/8/2020
+8,Tensas,21,6/9/2020
+8,Tensas,21,6/10/2020
+8,Tensas,21,6/11/2020
+8,Tensas,21,6/12/2020
+8,Tensas,22,6/13/2020
+8,Tensas,22,6/14/2020
+8,Tensas,22,6/15/2020
+8,Tensas,22,6/16/2020
+8,Tensas,22,6/17/2020
+3,Terrebonne,2,3/14/2020
+3,Terrebonne,2,3/15/2020
+3,Terrebonne,2,3/16/2020
+3,Terrebonne,2,3/17/2020
+3,Terrebonne,3,3/18/2020
+3,Terrebonne,4,3/19/2020
+3,Terrebonne,5,3/20/2020
+3,Terrebonne,8,3/21/2020
+3,Terrebonne,12,3/22/2020
+3,Terrebonne,14,3/23/2020
+3,Terrebonne,14,3/24/2020
+3,Terrebonne,15,3/25/2020
+3,Terrebonne,21,3/26/2020
+3,Terrebonne,23,3/27/2020
+3,Terrebonne,26,3/28/2020
+3,Terrebonne,29,3/29/2020
+3,Terrebonne,34,3/30/2020
+3,Terrebonne,40,3/31/2020
+3,Terrebonne,55,4/1/2020
+3,Terrebonne,97,4/2/2020
+3,Terrebonne,102,4/3/2020
+3,Terrebonne,143,4/4/2020
+3,Terrebonne,148,4/5/2020
+3,Terrebonne,182,4/6/2020
+3,Terrebonne,194,4/7/2020
+3,Terrebonne,209,4/8/2020
+3,Terrebonne,233,4/9/2020
+3,Terrebonne,244,4/10/2020
+3,Terrebonne,248,4/11/2020
+3,Terrebonne,255,4/12/2020
+3,Terrebonne,260,4/13/2020
+3,Terrebonne,265,4/14/2020
+3,Terrebonne,273,4/15/2020
+3,Terrebonne,283,4/16/2020
+3,Terrebonne,293,4/17/2020
+3,Terrebonne,310,4/18/2020
+3,Terrebonne,320,4/19/2020
+3,Terrebonne,342,4/20/2020
+3,Terrebonne,346,4/21/2020
+3,Terrebonne,350,4/22/2020
+3,Terrebonne,357,4/23/2020
+3,Terrebonne,363,4/24/2020
+3,Terrebonne,366,4/25/2020
+3,Terrebonne,371,4/26/2020
+3,Terrebonne,375,4/27/2020
+3,Terrebonne,382,4/28/2020
+3,Terrebonne,389,4/29/2020
+3,Terrebonne,437,4/30/2020
+3,Terrebonne,450,5/1/2020
+3,Terrebonne,456,5/2/2020
+3,Terrebonne,459,5/3/2020
+3,Terrebonne,466,5/4/2020
+3,Terrebonne,469,5/5/2020
+3,Terrebonne,476,5/6/2020
+3,Terrebonne,499,5/7/2020
+3,Terrebonne,501,5/8/2020
+3,Terrebonne,523,5/9/2020
+3,Terrebonne,523,5/10/2020
+3,Terrebonne,528,5/11/2020
+3,Terrebonne,533,5/12/2020
+3,Terrebonne,542,5/13/2020
+3,Terrebonne,550,5/14/2020
+3,Terrebonne,557,5/15/2020
+3,Terrebonne,567,5/16/2020
+3,Terrebonne,585,5/17/2020
+3,Terrebonne,590,5/18/2020
+3,Terrebonne,591,5/19/2020
+3,Terrebonne,594,5/20/2020
+3,Terrebonne,614,5/21/2020
+3,Terrebonne,623,5/22/2020
+3,Terrebonne,626,5/23/2020
+3,Terrebonne,628,5/24/2020
+3,Terrebonne,639,5/25/2020
+3,Terrebonne,641,5/26/2020
+3,Terrebonne,647,5/27/2020
+3,Terrebonne,653,5/28/2020
+3,Terrebonne,667,5/30/2020
+3,Terrebonne,679,5/31/2020
+3,Terrebonne,686,6/1/2020
+3,Terrebonne,692,6/2/2020
+3,Terrebonne,709,6/3/2020
+3,Terrebonne,719,6/4/2020
+3,Terrebonne,724,6/5/2020
+3,Terrebonne,738,6/6/2020
+3,Terrebonne,744,6/7/2020
+3,Terrebonne,748,6/8/2020
+3,Terrebonne,756,6/9/2020
+3,Terrebonne,761,6/10/2020
+3,Terrebonne,771,6/11/2020
+3,Terrebonne,780,6/12/2020
+3,Terrebonne,792,6/13/2020
+3,Terrebonne,801,6/14/2020
+3,Terrebonne,812,6/15/2020
+3,Terrebonne,818,6/16/2020
+3,Terrebonne,826,6/17/2020
+8,Union,,3/14/2020
+8,Union,,3/15/2020
+8,Union,,3/16/2020
+8,Union,,3/17/2020
+8,Union,,3/18/2020
+8,Union,,3/19/2020
+8,Union,,3/20/2020
+8,Union,,3/21/2020
+8,Union,,3/22/2020
+8,Union,,3/23/2020
+8,Union,,3/24/2020
+8,Union,2,3/25/2020
+8,Union,2,3/26/2020
+8,Union,4,3/27/2020
+8,Union,7,3/28/2020
+8,Union,9,3/29/2020
+8,Union,9,3/30/2020
+8,Union,9,3/31/2020
+8,Union,11,4/1/2020
+8,Union,13,4/2/2020
+8,Union,17,4/3/2020
+8,Union,19,4/4/2020
+8,Union,19,4/5/2020
+8,Union,26,4/6/2020
+8,Union,33,4/7/2020
+8,Union,35,4/8/2020
+8,Union,39,4/9/2020
+8,Union,41,4/10/2020
+8,Union,45,4/11/2020
+8,Union,47,4/12/2020
+8,Union,48,4/13/2020
+8,Union,50,4/14/2020
+8,Union,56,4/15/2020
+8,Union,67,4/16/2020
+8,Union,71,4/17/2020
+8,Union,75,4/18/2020
+8,Union,78,4/19/2020
+8,Union,79,4/20/2020
+8,Union,82,4/21/2020
+8,Union,85,4/22/2020
+8,Union,89,4/23/2020
+8,Union,95,4/24/2020
+8,Union,102,4/25/2020
+8,Union,102,4/26/2020
+8,Union,103,4/27/2020
+8,Union,108,4/28/2020
+8,Union,114,4/29/2020
+8,Union,117,4/30/2020
+8,Union,125,5/1/2020
+8,Union,131,5/2/2020
+8,Union,135,5/3/2020
+8,Union,143,5/4/2020
+8,Union,144,5/5/2020
+8,Union,148,5/6/2020
+8,Union,151,5/7/2020
+8,Union,153,5/8/2020
+8,Union,162,5/9/2020
+8,Union,165,5/10/2020
+8,Union,169,5/11/2020
+8,Union,171,5/12/2020
+8,Union,227,5/13/2020
+8,Union,231,5/14/2020
+8,Union,238,5/15/2020
+8,Union,236,5/16/2020
+8,Union,242,5/17/2020
+8,Union,243,5/18/2020
+8,Union,245,5/19/2020
+8,Union,245,5/20/2020
+8,Union,287,5/21/2020
+8,Union,287,5/22/2020
+8,Union,287,5/23/2020
+8,Union,287,5/24/2020
+8,Union,291,5/25/2020
+8,Union,295,5/26/2020
+8,Union,303,5/27/2020
+8,Union,306,5/28/2020
+8,Union,313,5/30/2020
+8,Union,317,5/31/2020
+8,Union,324,6/1/2020
+8,Union,324,6/2/2020
+8,Union,331,6/3/2020
+8,Union,333,6/4/2020
+8,Union,343,6/5/2020
+8,Union,344,6/6/2020
+8,Union,348,6/7/2020
+8,Union,349,6/8/2020
+8,Union,366,6/9/2020
+8,Union,375,6/10/2020
+8,Union,383,6/11/2020
+8,Union,385,6/12/2020
+8,Union,409,6/13/2020
+8,Union,411,6/14/2020
+8,Union,422,6/15/2020
+8,Union,422,6/16/2020
+8,Union,435,6/17/2020
+4,Vermilion,,3/14/2020
+4,Vermilion,,3/15/2020
+4,Vermilion,,3/16/2020
+4,Vermilion,,3/17/2020
+4,Vermilion,,3/18/2020
+4,Vermilion,,3/19/2020
+4,Vermilion,,3/20/2020
+4,Vermilion,,3/21/2020
+4,Vermilion,,3/22/2020
+4,Vermilion,,3/23/2020
+4,Vermilion,,3/24/2020
+4,Vermilion,,3/25/2020
+4,Vermilion,1,3/26/2020
+4,Vermilion,2,3/27/2020
+4,Vermilion,3,3/28/2020
+4,Vermilion,2,3/29/2020
+4,Vermilion,3,3/30/2020
+4,Vermilion,8,3/31/2020
+4,Vermilion,10,4/1/2020
+4,Vermilion,16,4/2/2020
+4,Vermilion,18,4/3/2020
+4,Vermilion,15,4/4/2020
+4,Vermilion,16,4/5/2020
+4,Vermilion,17,4/6/2020
+4,Vermilion,19,4/7/2020
+4,Vermilion,22,4/8/2020
+4,Vermilion,22,4/9/2020
+4,Vermilion,22,4/10/2020
+4,Vermilion,24,4/11/2020
+4,Vermilion,26,4/12/2020
+4,Vermilion,26,4/13/2020
+4,Vermilion,27,4/14/2020
+4,Vermilion,27,4/15/2020
+4,Vermilion,28,4/16/2020
+4,Vermilion,28,4/17/2020
+4,Vermilion,30,4/18/2020
+4,Vermilion,30,4/19/2020
+4,Vermilion,33,4/20/2020
+4,Vermilion,33,4/21/2020
+4,Vermilion,33,4/22/2020
+4,Vermilion,33,4/23/2020
+4,Vermilion,33,4/24/2020
+4,Vermilion,34,4/25/2020
+4,Vermilion,34,4/26/2020
+4,Vermilion,35,4/27/2020
+4,Vermilion,35,4/28/2020
+4,Vermilion,35,4/29/2020
+4,Vermilion,35,4/30/2020
+4,Vermilion,37,5/1/2020
+4,Vermilion,38,5/2/2020
+4,Vermilion,38,5/3/2020
+4,Vermilion,38,5/4/2020
+4,Vermilion,40,5/5/2020
+4,Vermilion,40,5/6/2020
+4,Vermilion,40,5/7/2020
+4,Vermilion,40,5/8/2020
+4,Vermilion,41,5/9/2020
+4,Vermilion,41,5/10/2020
+4,Vermilion,41,5/11/2020
+4,Vermilion,41,5/12/2020
+4,Vermilion,42,5/13/2020
+4,Vermilion,42,5/14/2020
+4,Vermilion,43,5/15/2020
+4,Vermilion,44,5/16/2020
+4,Vermilion,44,5/17/2020
+4,Vermilion,45,5/18/2020
+4,Vermilion,45,5/19/2020
+4,Vermilion,45,5/20/2020
+4,Vermilion,50,5/21/2020
+4,Vermilion,50,5/22/2020
+4,Vermilion,50,5/23/2020
+4,Vermilion,50,5/24/2020
+4,Vermilion,50,5/25/2020
+4,Vermilion,51,5/26/2020
+4,Vermilion,53,5/27/2020
+4,Vermilion,53,5/28/2020
+4,Vermilion,53,5/30/2020
+4,Vermilion,53,5/31/2020
+4,Vermilion,55,6/1/2020
+4,Vermilion,57,6/2/2020
+4,Vermilion,58,6/3/2020
+4,Vermilion,59,6/4/2020
+4,Vermilion,59,6/5/2020
+4,Vermilion,61,6/6/2020
+4,Vermilion,61,6/7/2020
+4,Vermilion,61,6/8/2020
+4,Vermilion,61,6/9/2020
+4,Vermilion,62,6/10/2020
+4,Vermilion,65,6/11/2020
+4,Vermilion,69,6/12/2020
+4,Vermilion,79,6/13/2020
+4,Vermilion,79,6/14/2020
+4,Vermilion,81,6/15/2020
+4,Vermilion,85,6/16/2020
+4,Vermilion,99,6/17/2020
+6,Vernon,,3/14/2020
+6,Vernon,,3/15/2020
+6,Vernon,,3/16/2020
+6,Vernon,,3/17/2020
+6,Vernon,,3/18/2020
+6,Vernon,,3/19/2020
+6,Vernon,,3/20/2020
+6,Vernon,,3/21/2020
+6,Vernon,,3/22/2020
+6,Vernon,,3/23/2020
+6,Vernon,2,3/24/2020
+6,Vernon,2,3/25/2020
+6,Vernon,2,3/26/2020
+6,Vernon,2,3/27/2020
+6,Vernon,2,3/28/2020
+6,Vernon,2,3/29/2020
+6,Vernon,3,3/30/2020
+6,Vernon,3,3/31/2020
+6,Vernon,6,4/1/2020
+6,Vernon,7,4/2/2020
+6,Vernon,8,4/3/2020
+6,Vernon,11,4/4/2020
+6,Vernon,10,4/5/2020
+6,Vernon,10,4/6/2020
+6,Vernon,11,4/7/2020
+6,Vernon,11,4/8/2020
+6,Vernon,11,4/9/2020
+6,Vernon,13,4/10/2020
+6,Vernon,14,4/11/2020
+6,Vernon,14,4/12/2020
+6,Vernon,14,4/13/2020
+6,Vernon,14,4/14/2020
+6,Vernon,14,4/15/2020
+6,Vernon,14,4/16/2020
+6,Vernon,14,4/17/2020
+6,Vernon,14,4/18/2020
+6,Vernon,14,4/19/2020
+6,Vernon,14,4/20/2020
+6,Vernon,14,4/21/2020
+6,Vernon,14,4/22/2020
+6,Vernon,14,4/23/2020
+6,Vernon,15,4/24/2020
+6,Vernon,16,4/25/2020
+6,Vernon,16,4/26/2020
+6,Vernon,16,4/27/2020
+6,Vernon,16,4/28/2020
+6,Vernon,16,4/29/2020
+6,Vernon,16,4/30/2020
+6,Vernon,16,5/1/2020
+6,Vernon,16,5/2/2020
+6,Vernon,16,5/3/2020
+6,Vernon,16,5/4/2020
+6,Vernon,17,5/5/2020
+6,Vernon,17,5/6/2020
+6,Vernon,17,5/7/2020
+6,Vernon,17,5/8/2020
+6,Vernon,18,5/9/2020
+6,Vernon,18,5/10/2020
+6,Vernon,18,5/11/2020
+6,Vernon,18,5/12/2020
+6,Vernon,19,5/13/2020
+6,Vernon,19,5/14/2020
+6,Vernon,19,5/15/2020
+6,Vernon,20,5/16/2020
+6,Vernon,20,5/17/2020
+6,Vernon,21,5/18/2020
+6,Vernon,21,5/19/2020
+6,Vernon,21,5/20/2020
+6,Vernon,22,5/21/2020
+6,Vernon,23,5/22/2020
+6,Vernon,23,5/23/2020
+6,Vernon,23,5/24/2020
+6,Vernon,24,5/25/2020
+6,Vernon,24,5/26/2020
+6,Vernon,24,5/27/2020
+6,Vernon,25,5/28/2020
+6,Vernon,25,5/30/2020
+6,Vernon,26,5/31/2020
+6,Vernon,26,6/1/2020
+6,Vernon,28,6/2/2020
+6,Vernon,28,6/3/2020
+6,Vernon,29,6/4/2020
+6,Vernon,31,6/5/2020
+6,Vernon,33,6/6/2020
+6,Vernon,34,6/7/2020
+6,Vernon,34,6/8/2020
+6,Vernon,39,6/9/2020
+6,Vernon,39,6/10/2020
+6,Vernon,39,6/11/2020
+6,Vernon,43,6/12/2020
+6,Vernon,51,6/13/2020
+6,Vernon,53,6/14/2020
+6,Vernon,54,6/15/2020
+6,Vernon,58,6/16/2020
+6,Vernon,67,6/17/2020
+9,Washington,,3/14/2020
+9,Washington,,3/15/2020
+9,Washington,,3/16/2020
+9,Washington,,3/17/2020
+9,Washington,1,3/18/2020
+9,Washington,2,3/19/2020
+9,Washington,2,3/20/2020
+9,Washington,2,3/21/2020
+9,Washington,2,3/22/2020
+9,Washington,2,3/23/2020
+9,Washington,3,3/24/2020
+9,Washington,4,3/25/2020
+9,Washington,6,3/26/2020
+9,Washington,8,3/27/2020
+9,Washington,10,3/28/2020
+9,Washington,12,3/29/2020
+9,Washington,22,3/30/2020
+9,Washington,28,3/31/2020
+9,Washington,39,4/1/2020
+9,Washington,50,4/2/2020
+9,Washington,57,4/3/2020
+9,Washington,75,4/4/2020
+9,Washington,81,4/5/2020
+9,Washington,92,4/6/2020
+9,Washington,100,4/7/2020
+9,Washington,106,4/8/2020
+9,Washington,119,4/9/2020
+9,Washington,136,4/10/2020
+9,Washington,142,4/11/2020
+9,Washington,147,4/12/2020
+9,Washington,156,4/13/2020
+9,Washington,162,4/14/2020
+9,Washington,173,4/15/2020
+9,Washington,179,4/16/2020
+9,Washington,184,4/17/2020
+9,Washington,188,4/18/2020
+9,Washington,191,4/19/2020
+9,Washington,195,4/20/2020
+9,Washington,206,4/21/2020
+9,Washington,214,4/22/2020
+9,Washington,225,4/23/2020
+9,Washington,232,4/24/2020
+9,Washington,241,4/25/2020
+9,Washington,245,4/26/2020
+9,Washington,253,4/27/2020
+9,Washington,256,4/28/2020
+9,Washington,261,4/29/2020
+9,Washington,262,4/30/2020
+9,Washington,273,5/1/2020
+9,Washington,282,5/2/2020
+9,Washington,285,5/3/2020
+9,Washington,291,5/4/2020
+9,Washington,292,5/5/2020
+9,Washington,298,5/6/2020
+9,Washington,308,5/7/2020
+9,Washington,312,5/8/2020
+9,Washington,335,5/9/2020
+9,Washington,337,5/10/2020
+9,Washington,342,5/11/2020
+9,Washington,347,5/12/2020
+9,Washington,350,5/13/2020
+9,Washington,356,5/14/2020
+9,Washington,357,5/15/2020
+9,Washington,363,5/16/2020
+9,Washington,365,5/17/2020
+9,Washington,370,5/18/2020
+9,Washington,375,5/19/2020
+9,Washington,376,5/20/2020
+9,Washington,383,5/21/2020
+9,Washington,389,5/22/2020
+9,Washington,389,5/23/2020
+9,Washington,389,5/24/2020
+9,Washington,398,5/25/2020
+9,Washington,400,5/26/2020
+9,Washington,407,5/27/2020
+9,Washington,410,5/28/2020
+9,Washington,419,5/30/2020
+9,Washington,425,5/31/2020
+9,Washington,433,6/1/2020
+9,Washington,437,6/2/2020
+9,Washington,444,6/3/2020
+9,Washington,451,6/4/2020
+9,Washington,457,6/5/2020
+9,Washington,462,6/6/2020
+9,Washington,465,6/7/2020
+9,Washington,478,6/8/2020
+9,Washington,489,6/9/2020
+9,Washington,500,6/10/2020
+9,Washington,509,6/11/2020
+9,Washington,520,6/12/2020
+9,Washington,528,6/13/2020
+9,Washington,532,6/14/2020
+9,Washington,546,6/15/2020
+9,Washington,556,6/16/2020
+9,Washington,560,6/17/2020
+7,Webster,,3/14/2020
+7,Webster,,3/15/2020
+7,Webster,,3/16/2020
+7,Webster,,3/17/2020
+7,Webster,,3/18/2020
+7,Webster,,3/19/2020
+7,Webster,,3/20/2020
+7,Webster,,3/21/2020
+7,Webster,1,3/22/2020
+7,Webster,3,3/23/2020
+7,Webster,3,3/24/2020
+7,Webster,5,3/25/2020
+7,Webster,8,3/26/2020
+7,Webster,9,3/27/2020
+7,Webster,9,3/28/2020
+7,Webster,9,3/29/2020
+7,Webster,11,3/30/2020
+7,Webster,17,3/31/2020
+7,Webster,17,4/1/2020
+7,Webster,19,4/2/2020
+7,Webster,23,4/3/2020
+7,Webster,42,4/4/2020
+7,Webster,49,4/5/2020
+7,Webster,51,4/6/2020
+7,Webster,50,4/7/2020
+7,Webster,51,4/8/2020
+7,Webster,55,4/9/2020
+7,Webster,57,4/10/2020
+7,Webster,60,4/11/2020
+7,Webster,62,4/12/2020
+7,Webster,65,4/13/2020
+7,Webster,65,4/14/2020
+7,Webster,69,4/15/2020
+7,Webster,71,4/16/2020
+7,Webster,74,4/17/2020
+7,Webster,76,4/18/2020
+7,Webster,76,4/19/2020
+7,Webster,78,4/20/2020
+7,Webster,79,4/21/2020
+7,Webster,79,4/22/2020
+7,Webster,81,4/23/2020
+7,Webster,80,4/24/2020
+7,Webster,82,4/25/2020
+7,Webster,83,4/26/2020
+7,Webster,83,4/27/2020
+7,Webster,85,4/28/2020
+7,Webster,85,4/29/2020
+7,Webster,85,4/30/2020
+7,Webster,92,5/1/2020
+7,Webster,92,5/2/2020
+7,Webster,92,5/3/2020
+7,Webster,92,5/4/2020
+7,Webster,95,5/5/2020
+7,Webster,96,5/6/2020
+7,Webster,97,5/7/2020
+7,Webster,97,5/8/2020
+7,Webster,97,5/9/2020
+7,Webster,98,5/10/2020
+7,Webster,100,5/11/2020
+7,Webster,101,5/12/2020
+7,Webster,112,5/13/2020
+7,Webster,112,5/14/2020
+7,Webster,112,5/15/2020
+7,Webster,113,5/16/2020
+7,Webster,113,5/17/2020
+7,Webster,117,5/18/2020
+7,Webster,119,5/19/2020
+7,Webster,119,5/20/2020
+7,Webster,126,5/21/2020
+7,Webster,128,5/22/2020
+7,Webster,128,5/23/2020
+7,Webster,136,5/24/2020
+7,Webster,139,5/25/2020
+7,Webster,139,5/26/2020
+7,Webster,142,5/27/2020
+7,Webster,143,5/28/2020
+7,Webster,147,5/30/2020
+7,Webster,147,5/31/2020
+7,Webster,147,6/1/2020
+7,Webster,157,6/2/2020
+7,Webster,163,6/3/2020
+7,Webster,171,6/4/2020
+7,Webster,175,6/5/2020
+7,Webster,179,6/6/2020
+7,Webster,182,6/7/2020
+7,Webster,185,6/8/2020
+7,Webster,195,6/9/2020
+7,Webster,203,6/10/2020
+7,Webster,204,6/11/2020
+7,Webster,206,6/12/2020
+7,Webster,242,6/13/2020
+7,Webster,244,6/14/2020
+7,Webster,248,6/15/2020
+7,Webster,252,6/16/2020
+7,Webster,331,6/17/2020
+2,West Baton Rouge,,3/14/2020
+2,West Baton Rouge,,3/15/2020
+2,West Baton Rouge,,3/16/2020
+2,West Baton Rouge,,3/17/2020
+2,West Baton Rouge,,3/18/2020
+2,West Baton Rouge,1,3/19/2020
+2,West Baton Rouge,2,3/20/2020
+2,West Baton Rouge,3,3/21/2020
+2,West Baton Rouge,3,3/22/2020
+2,West Baton Rouge,4,3/23/2020
+2,West Baton Rouge,5,3/24/2020
+2,West Baton Rouge,7,3/25/2020
+2,West Baton Rouge,8,3/26/2020
+2,West Baton Rouge,11,3/27/2020
+2,West Baton Rouge,12,3/28/2020
+2,West Baton Rouge,12,3/29/2020
+2,West Baton Rouge,12,3/30/2020
+2,West Baton Rouge,13,3/31/2020
+2,West Baton Rouge,14,4/1/2020
+2,West Baton Rouge,19,4/2/2020
+2,West Baton Rouge,23,4/3/2020
+2,West Baton Rouge,40,4/4/2020
+2,West Baton Rouge,40,4/5/2020
+2,West Baton Rouge,45,4/6/2020
+2,West Baton Rouge,52,4/7/2020
+2,West Baton Rouge,54,4/8/2020
+2,West Baton Rouge,57,4/9/2020
+2,West Baton Rouge,61,4/10/2020
+2,West Baton Rouge,66,4/11/2020
+2,West Baton Rouge,68,4/12/2020
+2,West Baton Rouge,72,4/13/2020
+2,West Baton Rouge,76,4/14/2020
+2,West Baton Rouge,78,4/15/2020
+2,West Baton Rouge,81,4/16/2020
+2,West Baton Rouge,83,4/17/2020
+2,West Baton Rouge,86,4/18/2020
+2,West Baton Rouge,88,4/19/2020
+2,West Baton Rouge,90,4/20/2020
+2,West Baton Rouge,90,4/21/2020
+2,West Baton Rouge,90,4/22/2020
+2,West Baton Rouge,90,4/23/2020
+2,West Baton Rouge,93,4/24/2020
+2,West Baton Rouge,92,4/25/2020
+2,West Baton Rouge,91,4/26/2020
+2,West Baton Rouge,94,4/27/2020
+2,West Baton Rouge,94,4/28/2020
+2,West Baton Rouge,96,4/29/2020
+2,West Baton Rouge,98,4/30/2020
+2,West Baton Rouge,108,5/1/2020
+2,West Baton Rouge,110,5/2/2020
+2,West Baton Rouge,110,5/3/2020
+2,West Baton Rouge,111,5/4/2020
+2,West Baton Rouge,115,5/5/2020
+2,West Baton Rouge,118,5/6/2020
+2,West Baton Rouge,118,5/7/2020
+2,West Baton Rouge,119,5/8/2020
+2,West Baton Rouge,122,5/9/2020
+2,West Baton Rouge,123,5/10/2020
+2,West Baton Rouge,123,5/11/2020
+2,West Baton Rouge,124,5/12/2020
+2,West Baton Rouge,124,5/13/2020
+2,West Baton Rouge,150,5/14/2020
+2,West Baton Rouge,150,5/15/2020
+2,West Baton Rouge,148,5/16/2020
+2,West Baton Rouge,148,5/17/2020
+2,West Baton Rouge,148,5/18/2020
+2,West Baton Rouge,148,5/19/2020
+2,West Baton Rouge,149,5/20/2020
+2,West Baton Rouge,152,5/21/2020
+2,West Baton Rouge,154,5/22/2020
+2,West Baton Rouge,154,5/23/2020
+2,West Baton Rouge,154,5/24/2020
+2,West Baton Rouge,156,5/25/2020
+2,West Baton Rouge,157,5/26/2020
+2,West Baton Rouge,158,5/27/2020
+2,West Baton Rouge,159,5/28/2020
+2,West Baton Rouge,161,5/30/2020
+2,West Baton Rouge,166,5/31/2020
+2,West Baton Rouge,175,6/1/2020
+2,West Baton Rouge,176,6/2/2020
+2,West Baton Rouge,176,6/3/2020
+2,West Baton Rouge,180,6/4/2020
+2,West Baton Rouge,180,6/5/2020
+2,West Baton Rouge,183,6/6/2020
+2,West Baton Rouge,185,6/7/2020
+2,West Baton Rouge,186,6/8/2020
+2,West Baton Rouge,192,6/9/2020
+2,West Baton Rouge,195,6/10/2020
+2,West Baton Rouge,197,6/11/2020
+2,West Baton Rouge,200,6/12/2020
+2,West Baton Rouge,202,6/13/2020
+2,West Baton Rouge,204,6/14/2020
+2,West Baton Rouge,204,6/15/2020
+2,West Baton Rouge,204,6/16/2020
+2,West Baton Rouge,205,6/17/2020
+8,West Carroll,,3/14/2020
+8,West Carroll,,3/15/2020
+8,West Carroll,,3/16/2020
+8,West Carroll,,3/17/2020
+8,West Carroll,,3/18/2020
+8,West Carroll,,3/19/2020
+8,West Carroll,,3/20/2020
+8,West Carroll,,3/21/2020
+8,West Carroll,,3/22/2020
+8,West Carroll,,3/23/2020
+8,West Carroll,,3/24/2020
+8,West Carroll,,3/25/2020
+8,West Carroll,,3/26/2020
+8,West Carroll,,3/27/2020
+8,West Carroll,,3/28/2020
+8,West Carroll,,3/29/2020
+8,West Carroll,,3/30/2020
+8,West Carroll,,3/31/2020
+8,West Carroll,,4/1/2020
+8,West Carroll,,4/2/2020
+8,West Carroll,,4/3/2020
+8,West Carroll,,4/4/2020
+8,West Carroll,,4/5/2020
+8,West Carroll,1,4/6/2020
+8,West Carroll,1,4/7/2020
+8,West Carroll,1,4/8/2020
+8,West Carroll,1,4/9/2020
+8,West Carroll,3,4/10/2020
+8,West Carroll,4,4/11/2020
+8,West Carroll,4,4/12/2020
+8,West Carroll,4,4/13/2020
+8,West Carroll,4,4/14/2020
+8,West Carroll,4,4/15/2020
+8,West Carroll,4,4/16/2020
+8,West Carroll,4,4/17/2020
+8,West Carroll,4,4/18/2020
+8,West Carroll,4,4/19/2020
+8,West Carroll,4,4/20/2020
+8,West Carroll,4,4/21/2020
+8,West Carroll,4,4/22/2020
+8,West Carroll,4,4/23/2020
+8,West Carroll,4,4/24/2020
+8,West Carroll,4,4/25/2020
+8,West Carroll,4,4/26/2020
+8,West Carroll,4,4/27/2020
+8,West Carroll,4,4/28/2020
+8,West Carroll,4,4/29/2020
+8,West Carroll,4,4/30/2020
+8,West Carroll,4,5/1/2020
+8,West Carroll,4,5/2/2020
+8,West Carroll,4,5/3/2020
+8,West Carroll,4,5/4/2020
+8,West Carroll,4,5/5/2020
+8,West Carroll,4,5/6/2020
+8,West Carroll,4,5/7/2020
+8,West Carroll,4,5/8/2020
+8,West Carroll,4,5/9/2020
+8,West Carroll,4,5/10/2020
+8,West Carroll,5,5/11/2020
+8,West Carroll,5,5/12/2020
+8,West Carroll,5,5/13/2020
+8,West Carroll,6,5/14/2020
+8,West Carroll,11,5/15/2020
+8,West Carroll,12,5/16/2020
+8,West Carroll,13,5/17/2020
+8,West Carroll,18,5/18/2020
+8,West Carroll,19,5/19/2020
+8,West Carroll,19,5/20/2020
+8,West Carroll,21,5/21/2020
+8,West Carroll,33,5/22/2020
+8,West Carroll,33,5/23/2020
+8,West Carroll,33,5/24/2020
+8,West Carroll,39,5/25/2020
+8,West Carroll,41,5/26/2020
+8,West Carroll,44,5/27/2020
+8,West Carroll,56,5/28/2020
+8,West Carroll,61,5/30/2020
+8,West Carroll,62,5/31/2020
+8,West Carroll,64,6/1/2020
+8,West Carroll,66,6/2/2020
+8,West Carroll,68,6/3/2020
+8,West Carroll,68,6/4/2020
+8,West Carroll,68,6/5/2020
+8,West Carroll,74,6/6/2020
+8,West Carroll,84,6/7/2020
+8,West Carroll,86,6/8/2020
+8,West Carroll,90,6/9/2020
+8,West Carroll,99,6/10/2020
+8,West Carroll,99,6/11/2020
+8,West Carroll,99,6/12/2020
+8,West Carroll,104,6/13/2020
+8,West Carroll,112,6/14/2020
+8,West Carroll,115,6/15/2020
+8,West Carroll,114,6/16/2020
+8,West Carroll,115,6/17/2020
+2,West Feliciana,,3/14/2020
+2,West Feliciana,,3/15/2020
+2,West Feliciana,,3/16/2020
+2,West Feliciana,,3/17/2020
+2,West Feliciana,,3/18/2020
+2,West Feliciana,,3/19/2020
+2,West Feliciana,,3/20/2020
+2,West Feliciana,,3/21/2020
+2,West Feliciana,,3/22/2020
+2,West Feliciana,,3/23/2020
+2,West Feliciana,,3/24/2020
+2,West Feliciana,,3/25/2020
+2,West Feliciana,,3/26/2020
+2,West Feliciana,1,3/27/2020
+2,West Feliciana,4,3/28/2020
+2,West Feliciana,4,3/29/2020
+2,West Feliciana,4,3/30/2020
+2,West Feliciana,4,3/31/2020
+2,West Feliciana,8,4/1/2020
+2,West Feliciana,10,4/2/2020
+2,West Feliciana,11,4/3/2020
+2,West Feliciana,18,4/4/2020
+2,West Feliciana,19,4/5/2020
+2,West Feliciana,30,4/6/2020
+2,West Feliciana,31,4/7/2020
+2,West Feliciana,32,4/8/2020
+2,West Feliciana,38,4/9/2020
+2,West Feliciana,41,4/10/2020
+2,West Feliciana,45,4/11/2020
+2,West Feliciana,46,4/12/2020
+2,West Feliciana,46,4/13/2020
+2,West Feliciana,46,4/14/2020
+2,West Feliciana,47,4/15/2020
+2,West Feliciana,55,4/16/2020
+2,West Feliciana,60,4/17/2020
+2,West Feliciana,74,4/18/2020
+2,West Feliciana,74,4/19/2020
+2,West Feliciana,78,4/20/2020
+2,West Feliciana,81,4/21/2020
+2,West Feliciana,82,4/22/2020
+2,West Feliciana,84,4/23/2020
+2,West Feliciana,89,4/24/2020
+2,West Feliciana,97,4/25/2020
+2,West Feliciana,103,4/26/2020
+2,West Feliciana,104,4/27/2020
+2,West Feliciana,109,4/28/2020
+2,West Feliciana,111,4/29/2020
+2,West Feliciana,115,4/30/2020
+2,West Feliciana,129,5/1/2020
+2,West Feliciana,142,5/2/2020
+2,West Feliciana,149,5/3/2020
+2,West Feliciana,153,5/4/2020
+2,West Feliciana,156,5/5/2020
+2,West Feliciana,158,5/6/2020
+2,West Feliciana,174,5/7/2020
+2,West Feliciana,176,5/8/2020
+2,West Feliciana,183,5/9/2020
+2,West Feliciana,184,5/10/2020
+2,West Feliciana,184,5/11/2020
+2,West Feliciana,186,5/12/2020
+2,West Feliciana,187,5/13/2020
+2,West Feliciana,181,5/14/2020
+2,West Feliciana,184,5/15/2020
+2,West Feliciana,184,5/16/2020
+2,West Feliciana,186,5/17/2020
+2,West Feliciana,188,5/18/2020
+2,West Feliciana,190,5/19/2020
+2,West Feliciana,192,5/20/2020
+2,West Feliciana,193,5/21/2020
+2,West Feliciana,194,5/22/2020
+2,West Feliciana,195,5/23/2020
+2,West Feliciana,196,5/24/2020
+2,West Feliciana,200,5/25/2020
+2,West Feliciana,205,5/26/2020
+2,West Feliciana,205,5/27/2020
+2,West Feliciana,205,5/28/2020
+2,West Feliciana,208,5/30/2020
+2,West Feliciana,209,5/31/2020
+2,West Feliciana,211,6/1/2020
+2,West Feliciana,212,6/2/2020
+2,West Feliciana,215,6/3/2020
+2,West Feliciana,216,6/4/2020
+2,West Feliciana,220,6/5/2020
+2,West Feliciana,220,6/6/2020
+2,West Feliciana,222,6/7/2020
+2,West Feliciana,222,6/8/2020
+2,West Feliciana,224,6/9/2020
+2,West Feliciana,225,6/10/2020
+2,West Feliciana,225,6/11/2020
+2,West Feliciana,226,6/12/2020
+2,West Feliciana,229,6/13/2020
+2,West Feliciana,231,6/14/2020
+2,West Feliciana,231,6/15/2020
+2,West Feliciana,234,6/16/2020
+2,West Feliciana,239,6/17/2020
+6,Winn,,3/14/2020
+6,Winn,,3/15/2020
+6,Winn,,3/16/2020
+6,Winn,,3/17/2020
+6,Winn,,3/18/2020
+6,Winn,,3/19/2020
+6,Winn,,3/20/2020
+6,Winn,,3/21/2020
+6,Winn,,3/22/2020
+6,Winn,,3/23/2020
+6,Winn,,3/24/2020
+6,Winn,1,3/25/2020
+6,Winn,1,3/26/2020
+6,Winn,1,3/27/2020
+6,Winn,1,3/28/2020
+6,Winn,1,3/29/2020
+6,Winn,1,3/30/2020
+6,Winn,1,3/31/2020
+6,Winn,1,4/1/2020
+6,Winn,2,4/2/2020
+6,Winn,2,4/3/2020
+6,Winn,2,4/4/2020
+6,Winn,2,4/5/2020
+6,Winn,2,4/6/2020
+6,Winn,3,4/7/2020
+6,Winn,5,4/8/2020
+6,Winn,7,4/9/2020
+6,Winn,8,4/10/2020
+6,Winn,9,4/11/2020
+6,Winn,12,4/12/2020
+6,Winn,12,4/13/2020
+6,Winn,12,4/14/2020
+6,Winn,12,4/15/2020
+6,Winn,17,4/16/2020
+6,Winn,16,4/17/2020
+6,Winn,16,4/18/2020
+6,Winn,19,4/19/2020
+6,Winn,19,4/20/2020
+6,Winn,19,4/21/2020
+6,Winn,19,4/22/2020
+6,Winn,19,4/23/2020
+6,Winn,20,4/24/2020
+6,Winn,20,4/25/2020
+6,Winn,20,4/26/2020
+6,Winn,22,4/27/2020
+6,Winn,26,4/28/2020
+6,Winn,32,4/29/2020
+6,Winn,32,4/30/2020
+6,Winn,38,5/1/2020
+6,Winn,41,5/2/2020
+6,Winn,42,5/3/2020
+6,Winn,44,5/4/2020
+6,Winn,46,5/5/2020
+6,Winn,47,5/6/2020
+6,Winn,48,5/7/2020
+6,Winn,49,5/8/2020
+6,Winn,51,5/9/2020
+6,Winn,52,5/10/2020
+6,Winn,52,5/11/2020
+6,Winn,54,5/12/2020
+6,Winn,64,5/13/2020
+6,Winn,66,5/14/2020
+6,Winn,76,5/15/2020
+6,Winn,80,5/16/2020
+6,Winn,84,5/17/2020
+6,Winn,89,5/18/2020
+6,Winn,90,5/19/2020
+6,Winn,90,5/20/2020
+6,Winn,100,5/21/2020
+6,Winn,112,5/22/2020
+6,Winn,112,5/23/2020
+6,Winn,112,5/24/2020
+6,Winn,126,5/25/2020
+6,Winn,145,5/26/2020
+6,Winn,150,5/27/2020
+6,Winn,153,5/28/2020
+6,Winn,163,5/30/2020
+6,Winn,164,5/31/2020
+6,Winn,173,6/1/2020
+6,Winn,174,6/2/2020
+6,Winn,178,6/3/2020
+6,Winn,178,6/4/2020
+6,Winn,182,6/5/2020
+6,Winn,183,6/6/2020
+6,Winn,186,6/7/2020
+6,Winn,187,6/8/2020
+6,Winn,190,6/9/2020
+6,Winn,194,6/10/2020
+6,Winn,195,6/11/2020
+6,Winn,197,6/12/2020
+6,Winn,211,6/13/2020
+6,Winn,212,6/14/2020
+6,Winn,214,6/15/2020
+6,Winn,215,6/16/2020
+6,Winn,215,6/17/2020
